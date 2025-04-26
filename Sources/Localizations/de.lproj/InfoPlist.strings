@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  supernova
+
+  Created by Sergey Z on 27.09.22.
+  
+*/
+
+NSUserTrackingUsageDescription = "benötigt Ihre Werbekennung, um ein personalisiertes, auf Sie zugeschnittenes Werbeerlebnis bereitzustellen";
+NSLocationWhenInUseUsageDescription = "needs your location for analytics and advertising purposes";
+NSCalendarsUsageDescription = "needs your calendar to provide personalised advertising experience tailored to you";
+quickAction.title.deletion = "Something wrong?";
+quickAction.subtitle.deletion = "Please leave us feedback before app deletion";

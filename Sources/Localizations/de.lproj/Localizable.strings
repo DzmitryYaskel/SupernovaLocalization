@@ -1,0 +1,2252 @@
+/*
+  Localizable.strings
+  supernova
+
+  Created by Sergey Z on 14.09.22.
+  
+*/
+
+// MARK: - general
+
+"general.title.ad" = "AD";
+"general.ok" = "OK";
+"general.level" = "Level";
+
+"general.button.start" = "STARTEN";
+"general.button.next" = "WEITER";
+"general.button.restart" = "NEUSTART";
+"general.button.unlock" = "freischalten";
+"general.button.retry" = "ERNEUT VERSUCHEN";
+"general.button.got_it" = "VERSTANDEN";
+"general.button.get_it" = "ERHALTEN";
+"general.button.yes" = "Ja";
+"general.button.no" = "Nein";
+"general.button.continue" = "WEITER";
+"general.button.submit" = "ABSENDEN";
+
+
+// MARK: advertisement
+
+"advertisement.banner.keep_your_brain_sharp" = "Halte deinen Geist scharf";
+
+
+// MARK: - tab_bar
+
+"tab_bar.item.today.title" = "Heute";
+"tab_bar.item.games.title" = "Spiele";
+"tab_bar.item.brain.title" = "Gehirn";
+"tab_bar.item.tests.title" = "Tests";
+
+
+//MARK: - dialogs
+
+"dialogs.email_to_discount.title" = "Lebenszeit erhalten";
+"dialogs.email_to_discount.title.substring" = "Lebenszeit";
+"dialogs.email_to_discount.title2" = "Kostenloses Abo";
+"dialogs.email_to_discount.title2.substring" = "Kostenloses";
+"dialogs.email_to_discount.submit.button" = "absenden, um Angebot anzufordern";
+"dialogs.email_to_discount.submit.list.leave_your_email" = "E-Mail angeben";
+"dialogs.email_to_discount.submit.list.get_lifetime" = "KOSTENLOSER Zugang auf Lebenszeit";
+"dialogs.email_to_discount.submit.list.tell_us" = "Erzähl uns von deiner App-Erfahrung";
+"dialogs.email_to_discount.submit.email" = "example@email.com";
+"dialogs.email_to_discount.submit.email.error" = "Achte bitte auf die korrekte Angabe deiner E-Mail";
+"dialogs.email_to_discount.thanks.title" = "Danke! Wir melden uns \nbald bei dir";
+"dialogs.email_to_discount.thanks.description" = "Du erhältst eine E-Mail mit weiteren Details";
+"dialogs.email_to_discount.your_discount" = "Dein Rabatt";
+
+
+// MARK: - games
+
+"games.result.button.next_step" = "NÄCHSTER SCHRITT";
+"games.result.button.next_game" = "NÄCHSTES SPIEL";
+"games.result.button.next_level" = "NÄCHSTES LEVEL";
+"games.result.button.play_again" = "ERNEUT SPIELEN";
+"games.result.button.leave_feedback" = "KOMMENTAR";
+"games.result.leave_feedback" = "Danke! Wir würden gerne\nIhre Meinung hören";
+"games.result.amazing" = "Toll!";
+"games.result.levels_coming_soon" = "Neue spannende Level kommen bald ...";
+"games.result.step" = "Schritt";
+"games.result.finish" = "FERTIG";
+"games.result.correct_answers" = "Richtige\nAntworten";
+"games.result.incorrect_answers" = "Falsche\nAntworten";
+"games.result.did_you_like_game" = "Wie hat Ihnen das Spiel gefallen?";
+"games.result.rate_this_game" = "Dieses Spiel bewerten?";
+"games.result.thanks_for_feedback" = "Vielen Dank für Ihre Rückmeldung!";
+"games.result.next_game" = "NÄCHSTES SPIEL (%d/%d)";
+
+"games.button.play" = "SPIELEN";
+"games.button.replay" = "NEUSTARTEN";
+"games.button.how_to_play" = "SPIELTIPPS";
+"games.button.resume" = "FORTFAHREN";
+"games.button.exit_to_home" = "ZUR STARTSEITE";
+
+"games.answer.great" = "Toll";
+"games.answer.wrong" = "Falsch!";
+
+"games.levels.locked" = "gesperrt";
+"games.levels.passed" = "bestanden";
+"games.levels.current" = "aktuell";
+
+"games.coming_soon.back_to_games" = "ZURÜCK ZU DEN SPIELEN";
+"games.coming_soon.coming_soon_dots" = "BALD VERFÜGBAR ...";
+
+"games.navigation.tap_to_skip" = "Überspringen";
+"games.trial" = "Versuch";
+"games.workout" = "Training";
+
+"games.level_complexity.name_0" = "Tutorial";
+"games.level_complexity.name_1" = "Anfänger";
+"games.level_complexity.name_2" = "Neuling";
+"games.level_complexity.name_3" = "Lernender";
+"games.level_complexity.name_4" = "Geübt";
+"games.level_complexity.name_5" = "Geschickt";
+"games.level_complexity.name_6" = "Sensei";
+"games.level_complexity.name_7" = "Professor";
+"games.level_complexity.name_8" = "Meister";
+"games.level_complexity.name_9" = "Großmeister";
+"games.level_complexity.name_10" = "Götterhaft";
+
+
+// MARK: - settings
+
+"settings.feedback.clever_support" = "Clever kundensupport";
+"settings.title" = "Einstellungen";
+"settings.rate_us" = "Bewerten Sie uns";
+"settings.ads_personalize" = "Werbung anpassen";
+"settings.support" = "Kundensupport";
+"settings.manage_subscription" = "Abonnement verwalten";
+"settings.cancel_subscription" = "Abonnement kündigen";
+"settings.follow_us" = "Folgen Sie uns in den sozialen Medien.";
+"settings.choose_app_icon" = "App-Symbol auswählen";
+"settings.change_language" = "Sprache ändern";
+
+"settings.manage_subscription.action_alert.title" = "Möchten Sie Ihr Abonnement wirklich kündigen?";
+"settings.manage_subscription.action_alert.message" = "Sie haben keinen Zugriff mehr auf die Premiumfunktionen";
+"settings.manage_subscription.action_alert.unsubscribe" = "Kündigen";
+"settings.manage_subscription.action_alert.cancel" = "Zurück";
+
+"settings.manage_subscription.result.success_alert.title" = "Ihr Abonnement wurde erfolgreich gekündigt";
+"settings.manage_subscription.result.failed_alert.title" = "Kündigung fehlgeschlagen";
+"settings.manage_subscription.result.failed_alert.message" = "Etwas ist schiefgelaufen. Bitte versuchen Sie es später noch einmal";
+
+"settings.manage_subscription.popup.title" = "Premium-Abonnement ist aktiv 🌟";
+"settings.manage_subscription.popup.subTitle" = "Clever: Hirntraining für logischeres Denken";
+"settings.manage_subscription.popup.description" = "Lustige IQ-Spiele zum Ausbau von Denkvermögen und Gedächtnis";
+
+"settings.music.music" = "Spielemusik";
+"settings.music.sound" = "Spielsounds";
+
+
+// MARK: - alert
+
+"alert.something_wrong_try_again" = "Leider ist etwas schief gelaufen. Bitte versuche es später.";
+"alert.no_internet.title" = "Kein Internet";
+"alert.no_internet.message" = "Leider gibt es Probleme mit der Internetverbindung. Bitte versuche es später.";
+
+
+// MARK: - onboarding
+
+"onboarding.age.range.under13" = "Unter 13";
+"onboarding.age.range.from13to17" = "13-17";
+"onboarding.age.range.from18to24" = "18-24";
+"onboarding.age.range.from25to34" = "25-34";
+"onboarding.age.range.from35to44" = "35-44";
+"onboarding.age.range.from45to60" = "45-60";
+"onboarding.age.range.over60" = "Über 60";
+
+"onboarding.age.description.under13" = "Denksport hilft, sich Dinge besser zu merken und besser in Mathe wie in der Schule allgemein zu werden";
+"onboarding.age.description.from13to17" = "Dein Gehirn entwickelt sich in diesem Alter schnell. Deshalb ist jetzt der perfekte Zeitpunkt, sich mit geistig anspruchsvollen Aufgaben zu beschäftigen";
+"onboarding.age.description.from18to24" = "Du bist auf dem Höhepunkt deiner kognitiven Fähigkeiten. Der ideale Zeitpunkt als, um dein Gehirn für lebenslange Gewinne zu trainieren";
+"onboarding.age.description.from25to34" = "In diesem Alter kann es stressig sein, Arbeit und Privatleben unter einen Hut zu bringen, aber ein scharfer Verstand hilft dir, damit besser umzugehen";
+"onboarding.age.description.from35to44" = "Viele Menschen in dieser Altersgruppe probieren neue Hobbys oder Berufe aus. Wenn du dein Gehirn aktiv hältst, kannst du dich besser anpassen und effektiver lernen";
+"onboarding.age.description.from45to60" = "Ab Mitte 40 können die Gehirnfunktionen langsam nachlassen, aber Denksport hilft, die Denkfähigkeit aufrechtzuerhalten";
+"onboarding.age.description.over60" = "Regelmäßige Denksportaufgaben können das Risiko eines altersbedingten Leistungsabfalls, wie Gedächtnisverlust oder Konzentrationsschwierigkeiten, verringern";
+
+"onboarding.button.maybe_later" = "VIELLEICHT SPÄTER";
+"onboarding.button.i_dont_know" = "I DON’T KNOW";
+"onboarding.button.like_it_all" = "Mir gefällt alles";
+"onboarding.button.skip" = "ÜBERSPRINGEN";
+
+"onboarding.gender.male" = "Männlich";
+"onboarding.gender.female" = "Weiblich";
+"onboarding.gender.other" = "Anderes";
+
+"onboarding.rating.title.bad" = "Schlecht";
+"onboarding.rating.title.so_so" = "Geht so";
+"onboarding.rating.title.average" = "Durchschnittlich";
+"onboarding.rating.title.good" = "Gut";
+"onboarding.rating.title.excellent" = "Hervorragend";
+
+"onboarding.interests.music" = "Musik";
+"onboarding.interests.memory" = "Gedächtnis";
+"onboarding.interests.math" = "Mathematik";
+"onboarding.interests.logic" = "Logik";
+"onboarding.interests.focus" = "Fokus";
+"onboarding.interests.art" = "Art";
+"onboarding.interests.problem_solving" = "Probleme lösen";
+"onboarding.interests.other" = "Other";
+"onboarding.interests.language" = "Sprache";
+
+"onboarding.interests.question.memory" = "Möchten Sie Ihr Gedächtnis trainieren?";
+"onboarding.interests.question.language" = "Möchten Sie Ihre sprachlichen Fähigkeiten verbessern?";
+"onboarding.interests.question.problem_solving" = "Möchten Sie Ihre Problemlösungskompetenz verbessern?";
+"onboarding.interests.question.focus" = "Möchten Sie Ihre Konzentration steigern?";
+"onboarding.interests.question.math" = "Möchten Sie besser in Mathe werden?";
+
+"onboarding.interests.title.memory" = "Lernen Sie dazu, indem Sie Ihr Gedächtnis sowie Ihre Konzentrationsfähigkeit trainieren";
+"onboarding.interests.title.memory.sub_1" = "Gedächtnis";
+"onboarding.interests.title.memory.sub_2" = "Konzentrationsfähigkeit trainieren";
+"onboarding.interests.title.language" = "Ihre Gedanken besser in Wort und Schrift ausdrücken";
+"onboarding.interests.title.language.sub_1" = "Wort";
+"onboarding.interests.title.language.sub_2" = "Schrift ausdrücken";
+"onboarding.interests.title.problem_solving" = "Erreichen Sie Ihre Karriereziele durch effektive Planung und flexibles Denken";
+"onboarding.interests.title.problem_solving.sub_1" = "Planung";
+"onboarding.interests.title.problem_solving.sub_2" = "flexibles Denken";
+"onboarding.interests.title.focus" = "Bewältigen Sie Ihre täglichen Aufgaben durch Multi-Tasking und selektiver Aufmerksamkeit";
+"onboarding.interests.title.focus.sub_1" = "Multi-Tasking";
+"onboarding.interests.title.focus.sub_2" = "selektiver Aufmerksamkeit";
+"onboarding.interests.title.math" = "Treffen Sie durch Kopfrechnen und die bildliche Darstellung von Informationen schnelle und präzise Entscheidungen treffen.";
+"onboarding.interests.title.math.sub_1" = "Kopfrechnen";
+"onboarding.interests.title.math.sub_2" = "bildliche Darstellung";
+
+"onboarding.iq.below70" = "Unter 70";
+"onboarding.iq.from70to89" = "IQ = 70-89";
+"onboarding.iq.from90to130" = "IQ = 90-130";
+"onboarding.iq.from130" = "IQ > 130";
+
+"onboarding.goals.brain_fitness" = "Gehirntraining";
+"onboarding.goals.self_development" = "Selbstentwicklung";
+"onboarding.goals.test_skills" = "Meinen IQ und meine Skills testen";
+"onboarding.goals.relax" = "Spaß und Entspannung";
+"onboarding.goals.other" = "Sonstiges";
+
+"onboarding.goals.brain_fitness.description" = "Die Forschung zeigt, dass geistiges Training die kognitiven Funktionen verbessert und bei der Ausführung der alltäglichen Aufgaben hilft";
+"onboarding.goals.test_skills.description" = "Die Wissenschaft verwendet verschiedene Tests, um Fähigkeiten wie Gedächtnis, Konzentration, logisches Denken und Ähnliches zu messen";
+"onboarding.goals.relax.description" = "Es ist wissenschaftlich erwiesen, dass Spiele helfen können, Stress abzubauen und die Konzentration zu fördern";
+
+"onboarding.title.gender" = "Wählen Sie Ihr Geschlecht";
+"onboarding.title.age" = "Wählen Sie Ihr Alter";
+"onboarding.title.interested_areas_v2" = "In welchen Bereichen möchten Sie sich verbessern?";
+"onboarding.title.primary_goal" = "Wie lautet Ihr primäres Ziel?";
+
+"onboarding.subtitle.gender" = "Dies wird uns helfen, Ihren Trainingsplan zu personalisieren";
+
+"onboarding.games_tuning.message.setting_up_games" = "Spiele werden basierend auf deinen Antworten eingerichtet...";
+"onboarding.games_tuning.message.dont_worry" = "Keine Sorge, du hast weiterhin Zugriff auf die gesamte Auswahl an Aktivitäten.";
+"onboarding.games_tuning.question.memory" = "Wie gut ist dein Gedächtnis?";
+"onboarding.games_tuning.question.logic" = "Wie löst du logische Probleme?";
+"onboarding.games_tuning.question.problem_solving" = "Magst du neue Herausforderungen?";
+"onboarding.games_tuning.button.skip" = "Überspr.";
+
+"onboarding.welcome.message.challenges" = "Spaßige Herausforderungen\nfür dein Gehirn";
+"onboarding.welcome.message.brain_parts" = "Kleine Spiele\nfür alle Gehirnregionen";
+"onboarding.welcome.message.neuroplasticity" = "Steigere deine\nNeuroplastizität";
+"onboarding.welcome.message.challenges_steps" = "Stellen Sie Ihr Denkvermögen unter Beweis";
+"onboarding.welcome.message.brain_parts_steps" = "Spielen Sie kleine Spiele";
+"onboarding.welcome.message.neuroplasticity_steps" = "Und verbesseren Sie Ihr Denkvermögen";
+"onboarding.welcome.message.games" = "Spielen Sie kleine Spiele";
+"onboarding.welcome.message.skills" = "Und verbesseren Sie Ihr\n Denkvermögen";
+"onboarding.welcome.message.brain_training" = "Herzlich willkommen bei Clever, Ihrer Gehirntrainings-App!";
+"onboarding.welcome.message.track_progress" = "Verfolgen Sie Ihren Fortschritt";
+"onboarding.welcome.message.science" = "Wissenschaftlich fundierte Spiele";
+
+"onboarding.welcome.challenges.focus" = "Fokus";
+"onboarding.welcome.challenges.language" = "Sprache";
+"onboarding.welcome.challenges.memory" = "Gedächtnis";
+"onboarding.welcome.challenges.math" = "Mathematik";
+"onboarding.welcome.challenges.problem_solving" = "Problemlösung";
+"onboarding.welcome.challenges.logic" = "Logik";
+
+"onboarding.welcome.brain_training.text.keep_your" = "Bleiben Sie";
+"onboarding.welcome.brain_training.text.enhance_your" = "Verbesseren Sie Ihr";
+"onboarding.welcome.brain_training.text.have_fun" = "Haben Sie Spaß &";
+
+"onboarding.welcome.brain_training.sub_text.keep_your" = "Geistig Aktiv";
+"onboarding.welcome.brain_training.sub_text.enhance_your" = "Denkvermögen";
+"onboarding.welcome.brain_training.sub_text.have_fun" = "Entspannen Sie sich";
+
+"onboarding.thanks.title.subscribers" = "1,2 Mio. Abonnenten";
+"onboarding.thanks.message.enjoy_unlimited_access" = "Genieße unbegrenzten Zugang zu vielfältigen Spielen mit persönlichen Statistiken und täglichen Workouts";
+"onboarding.thanks.message.substring.unlimited" = "unbegrenzt";
+"onboarding.thanks.message.substring.personal_statistics" = "persönliche Statistiken";
+"onboarding.thanks.message.substring.daily_workouts" = "tägliche Workouts";
+"onboarding.thanks.button.get_access" = "ZUGANG ERHALTEN";
+
+"onboarding.thanks.title.start_games" = "Beginne mit 3 Spielen";
+"onboarding.thanks.message.brain_challenge" = "Auf Basis deiner Antworten haben wir\ntägliche Denkaufgaben vorbereitet";
+
+
+// MARK: - subscriptions_general
+
+"subscriptions.general.trial_enabled" = "Testversion deaktiviert";
+"subscriptions.general.trial_disabled" = "Testversion aktiviert";
+"subscriptions.general.cancel_anytime" = "Keine Sorge, kündigen jederzeit";
+"subscriptions.general.days_free_trial" = "Kostenlosen Testtag";
+"subscriptions.general.days_free_trial_new_line" = "%d Tage\nKonstenloses Testen";
+"subscriptions.general.first_days_free" = "Erste %d Tage KOSTENLOS";
+"subscriptions.general.save" = "Speichern";
+"subscriptions.general.then" = "Dann";
+"subscriptions.general.first" = "Erste";
+"subscriptions.general.per" = "pro";
+"subscriptions.general.paid" = "bezahlt";
+"subscriptions.general.every" = "jede-n-s";
+"subscriptions.general.one_time_payment" = "Einmalzahlung";
+"subscriptions.general.free_trial" = "KOSTENLOS TESTEN";
+
+"subscriptions.general.list_usp.keep_your_brain_sharp" = "Bleiben Sie\nGeistig Aktiv";
+"subscriptions.general.your_gift" = "Dein Geschenk";
+"subscriptions.general.alert.no_active" = "Du scheinst leider keinen aktiven Premium-Plan zu haben.";
+"subscriptions.general.billed_price" = "%@, abgerechnet %@";
+"subscriptions.general.discountWeeklyPrice" = "Nur %@ pro Woche";
+"subscriptions.general.no_limit_brain_training" = "UNBEGRENZTES GEHIRNTRAINING";
+"subscriptions.general.try_for_free" = "Kostenlos testen";
+"subscriptions.general.best_choice" = "Beste Wahl";
+"subscriptions.general.one_time" = "einmal";
+"subscriptions.general.start_your" = "Starte deinen";
+"subscriptions.general.day_free_trial" = "kostenlosen Testtag";
+"subscriptions.general.get_my_reward" = "Belohnung einlösen";
+"subscriptions.general.continue" = "WEITER";
+"subscriptions.general.privacy_policy" = "Datenschutzrichtlinie";
+"subscriptions.general.terms_of_use" = "Nutzungsbedingungen";
+
+"subscription.general.button.restore" = "Reaktivieren";
+"subscription.general.button.start_to_play" = "ZU SPIELEN BEGINNEN";
+"subscription.general.button.try_free_unlock" = "Kostenlos testen und entsperren";
+"subscription.general.button.get_the_offer" = "angebot sichern";
+
+"subscriptions.general.day" = "Tag";
+"subscriptions.general.week" = "Woche";
+"subscriptions.general.month" = "Monat";
+"subscriptions.general.year" = "Jahr";
+
+"subscriptions.general.days" = "Tage";
+"subscriptions.general.weeks" = "Wochen";
+"subscriptions.general.months" = "Monate";
+"subscriptions.general.years" = "Jahre";
+
+"subscriptions.general.daily" = "täglich";
+"subscriptions.general.weekly" = "wöchentlich";
+"subscriptions.general.monthly" = "monatlich";
+"subscriptions.general.yearly" = "jährlich";
+"subscriptions.general.lifetime" = "auf Lebenszeit";
+
+
+// MARK: - subscription
+
+"subscription.games_slider.no_payment_now" = "Aktuell keine Zahlung";
+"subscription.games_slider.cancel_anytime_short" = "Jederzeit kündbar";
+"subscription.games_slider.per_week" = "pro Woche";
+"subscription.games_slider.most_popular" = "Am Beliebtesten";
+"subscription.games_slider.game_improves" = "Spiel verbessert";
+
+"subscription.avatar_skin.paid_annually" = "im Jahr";
+"subscription.avatar_skin.pick_your_plan" = "Wählen Sie Ihren Gehirntrainings-Plan";
+"subscription.avatar_skin.button.discount" = "Erhalten Sie %@%% Rabatt";
+
+"subscription.avatar_skin.black_friday" = "black friday angebot";
+"subscription.onboardingV5.title" = "Wählen Sie Ihren Gehirntrainings-Plan";
+"subscription.onboardingV5.description" = ">35 wissenschaftlich fundierte Spiele, detaillierte Statistiken und tägliche Trainingseinheiten";
+
+"subscription.trial_instruction.then_only" = "Dann nur";
+"subscription.trial_instruction.how_trial_works" = "So funktioniert Ihre KOSTENLOSE Testversion";
+
+"subscription.game_usp.no_ads" = "Werbefrei";
+"subscription.game_usp.all_games_free" = "Alle Spiele KOSTENLOS";
+"subscription.game_usp.premium_workouts" = "Premium-Trainings";
+"subscription.game_usp.play_with_ads" = "MIT WERBUNG SPIELEN";
+"subscription.game_usp.banner.gametype_0" = "Gedächtnis stärken";
+"subscription.game_usp.banner.gametype_1" = "Mathe trainieren";
+"subscription.game_usp.banner.gametype_3" = "Gehör & Rhythmus";
+
+"subscription.holder.title_0" = "App installieren";
+"subscription.holder.subtitle_0" = "Sie haben Ihr Profil erfolgreich erstellt";
+"subscription.holder.title_1" = "Heute: Erhalten Sie sofortigen Zugriff";
+"subscription.holder.subtitle_1" = "Logik-, Gedächtnis-, Mathematik- und Musikspiele";
+"subscription.holder.title_2" = "Tag 2: Erinnerung an die Testversion";
+"subscription.holder.subtitle_2" = "Wir senden Ihnen eine Benachrichtigung. Die Testversion kann jederzeit in nur 15 Sekunden abgebrochen werden.";
+"subscription.holder.title_3" = "Tag 3: Testversion endet";
+"subscription.holder.subtitle_3" = "Ihr Abonnement beginnt am Folgetag.";
+
+"subscription.feature.enjoy" = "Genieße unbegrenzten Zugang\nohne WERBUNG";
+"subscription.feature.enjoy.substring" = "ohne WERBUNG";
+"subscription.feature.boostSkills" = "Steigere deine Denkfähigkeit\nmit über 35 Spielen zum Gehirntraining";
+"subscription.feature.boostSkills.substring" = "Mehr als 35 Spiele zum Gehirntraining";
+"subscription.feature.staySharp" = "Trainiere deinen Verstand mit regelmäßig\nneuen Spielen";
+"subscription.feature.staySharp.substring" = "neue Spiele";
+
+"subscription.feature.brainTrainingGames" = "Mehr als 35 Spiele zum Gehirntraining";
+"subscription.feature.brainTrainingGames.substring" = "Mehr als 35";
+"subscription.feature.mentalIQTests" = "Denksport und IQ-Tests";
+"subscription.feature.mentalIQTests.substring" = "IQ";
+"subscription.feature.brainDailyWorkouts" = "Tägliches Gehirntraining nach Maß";
+"subscription.feature.brainDailyWorkouts.substring" = "nach Maß";
+"subscription.feature.unlimitedAccess" = "Unbegrenzter Zugang ohne WERBUNG";
+"subscription.feature.unlimitedAccess.substring" = "ohne WERBUNG";
+
+"subscription.usp_2_products.brainTraining" = ">35 Denkspiele";
+"subscription.usp_2_products.brainTraining.substring" = ">35";
+"subscription.usp_2_products.unlimitedAccess" = "Ohne WERBUNG";
+"subscription.usp_2_products.personalStatistics" = "Persönliche Erfolgsstatistiken";
+"subscription.usp_2_products.personalStatistics.substring" = "Persönlich";
+"subscription.usp_2_products.dailyTraining" = "Tägliche Trainingsprogramme";
+
+"subscription.limited_time_offer.subscribe" = "SONDERANGEBOT ERHALTEN";
+"subscription.limited_time_offer.main_title" = "LIMITIERTES ANGEBOT";
+"subscription.limited_time_offer.main_subtitle" = "KEINE WERBUNG. VOLLER ZUGANG";
+"subscription.limited_time_offer.billed_yearly" = "jährliche Abrechnung";
+"subscription.limited_time_offer.per_week" = "pro Woche";
+
+"subscription.usp_2_products.v2p0.brainTraining" = ">35 Denkspiele";
+"subscription.usp_2_products.v2p0.brainTraining.substring" = ">35";
+"subscription.usp_2_products.v2p0.brainTraining.description" = "Fördere deinen Verstand mit Spaß";
+"subscription.usp_2_products.v2p0.unlimitedAccess" = "Ohne WERBUNG";
+"subscription.usp_2_products.v2p0.unlimitedAccess.substring" = "WERBUNG";
+"subscription.usp_2_products.v2p0.unlimitedAccess.description" = "Trainiere ohne Unterbrechungen";
+"subscription.usp_2_products.v2p0.personalStatistics" = "Persönliche Erfolgsstatistiken";
+"subscription.usp_2_products.v2p0.personalStatistics.substring" = "Erfolgsstatistiken";
+"subscription.usp_2_products.v2p0.personalStatistics.description" = "Finde Bereiche zum Ausbauen und Verbessern";
+"subscription.usp_2_products.v2p0.dailyTraining" = "Tägliche Trainingsprogramme";
+"subscription.usp_2_products.v2p0.dailyTraining.substring" = "Trainingsprogramme";
+"subscription.usp_2_products.v2p0.dailyTraining.description" = "Bewältige alltägliche Aufgaben ganz leicht";
+"subscription.usp_2_products.v2p0.topScore" = "Bestpunktzahl";
+
+"subscription.tests_result.title" = "Testergebnisse abrufen";
+"subscription.tests_result.subscribe" = "GANZEN BERICHT FREISCHALTEN";
+
+"subscription.two_products_reviews.v1p0.title" = "Freischalten Sie Ihren Trainingsplan";
+
+// MARK: - brain
+
+"brain.improve" = "VERBESSERN";
+"brain.create" = "ERSTELLEN";
+"brain.title" = "Gehirn";
+
+"brain.progress.xp" = "XP";
+"brain.progress.lv" = "Lv.";
+"brain.progress.memory" = "Gedächtnis";
+"brain.progress.logic" = "Logik";
+"brain.progress.math" = "Mathe";
+"brain.progress.music" = "Musik";
+"brain.progress.title" = "Denkfähigkeiten";
+"brain.progress.sub_title" = "Fortschrittsdiagramm nach Kategorie";
+
+"brain.neural_connections.create" = "Schaffen Sie neuronale Verbindungen, indem Sie neue Spiele spielen. Schaffen Sie so neue Fähigkeiten, die Sie noch weiter verbessern werden können.";
+"brain.neural_connections.abilities" = "Neuronale Verbindungen (Fähigkeiten)";
+
+"brain.map.title" = "Gehirnkarte";
+"brain.map.sub_title" = "Ein Diagramm, das Ihre Leistung in den einzelnen Kategorien zeigt.";
+
+"brain.neuroplasticity.title" = "Neuroplastizität";
+"brain.neuroplasticity.sub_title" = "Die Spiele helfen Ihnen, Ihre Gehirnindikatoren aufzufüllen und Ihre Neuroplastizität zu erhöhen, indem schneller und einfacher neue neuronale Verbindungen (Fähigkeiten) geschaffen werden.";
+
+"brain.game_neuron_purpose_1" = "Parallelverarbeitung";
+"brain.game_neuron_purpose_2" = "Bewertungsfähigkeiten";
+"brain.game_neuron_purpose_3" = "Rhythmusgefühl";
+"brain.game_neuron_purpose_4" = "Serielle Verarbeitung";
+"brain.game_neuron_purpose_5" = "Kopfrechnen";
+"brain.game_neuron_purpose_6" = "Musikalisches Gehör";
+"brain.game_neuron_purpose_7" = "Verloren";
+"brain.game_neuron_purpose_8" = "Zahlenreihe";
+"brain.game_neuron_purpose_9" = "Equalizer";
+"brain.game_neuron_purpose_10" = "Flexibles Denken";
+"brain.game_neuron_purpose_11" = "Multi-Flow-Tracing";
+"brain.game_neuron_purpose_12" = "Schnelles Denken";
+"brain.game_neuron_purpose_13" = "-";
+"brain.game_neuron_purpose_23" = "Kopfrechnen";
+
+"brain.track_progress.title" = "Fortschritt verfolgen";
+"brain.track_progress.subtitle" = "Erfahren Sie, wie Sie in jeder Kategorie abschneiden, und finden Sie heraus, was Sie verbessern können";
+"brain.track_progress.button.title" = "MEINE LEISTUNG STEIGERN";
+
+
+// MARK: game_container
+
+"game_container.navigation.skip_level" = "Lvl überspr.";
+"game_container.navigation.score" = "Score";
+
+"game_container.dialog.your_target_score" = "Dein Zielergebnis";
+
+"game_container.dialog.rate_us.title" = "Wir sind so jung";
+"game_container.dialog.rate_us.message" = "Gute Bewertungen motivieren uns, immer tollere Spiele zu entwickeln.";
+"game_container.dialog.rate_us.review" = "Hinterlassen Sie eine Bewertung";
+"game_container.dialog.rate_us.review_prayer" = "Hinterlassen Sie eine Bewertung 🙏";
+"game_container.dialog.rate_us.cancel" = "Nein, danke";
+
+"game_container.dialog.rate_us_feedback.not_sure" = "NICHT SICHER";
+"game_container.dialog.rate_us_feedback.ok" = "GEFÄLLT MIR!";
+"game_container.dialog.rate_us_feedback.send" = "SENDEN";
+"game_container.dialog.rate_us_feedback.continue_playing" = "WEITERSPIELEN";
+
+"game_container.dialog.rate_us_feedback.welcome_title" = "Gefällt Ihnen unsere App?";
+"game_container.dialog.rate_us_feedback.input_text_title" = "Sag uns, was du denkst";
+"game_container.dialog.rate_us_feedback.input_text_title_think" = "Sag uns, was du denkst";
+"game_container.dialog.rate_us_feedback.input_text_placeholder" = "Hier eingeben ...";
+"game_container.dialog.rate_us_feedback.input_text_placeholder.email_optional" = "E-Mail (optional)";
+"game_container.dialog.rate_us_feedback.input_text_placeholder.email" = "E-Mail";
+"game_container.dialog.rate_us_feedback.result_title" = "Wir schätzen Ihr Feedback";
+"game_container.dialog.rate_us_feedback.result_subtitle" = "Es hilft, unsere App zu verbessern";
+
+"game_container.dialog.premium_level" = "Premium-Level";
+"game_container.dialog.premium_level_unlock_message" = "Um weiterzuspielen, müssen Sie Premium-Levels freischalten, die noch interessanter und unterhaltsamer sind";
+
+"game_container.dialog.close_game.title" = "Noch mehr Denksport!";
+"game_container.dialog.close_game.description" = "Füllen Sie die Indikatoren zu 100\%% auf und verbessern Sie die Neuroplastizität.\nEs hilft Ihnen, schneller neue Fähigkeiten schneller zu erwerben.";
+"game_container.dialog.close_game.button.resume_game" = "SPIEL FORTSETZEN";
+
+"game_container.dialog.call_to_play_new_game.develop_neuroplasticity" = "Neuroplastizität entwickeln";
+"game_container.dialog.call_to_play_new_game.keep_playing" = "WEITERSPIELEN";
+"game_container.dialog.call_to_play_new_game.play_to_fill_neuroplasticity" = "Spielen Sie Spiele, um die Indikatoren auf bis zu 100\%% aufzufüllen und Ihre Neuroplastizität zu entwickeln. So können Sie schneller und einfacher neue neuronale Verbindungen (Fähigkeiten) aufbauen.";
+"game_container.dialog.call_to_play_new_game.play_another_category_to_fill_neuroplasticity" = "Spielen Sie ein Spiel einer anderen Kategorie, um andere Indikatoren bis auf 100\%% aufzufüllen und Ihre Neuroplastizität zu entwickeln.";
+
+"game_container.dialog.call_to_play_new_game.neuroplasticity_full_0" = "Gedächtnis-Indikator auf dem Maximum";
+"game_container.dialog.call_to_play_new_game.neuroplasticity_full_1" = "Mathe-Indikator auf dem Maximum";
+"game_container.dialog.call_to_play_new_game.neuroplasticity_full_2" = "Logik-Indikator auf dem Maximum";
+"game_container.dialog.call_to_play_new_game.neuroplasticity_full_3" = "Musik-Indikator auf dem Maximum";
+"game_container.dialog.call_to_play_new_game.neuroplasticity_full_4" = "Problemlöse-Indikator auf dem Maximum";
+"game_container.dialog.call_to_play_new_game.neuroplasticity_full_5" = "Sprach-Indikator auf dem Maximum";
+
+"game_container.dialog.call_to_play_new_game.improve_neuroplasticity.title" = "Spiele spielen, um sich zu verbessern";
+"game_container.dialog.call_to_play_new_game.improve_neuroplasticity.logic.subtitle" = "Spiel aus der Liste auswählen und spielen, um Ihren Logik-Indikator aufzufüllen";
+"game_container.dialog.call_to_play_new_game.improve_neuroplasticity.math.subtitle" = "Spiel aus der Liste auswählen und spielen, um Ihren Mathe-Indikator aufzufüllen";
+"game_container.dialog.call_to_play_new_game.improve_neuroplasticity.music.subtitle" = "Wähle und spiele das Spiel aus der Liste, um deinen Musikindikator zu füllen";
+"game_container.dialog.call_to_play_new_game.improve_neuroplasticity.memory.subtitle" = "Spiel aus der Liste auswählen und spielen, um Ihren Gedächtnis-Indikator aufzufüllen";
+"game_container.dialog.call_to_play_new_game.improve_neuroplasticity.problemSolving.subtitle" = "Spiel aus der Liste auswählen und spielen, um Ihren Problemlöse-Indikator aufzufüllen";
+"game_container.dialog.call_to_play_new_game.improve_neuroplasticity.language.subtitle" = "Spiel aus der Liste auswählen und spielen, um Ihren Sprach-Indikator aufzufüllen";
+"game_container.dialog.call_to_play_new_game.improve_neuroplasticity.focus.subtitle" = "Spiel aus der Liste auswählen und spielen, um Ihren Konzentrations-Indikator aufzufüllen";
+
+
+// MARK: - local_notification
+
+"local_notification.neuroplasticity.title_1" = "Jetzt ist Hirntraining angesagt!";
+"local_notification.neuroplasticity.body_1" = "Es scheint, als müssten Sie Ihre %@-Fähigkeiten verbessern.";
+"local_notification.neuroplasticity.title_2" = "Es ist Zeit, Ihre Fähigkeiten zu verbessern!";
+"local_notification.neuroplasticity.body_2" = "Ups … Sie haben 0%% Neuroplastizität von %@ Fähigkeiten.";
+
+"local_notification.title_3" = "Bringen Sie Ihr Gehirn in Fahrt ⚡️";
+"local_notification.subtitle_3" = "Beginnen Sie einen produktiven Tag mit Hirntraining";
+"local_notification.title_4" = "Schalten Sie einen Gang höher 🧠⚙️";
+"local_notification.subtitle_4" = "Gönnen Sie sich eine erfrischende Denksport-Pause!";
+"local_notification.title_5" = "Zu unseren kostenlosen Spielen 🎮";
+"local_notification.subtitle_5" = "Fordern Sie jetzt Ihre Gehirn heraus!";
+"local_notification.title_6" = "Entspannt, schläft man besser ein 😴";
+"local_notification.subtitle_6" = "Spielen Sie ein paar Denkspiele und schlafen Sie leichter ein";
+
+
+// MARK: - games_home
+
+"games_home.section.free_daily_game.title" = "Tägliches Gratisspiel";
+"games_home.section.your_daily_game.title" = "Dein tägliches Spiel";
+"games_home.section.free_game_of_the_day.title" = "Das kostenloses Spiel des Tages";
+"games_home.section.game_of_the_day.title" = "Spiel des Tages";
+"games_home.section.popular_and_free.title" = "Beliebt und KOSTENLOS";
+"games_home.section.popular.title" = "Beliebt";
+
+"games_home.banner.subscription.title" = "Alle Spiele GRATIS freischalten!";
+"games_home.banner.subscription.sub_title" = "Werbefrei";
+"games_home.banner.subscription.action" = "Testen";
+"games_home.banner.play_game.action" = "Spiel spielen";
+"games_home.banner.low_neuroplasticity.logic.title" = "Ihre Logik hinkt";
+"games_home.banner.low_neuroplasticity.math.title" = "Deine Mathe ist niedrig";
+"games_home.banner.low_neuroplasticity.music.title" = "Ihre Musikkenntnisse hinken";
+"games_home.banner.low_neuroplasticity.memory.title" = "Ihre Gedächtnis hinkt";
+"games_home.banner.low_neuroplasticity.problemSolving.title" = "Ihre Problemlösungsfähigkeiten hinken";
+"games_home.banner.low_neuroplasticity.language.title" = "Ihre Sprachkenntnisse hinken";
+"games_home.banner.low_neuroplasticity.focus.title" = "Ihre Konzentration hinkt";
+"games_home.banner.low_neuroplasticity.sub_title" = "Neuroplastizität";
+"games_home.banner.low_neuroplasticity.title" = "VERBESSERN";
+
+"games_home.subscription_button.title" = "Schalten Sie alle Spiele KOSTENLOS frei!";
+"games_home.coming_soon" = "BALD VERFÜGBAR";
+
+
+// MARK: - game
+
+"game.save_the_dude.tutorial" = "Gefahren\numgehen";
+"game.odd_one_out.tutorial" = "Das etwas andere Paar\nherausfinden";
+"game.dungeon.tutorial" = "Beim Fliehen aus dem Kerker,\nVorsicht vor der Spinne";
+"game.paint_puzzle.tutorial" = "Irgendwohin wischen, um den Ball zu bewegen und das Feld zu bemalen";
+"game.fake_face.tutorial" = "Ein anderes Gesicht suchen und darauf tippen";
+"game.space_cleaner.tutorial" = "Laser bewegen,\num alle Meteore zu zerstören";
+"game.draw_your_way.tutorial" = "Wege nach Hause zihen.\nMäuse dürfen nicht kollidieren!";
+"game.lines.tutorial" = "Eine Figur in einer Linie zeichnen\nFinger nicht entfernen";
+"game.chemical_sort.tutorial" = "Die gleichen Elemente\nin einem Kolben sammeln";
+"game.words_field.tutorial" = "Das fehlende Wort\nim Dialog finden";
+"game.ransom_note.tutorial" = "Aus dem vorgegebenen Wort\nneue Wörter finden und bilden";
+"game.mystic_books.tutorial" = "Bücher verschieben,\num das Lösungswort zu finden";
+"game.upwords.tutorial" = "Wort mit gleicher Bedeutung auswählen";
+
+"game.ransom_note.already_used" = "bereits verwendet";
+"game.ransom_note.nice_try" = "Guter Versuch ;)";
+"game.ransom_note.did_it_again" = "Ups! Noch einmal geschafft!";
+"game.ransom_note.great_job" = "Alle Wörter gefunden! Gute Arbeit!";
+"game.ransom_note.game_info" = "mögliche Wörter aus dem Wort";
+"game.ransom_note.htp_info" = "Wörter mit mindestens 3 Buchstaben finden";
+"game.ransom_note.info_title" = "%@ Buchstaben";
+
+"game.maze_man.tutorial" = "Wischen,\num den Ausgang zu finden";
+"game.maze_man.tutorial_0" = "Den Weg aus dem Labyrinth finden";
+"game.maze_man.tutorial_1" = "<c>Zum Bewegen</c>WISCHEN";
+
+"game.remember_the_path.tutorial" = "Prägen Sie sich\nden Weg zur Erde ein";
+"game.remember_the_path.tutorial_hand" = "Wischen = eine Bewegung";
+"game.remember_the_path.tooltip" = "Benutzen Sie das Teleskop, \num sich <c>an den Weg zu</c> erinnern \nund ihn als <c>sicheren Ort zu kennzeichnen</c>";
+
+"game.twin_pairs.tutorial_0" = "Auf die Karten tippen und identische Paare finden";
+"game.twin_pairs.tutorial_1" = "Es kann nur begrenzt getippt werden.";
+"game.twin_pairs.taps_left" = "Tipp-Aktionen übrig";
+
+"game.pin_connect.tutorial" = "Die gleichen Pins verbinden,\num die Batterie einzuschalten";
+"game.pin_connect.power_low" = "LEISTUNG: NIEDRIG";
+"game.pin_connect.power_medium" = "LEISTUNG: MITTEL";
+"game.pin_connect.power_full" = "LEISTUNG: VOLL";
+
+"game.calculation.tutorial" = "Mathematische Probleme\ninteraktiv lösen";
+"game.calculation.check" = "ÜBERPRÜFEN";
+"game.calculation.basic_equation.description" = "Die richtige Antwort wählen";
+"game.calculation.two_equations.description" = "Division als Hilfe verwenden";
+"game.calculation.equivalent.description" = "Die gleiche Gleichung wählen";
+"game.calculation.keyboardEquations.description" = "Alle drei lösen";
+"game.calculation.pickerEquation.description" = "Die richtige Antwort auswählen";
+"game.calculation.dragAndDropSignEquation.description" = "Per Drag & Drop vervollständigen";
+"game.calculation.dragAndDropFullEquation.description" = "Korrekte Gleichung herstellen";
+"game.calculation.gridPairsEquation.description" = "Die gleichen Paare zuordnen";
+"game.calculation.gridEquivalentsEquation.description" = "Alle auswählen, die gleich sind";
+
+"game.magic_cryptogram.tutorial" = "Alle Lücken ausfüllen,\num ein Wort oder einen Satz zu bilden";
+"game.magic_cryptogram.tooltip.hints" = "Wenn Sie nicht weiterkommen,\neinfach auf die Schaltfläche <c>Hinweis</c> tippen.";
+"game.magic_cryptogram.tooltip.lives" = "So viele <c>Fehler</c> können Sie\nauf diesem Level machen";
+
+"game.true_order.tutorial" = "Werte vom größten \nzum kleinsten ordnen";
+"game.true_order.check" = "ÜBERPRÜFEN";
+"game.true_order.sort" = "Vom Größten zum Kleinsten ordnen";
+
+"game.circle_crossword.tutorial" = "Buchstaben zusammenfügen und\nalle versteckten Wörter finden";
+"game.circle_crossword.tooltip.helps" = "Wenn Sie nicht weiterkommen,\neinfach auf die Schaltfläche <c>Zufallswiedergabe</c> oder <c>Hinweis</c> tippen";
+"game.circle_crossword.tooltip.hints" = "Toll! Dieses Wort ist richtig,\n<c>aber nicht auf diesem Level.</c>\nSie haben dafür <c>+1 Hinweis</c> erhalten\n(bis zu 10 pro Level).";
+
+"game.equivalent_stars.choose_equivalent_pairs" = "Wählen Sie\ngleichwertige\nPaare";
+"game.equivalent_stars.answer.right" = "Richtig!";
+
+"game.twin_tones.hint.message_1" = "Tippen und identische Sound-Paare markieren";
+"game.twin_tones.hint.message_2" = "Ton einschalten und zuhören";
+"game.twin_tones.taps_left" = "Tipp-Aktionen übrig";
+
+"game.space_beat.score.rhythm" = "Rhythm";
+"game.space_beat.score.points" = "Punkte";
+"game.space_beat.tutorial" = "Erkennen Sie den Rhythmus";
+
+"game.space_beat_onboarding.good" = "GUT";
+"game.space_beat_onboarding.early" = "FRÜH";
+"game.space_beat_onboarding.late" = "SPÄT";
+"game.space_beat_onboarding.miss" = "VERPASST";
+"game.space_beat_onboarding.turn_on_sound" = "Sound abspielen";
+"game.space_beat_onboarding.catch_rhythm" = "Identifizieren Sie den Rhythmus";
+"game.space_beat_onboarding.hit_drum_button" = "Trommel-Taste synchron zum Rhythmus betätigen";
+"game.space_beat_onboarding.well_done" = "Gut gemacht!";
+"game.space_beat_onboarding.you_ready" = "Jetzt sind Sie bereit!";
+"game.space_beat_onboarding.keep_practicing_or_next" = "Üben Sie weiter oder drücken Sie WEITER, wenn bereit.";
+"game.space_beat_onboarding.keep_practicing_or_start" = "Sie können weiter üben oder START drücken, wenn Sie bereit sind";
+"game.space_beat_onboarding.each_beat_displayed" = "Jeder Schlag wird im Uhrzeigersinn um den Ring herum angezeigt";
+"game.space_beat_onboarding.indicators_help_you" = "Indikatoren helfen, den Beat-Rhythmus zu halten";
+"game.space_beat_onboarding.tutorial" = "Tutorial";
+"game.space_beat_onboarding.skip" = "Überspr.";
+"game.space_beat_onboarding.tap" = "Klopfen!";
+
+"game.sequence.hint.message_1" = "Merken Sie sich\ndie Runenfolge";
+"game.sequence.hint.message_2" = "Sequenz wiederholen,\num Runen zu aktivieren";
+"game.sequence.decrypted" = "Entschlüsselt";
+"game.sequence.blocked" = "Blockiert";
+"game.sequence.repeat" = "Wiederholen";
+
+"game.memory_eclipse.hint" = "Auf die Kacheln mit den Sternen tippen";
+"game.memory_eclipse.tutorial" = "Merken Sie sich die Positionen\nund tippen Sie dann auf die Sterne";
+
+"game.color_check.tutorial" = "Tippen Sie auf die gleiche Farbe\nwie die Bedeutung des Wortes";
+"game.color_check.tutorial.substring" = "Bedeutung";
+"game.color_check.color.blue" = "Blau";
+"game.color_check.color.green" = "Grün";
+"game.color_check.color.red" = "Rot";
+"game.color_check.color.yellow" = "Gelb";
+"game.color_check.color.pink" = "Pink";
+"game.color_check.color.violet" = "Violett";
+"game.color_check.color.orange" = "Orange";
+"game.color_check.color.grey" = "Grau";
+
+"game.cross_math.tutorial" = "Füllen Sie die Lücken so aus,\ndass jede Gleichung stimmt";
+"game.cross_math.hint" = "Wenn Sie nicht weiterkommen, \neinfach auf die Schaltfläche <c>Hinweis</c> tippen\nund <c>Zellen</c> anzeigen.";
+
+"game.twin_pairs.hint" = "Auf die Karte tippen und Gegenstück finden";
+
+"game.sock_to_sock.tutorial" = "Paare passender Socken\nfinden und antippen";
+"game.schulte_stones.tutorial" = "Auf die Mitte konzentrieren\nund Zahlen in aufsteigender Reihenfolgen antippen";
+"game.twin_pairs.tutorial" = "Auf die Karten tippen und identische Paare finden";
+"game.typo_hunt.tutorial" = "Einen Tippfehler im Text finden";
+"game.order_sort.tutorial" = "Auf die linken und rechten Schaltflächen tippen,\num Aufträge zu sortieren";
+"game.spy_lock.tutorial" = "Merken Sie sich das richtige Passwort\nund geben Sie es ein";
+"game.robo_math.tutorial" = "Klicken Sie auf die richtige Antwort zum Beispiel";
+"game.coins_sum.tutorial" = "Sammle den Münzbetrag";
+"game.coins_sum.sum" = "Betrag";
+"game.coins_sum.wallet_hint" = "Move coins by tapping";
+"game.coins_sum.how_to_play" = "Tap the coins to collect the sum";
+"game.coins_sum.wrong_answer" = "Zum Entfernen erneut auf eine Münze tippen";
+
+"game.paw_pass.tutorial" = "Tippe auf den Unterschied\nzum vorherigen Reisepass";
+"game.paw_pass.no_difference" = "Kein Unterschied";
+"game.paw_pass.name" = "Name";
+"game.paw_pass.signature" = "Unterschrift";
+"game.paw_pass.country" = "Land";
+"game.paw_pass.passport" = "Clever-Reisepass";
+"game.paw_pass.stamp" = "Stempel";
+"game.paw_pass.remember" = "Merke dir, wie dieser Reisepass aussieht";
+"game.paw_pass.tap_on_difference" = "Tippe auf den Unterschied";
+
+"game.upwords.htp_info" = "Synonym auswählen";
+
+
+// MARK: - game configuration
+
+"game_configuration.name_1" = "Sterne merken";
+"game_configuration.name_2" = "Gleichnisse";
+"game_configuration.name_3" = "Bleib im Beat";
+"game_configuration.name_4" = "Sequenz";
+"game_configuration.name_5" = "Rechnen";
+"game_configuration.name_6" = "Gleiche Melodie";
+"game_configuration.name_8" = "Zahlenreihe";
+"game_configuration.name_9" = "Equalizer";
+"game_configuration.name_10" = "Eine Linie";
+"game_configuration.name_11" = "Pins Verbinden";
+"game_configuration.name_12" = "Rette Mich";
+"game_configuration.name_13" = "Einer Passt Nicht";
+"game_configuration.name_15" = "Richtig Anordnen";
+"game_configuration.name_14" = "Merk dir den Weg";
+"game_configuration.name_16" = "Labyrinth";
+"game_configuration.name_18" = "Buntes Puzzle";
+"game_configuration.name_19" = "Dungeon-Flucht";
+"game_configuration.name_20" = "Halle der Gesichter";
+"game_configuration.name_21" = "Memospiel";
+"game_configuration.name_22" = "Weltraumreinigung";
+"game_configuration.name_23" = "Rechnen";
+"game_configuration.name_24" = "Wortkreis";
+"game_configuration.name_25" = "Wortsuche";
+"game_configuration.name_26" = "Elemente sortieren";
+"game_configuration.name_27" = "Der Heimweg";
+"game_configuration.name_28" = "Merk dir den Weg";
+"game_configuration.name_29" = "Richtig Anordnen";
+"game_configuration.name_30" = "Finde die Farbe";
+"game_configuration.name_31" = "Kryptogramm";
+"game_configuration.name_32" = "Mathe-Gitter";
+"game_configuration.name_33" = "Textprüfung";
+"game_configuration.name_34" = "Schulte-Steine";
+"game_configuration.name_35" = "Socke zu Socke";
+"game_configuration.name_36" = "Anders ordnen";
+"game_configuration.name_37" = "Pin Merken";
+"game_configuration.name_38" = "Lösebrief";
+"game_configuration.name_39" = "Roboter-Mathe";
+"game_configuration.name_40" = "Münzbetrag";
+"game_configuration.name_41" = "Wörterflug";
+"game_configuration.name_42" = "Pfoten-Pass";
+"game_configuration.name_43" = "Bücherrätsel";
+
+"game_configuration.purpose_1" = "Visuelles Gedächtnis";
+"game_configuration.purpose_2" = "Bewertungsfähigkeiten";
+"game_configuration.purpose_3" = "Rhythmusgefühl";
+"game_configuration.purpose_4" = "Kurzzeitgedächtnis";
+"game_configuration.purpose_5" = "Kopfrechnen";
+"game_configuration.purpose_6" = "Musikalisches Gehör und Gedächtnis";
+"game_configuration.purpose_7" = "Kurzzeitgedächtnis";
+"game_configuration.purpose_8" = "Mathematisches Zählen";
+"game_configuration.purpose_9" = "Musikalisches Gehör";
+"game_configuration.purpose_10" = "Flexibles Denken";
+"game_configuration.purpose_11" = "Multi-Flow-Tracing";
+"game_configuration.purpose_12" = "Schnelles Denken";
+"game_configuration.purpose_13" = "Assoziatives Denken";
+"game_configuration.purpose_15" = "Werte umrechnen und sortieren";
+"game_configuration.purpose_14" = "Visuelles Gedächtnis";
+"game_configuration.purpose_17" = "Konzentration und visuelles Gedächtnis";
+"game_configuration.purpose_16" = "Räumliche Orientierung & Planung";
+"game_configuration.purpose_18" = "Taktisches und räumliches Vorstellungsvermögen";
+"game_configuration.purpose_19" = "Extreme räumliche Orientierung";
+"game_configuration.purpose_20" = "Gesichtserkennung";
+"game_configuration.purpose_21" = "Visuelles Gedächtnis und Konzentration";
+"game_configuration.purpose_22" = "Strategische Planung";
+"game_configuration.purpose_23" = "Kopfrechnen";
+"game_configuration.purpose_24" = "Wortschatz";
+"game_configuration.purpose_25" = "Alltagswortschatz";
+"game_configuration.purpose_26" = "Räumliches Vorstellungsvermögen";
+"game_configuration.purpose_27" = "Situationsanalyse und Strategie";
+"game_configuration.purpose_28" = "Arbeitsgedächtnis";
+"game_configuration.purpose_29" = "Werte umrechnen und sortieren";
+"game_configuration.purpose_31" = "Wortschatz";
+"game_configuration.purpose_32" = "Kopfrechnen";
+
+"game_configuration.descr_1" = "Verbessert die Fähigkeit, sich die Positionen von Elementen auf dem Feld in kurzer Zeit einzuprägen.";
+"game_configuration.descr_2" = "Lerne, wie du schnell Brüche, Prozentsätze, Diagrammsegmente usw. vergleichen kannst.";
+"game_configuration.descr_3" = "Verbessert die Fähigkeit, den Takt genau zu halten und mit anderen Instrumenten zu synchronisieren.";
+"game_configuration.descr_4" = "Merke dir immer mehr Sequenzen visuell unterschiedlicher Elemente.";
+"game_configuration.descr_5" = "Verbessert die Fähigkeit, Berechnungen ohne Hilfsmittel im Kopf durchzuführen.";
+"game_configuration.descr_6" = "Trainiert das Unterscheiden von Tonarten und das Merken ihrer Positionen auf dem Feld.";
+"game_configuration.descr_7" = "Ein interaktives Spiel, das das Kurzzeitgedächtnis verbessert.";
+"game_configuration.descr_8" = "Ein interaktives Spiel, das das mathematische Zählen verbessert.";
+"game_configuration.descr_9" = "Ein interaktives Spiel, das das musikalische Gehör verbessert.";
+"game_configuration.descr_10" = "Entwickelt flexibles Denken, um eine neue, optimale Lösung für ein Problem zu finden.";
+"game_configuration.descr_11" = "Entwickelt die Fähigkeit, eine Aufgabe Schritt für Schritt auf der Grundlage aktueller Daten auszuführen.";
+"game_configuration.descr_12" = "Entwickelt die Fähigkeit, schnell auf verschiedene herausfordernde Situationen zu reagieren.";
+"game_configuration.descr_13" = "Schafft neue Assoziationen, korrigiert und stärkt alte Verknüpfungen.";
+"game_configuration.descr_15" = "Entwickelt die Fähigkeit, Werte umzurechnen, zu vergleichen und nach Bedingungen zu sortieren";
+"game_configuration.descr_14" = "Verbessert die Fähigkeit, sich die Positionen von Elementen auf dem Feld in kurzer Zeit einzuprägen.";
+"game_configuration.descr_16" = "Entwickelt die Fähigkeit, räumlich zu navigieren und den Weg im Voraus zu planen.";
+"game_configuration.descr_17" = "Entwickelt Konzentration und Gedächtnis durch das Abrufen von Objektstandorten";
+"game_configuration.descr_18" = "Entwickelt strategisches Denken und räumliches Vorstellungsvermögen, um den richtigen Weg vorauszusehen.";
+"game_configuration.descr_19" = "Entwickelt die Fähigkeit, unter extremen Bedingungen räumlich zu navigieren";
+"game_configuration.descr_20" = "Entwickelt die Fähigkeit, vertraute Personen zu erkennen, sie voneinander zu unterscheiden und sich neue Gesichter einzuprägen";
+"game_configuration.descr_21" = "Verbessert die Konzentration und das Gedächtnis bei der Suche nach identischen Objekten in unterschiedlichen Umgebungen";
+"game_configuration.descr_22" = "Planung und Verteilung von Ressourcen unter Berücksichtigung der Möglichkeiten zur Lösung der Aufgabe";
+"game_configuration.descr_23" = "Verbessere deine Kopfrechenfähigkeiten mit kleineren Übungen.";
+"game_configuration.descr_24" = "Schärfe deinen Verstand und erweitere deinen Wortschatz, indem du neue Wörter lernst.";
+"game_configuration.descr_25" = "Hilft, die Bedeutung von Wörtern und deren entsprechenden Verwendungskontext zu verstehen";
+"game_configuration.descr_26" = "Beinhaltet die Fähigkeit, sich auf bestimmte Details oder Elemente zu konzentrieren";
+"game_configuration.descr_27" = "Hilft, die aktuelle Situation einzuschätzen und die richtigen Entscheidungen zu treffen, um ungünstige Szenarien zu verhindern";
+"game_configuration.descr_28" = "Verbessert die Fähigkeit, sich die Positionen von Elementen zu merken";
+"game_configuration.descr_29" = "Entwickelt die Fähigkeit, Werte umzurechnen, zu vergleichen und nach Bedingungen zu sortieren";
+"game_configuration.descr_30" = "Farben-Check – Beschreibungstest";
+"game_configuration.descr_31" = "Schärfe deinen Verstand und erweitere deinen Wortschatz, indem du neue Wörter lernst.";
+"game_configuration.descr_32" = "Verbessere deine Kopfrechenfähigkeiten mit kleineren Übungen.";
+
+"game_configuration.catogory.call_to_action.type_0" = "Lass uns nun dein Gedächtnis testen";
+"game_configuration.catogory.call_to_action.type_1" = "Und nun lass uns deine Rechenkünste auf die Probe stellen";
+"game_configuration.catogory.call_to_action.type_2" = "Lass uns dein logisches Denkvermögen testen";
+"game_configuration.catogory.call_to_action.type_3" = "Teste deine Musik";
+
+
+// MARK: game_configuration_skill
+
+"game_configuration.skill.title_1" = "Dauerhafte Aufmerksamkeit";
+"game_configuration.skill.title_2" = "Gedächtnisumfang";
+"game_configuration.skill.title_3" = "Visuelles Gedächtnis";
+"game_configuration.skill.title_4" = "Arbeitsgedächtnis";
+"game_configuration.skill.title_5" = "Selektive Wahrnehmung";
+"game_configuration.skill.title_6" = "Flexibles Denken";
+"game_configuration.skill.title_7" = "Räumliches Denkvermögen";
+"game_configuration.skill.title_8" = "Lösungsfindung";
+"game_configuration.skill.title_9" = "Entscheidungsfindung";
+"game_configuration.skill.title_10" = "Visuelle Motorik";
+"game_configuration.skill.title_11" = "Schnelles Denken";
+"game_configuration.skill.title_12" = "Planung";
+"game_configuration.skill.title_13" = "Anpassungsfähigkeit";
+"game_configuration.skill.title_14" = "Assoziatives Denken";
+"game_configuration.skill.title_15" = "Wahrnehmung";
+"game_configuration.skill.title_16" = "Einfallsreichtum";
+"game_configuration.skill.title_17" = "Visualisierung";
+"game_configuration.skill.title_18" = "Prognoseerstellung";
+"game_configuration.skill.title_19" = "Gesichtserkennung";
+"game_configuration.skill.title_20" = "Detailgenauigkeit";
+"game_configuration.skill.title_21" = "Informationsverarbeitung";
+"game_configuration.skill.title_22" = "Schätzung";
+"game_configuration.skill.title_23" = "Multitasking";
+"game_configuration.skill.title_24" = "Kritisches Denken";
+"game_configuration.skill.title_25" = "Ungefähre Berechnung";
+"game_configuration.skill.title_26" = "Aufgabenwechsel";
+"game_configuration.skill.title_27" = "Kopfrechnen";
+"game_configuration.skill.title_28" = "Präzise Berechnung";
+"game_configuration.skill.title_29" = "Datenvisualisierung";
+"game_configuration.skill.title_30" = "Auditives Gedächtnis";
+"game_configuration.skill.title_31" = "Genauigkeit";
+"game_configuration.skill.title_32" = "Rhythmusgefühl";
+"game_configuration.skill.title_33" = "Musikalisches Gehör";
+"game_configuration.skill.title_34" = "Rechtschreibung";
+"game_configuration.skill.title_35" = "Wortschatz";
+"game_configuration.skill.title_36" = "Parallele Verarbeitung";
+"game_configuration.skill.title_37" = "Indirektes Sehvermögen";
+"game_configuration.skill.title_38" = "Aufmerksamkeitsumfang";
+"game_configuration.skill.title_39" = "Schnelllesen";
+"game_configuration.skill.title_40" = "Mustererkennung";
+"game_configuration.skill.title_41" = "Orthographische Verarbeitung";
+
+"game_configuration.skill.description_1" = "Lerne, dich auf eine Aufgabe zu konzentrieren, und erhöhe deine Aufmerksamkeitsspanne";
+"game_configuration.skill.description_2" = "Erhöhe die Menge an Informationen, die du im Gedächtnis behalten kannst";
+"game_configuration.skill.description_3" = "Kopiere das Aussehen der Objekte und stelle sie dir im Detail vor";
+"game_configuration.skill.description_4" = "Rufe Informationen, die für einen begrenzten Zeitraum angezeigt wurden, schneller ab";
+"game_configuration.skill.description_5" = "Lerne, wichtige Details zu erkennen, sich darauf zu konzentrieren und Ablenkungen zu ignorieren";
+"game_configuration.skill.description_6" = "Passe dich an und denke über verschiedene Möglichkeiten zur Lösung von Herausforderungen nach";
+"game_configuration.skill.description_7" = "Analysiere die räumliche Position von Objekten und verbessere deine Navigation";
+"game_configuration.skill.description_8" = "Entwickle deine Fähigkeit, eine neue optimale Lösung für ein Problem zu finden";
+"game_configuration.skill.description_9" = "Wähle auf Grundlage der verfügbaren Informationen die beste Vorgehensweise";
+"game_configuration.skill.description_10" = "Wandle ein visuelles Bild oder einen visuellen Plan in eine präzise motorische Aktivität um";
+"game_configuration.skill.description_11" = "Lerne, schnell die richtigen Entscheidungen zu treffen";
+"game_configuration.skill.description_12" = "Plane deine Handlungen und Schritte im Voraus, um sicherzustellen, dass sie dir zum Sieg verhelfen";
+"game_configuration.skill.description_13" = "Lerne, dich an eine veränderte Situation anzupassen und eine Lösung zu überdenken, wenn sie nicht funktioniert";
+"game_configuration.skill.description_14" = "Verknüpfe eine Idee oder ein Konzept mit scheinbar unabhängigen Ideen und Konzepten, um kreative Erkenntnisse zu gewinnen";
+"game_configuration.skill.description_15" = "Bemerke und verstehe Dinge, die für andere Menschen nicht offensichtlich sind";
+"game_configuration.skill.description_16" = "Entdecke unerwartete Wege zur Problemlösung mit frischen Ideen";
+"game_configuration.skill.description_17" = "Erstelle und manipuliere Bilder oder Szenarien in deinem Kopf";
+"game_configuration.skill.description_18" = "Beurteile anhand von derzeit verfügbaren Informationen, was in der Zukunft wahrscheinlich passieren wird";
+"game_configuration.skill.description_19" = "Verbessere deine Fähigkeit, sich an neue Gesichter zu erinnern, sie abzurufen und voneinander zu unterscheiden";
+"game_configuration.skill.description_20" = "Entwickle die Fähigkeit, Dinge zu bemerken, die auf den ersten Blick nicht offensichtlich sind";
+"game_configuration.skill.description_21" = "Verbessere deine Fähigkeit, Informationen in deinem Kopf zu sammeln, zu verstehen und zu organisieren";
+"game_configuration.skill.description_22" = "Berechne Entfernungen, Zeitabstände oder Geschwindigkeiten schnell und präzise, ohne das Gesamtbild im Blick zu haben";
+"game_configuration.skill.description_23" = "Reagiere auf mehrere Aufgaben gleichzeitig oder erledige zwei Dinge gleichzeitig";
+"game_configuration.skill.description_24" = "Analysiere Fakten und Beweise, um die richtigen Entscheidungen zu treffen";
+"game_configuration.skill.description_25" = "Führe schnelle und genaue Berechnungen durch, um die richtige Antwort zu erhalten";
+"game_configuration.skill.description_26" = "Lerne, deinen Fokus problemlos von einer Aufgabe auf eine andere zu lenken";
+"game_configuration.skill.description_27" = "Führe Berechnungen im Kopf durch, ohne Taschenrechner oder Papier zu verwenden";
+"game_configuration.skill.description_28" = "Lerne Addieren, Subtrahieren, Multiplizieren und Dividieren, um die richtige Antwort zu erhalten";
+"game_configuration.skill.description_29" = "Lerne, Daten aus Diagrammen, Graphen und Schaubildern zu lesen und zu verstehen";
+"game_configuration.skill.description_30" = "Verbessere deine Fähigkeit, zuvor gehörte Informationen abzurufen";
+"game_configuration.skill.description_31" = "Übe die Fähigkeit, präzise Bewegungen auszuführen und Fehler zu vermeiden";
+"game_configuration.skill.description_32" = "Spüre, behalte und wiederhole musikalische Rhytmen besser";
+"game_configuration.skill.description_33" = "Lerne, zwischen Noten und Tonhöhen zu unterscheiden";
+"game_configuration.skill.description_34" = "Übe, Fehler und Tippfehler beim Schreiben zu vermeiden";
+"game_configuration.skill.description_35" = "Lerne neue Wörter und erweitere deinen Wortschatz";
+"game_configuration.skill.description_36" = "Trainiere deine Nervenbahnen, damit sie bei der Ausführung einer Aufgabe nicht störend wirken";
+"game_configuration.skill.description_37" = "Verbessere deine Fähigkeit, Dinge außerhalb des direkten Sichtfelds zu sehen";
+"game_configuration.skill.description_38" = "Erweitere die Anzahl der Objekte, auf die du dich gleichzeitig konzentrieren kannst";
+"game_configuration.skill.description_39" = "Entwickle die Fähigkeit, große Mengen an Text in kurzer Zeit zu überblicken und zu analysieren";
+"game_configuration.skill.description_40" = "Finde und verwende bekannte Sequenzen, um Probleme zu lösen";
+"game_configuration.skill.description_41" = "Erkenne Buchstabenmuster, um möglichst viele Wörter zu bilden";
+
+
+// MARK: game_category
+
+"game_category.memory.title" = "Gedächtnis";
+"game_category.memory.banner_title" = "Gedächtnisspiele";
+"game_category.logic.title" = "Logik";
+"game_category.logic.banner_title" = "Logikspiele";
+"game_category.math.title" = "Mathe";
+"game_category.math.banner_title" = "Mathematische Spiele";
+"game_category.music.title" = "Musik";
+"game_category.music.banner_title" = "Musikspiele";
+"game_category.problem_solving.title" = "Problemlösung";
+"game_category.problem_solving.banner_title" = "Problemlösungsspiele";
+"game_category.focus.title" = "Konzentration";
+"game_category.language.title" = "Sprache";
+
+
+// MARK: - gameRecordResult
+
+"game_result.PositiveMessage1" = "Du bist <c>spitze</c>!";
+"game_result.PositiveMessage2" = "Du hast es <c>geschafft</c>!";
+"game_result.PositiveMessage3" = "<c>Außergewöhnliches</c> Ergebnis!";
+
+"game_result.NeutralMessage1" = "Auf der <c>richtigen Spur</c>!";
+"game_result.NeutralMessage2" = "Du machst <c>Fortschritte</c>!";
+"game_result.NeutralMessage3" = "<c>Tolles</c> Ergebnis!";
+
+"game_result.NegativeMessage1" = "Das geht noch <c>besser</c>!";
+"game_result.NegativeMessage2" = "<c>Trainiere</c> weiter!";
+"game_result.NegativeMessage3" = "<c>Gib nicht auf</c>!";
+
+"game_result.set_new_score" = "Neuen Score erreichen!";
+"game_result.best_score" = "Bester Score";
+"game_result.latest_score" = "Letzter Score";
+"game_result.previous_score" = "Vorheriger Score";
+"game_result.previous_best" = "Vorheriger Bestwert";
+"game_result.your_score" = "Dein Score";
+"game_result.new_best_score" = "Neuer Bestwert!";
+"game_result.top_percent_result" = "Du bist einer von %@ mit diesem Ergebnis";
+"game_result.top_rank_completed" = "Höchster Rang erreicht!";
+"game_result.rank_completed" = "Rang abgeschlossen!";
+
+"game_result.ranks.iron" = "Eisen";
+"game_result.ranks.bronze" = "Bronze";
+"game_result.ranks.silver" = "Silber";
+"game_result.ranks.gold" = "Gold";
+"game_result.ranks.platinum" = "Platinum";
+"game_result.ranks.diamond" = "Diamant";
+"game_result.ranks.ruby" = "Rubin";
+
+"game_result.emoji.target_not_reached_1" = "Versuche es <c>noch einmal</c>!";
+"game_result.emoji.target_not_reached_2" = "Das geht noch <c>besser</c>!";
+"game_result.emoji.target_not_reached_3" = "<c>Trainiere</c> weiter!";
+"game_result.emoji.target_not_reached_4" = "Du bist <c>ganz nah</c> dran!";
+
+"game_result.emoji.target_reached_1" = "Ziel <c>erreicht</c>!";
+"game_result.emoji.stage_completed_1" = "Etappe <c>abgeschlossen</c>!";
+"game_result.emoji.new_rank_1" = "Neuer <c>Rang</c>!";
+
+
+// MARK: - game_result
+
+"game_info.skills_you_boost" = "Fähigkeiten, die du verbesserst";
+
+"game_info.rank.next_score" = "Nächstes Ziel";
+"game_info.rank.latest_score" = "Letzter Score";
+"game_info.rank.your_rank_progress" = "Dein Fortschritt";
+
+
+// MARK: - today
+
+"today.button.workout_start" = "TRAINING STARTEN";
+"today.button.workout_continue" = "TRAINING FORTSETZEN";
+"today.header.title" = "Heutiges Training";
+"today.info.title" = "Tägliches Training abgeschlossen";
+"today.info.subtitle" = "Morgen erwartet dich die nächste Challenge!";
+"today.result.title" = "Heutiges Training abgeschlossen";
+
+"challenges.day" = "TAG";
+"challenges.subtitle" = "Täglich neue Fähigkeiten und Spiele zum Trainieren";
+"challenges.practice_every_day" = "Trainiere jeden Tag und sammle Streaks, um besser zu werden";
+"challenges.game_of_the_day" = "Spiel des Tages";
+"challenges.play_free" = "KOSTENLOS SPIELEN";
+"challenges.premium" = "Premium";
+"challenges.fridays" = "Freitag";
+"challenges.next_in" = "Als nächstes";
+"challenges.days_streak" = "Tage-Streak";
+
+"challenges.types.daily" = "Täglich";
+"challenges.types.game_of_the_day" = "Spiel des Tages";
+"challenges.types.memory" = "Gedächtnis";
+"challenges.types.math" = "Mathe";
+"challenges.types.music" = "Musik";
+
+"challenges.button.workout_start" = "TRAINING STARTEN";
+"challenges.button.workout_replay" = "TRAINING WIEDERHOLEN";
+"challenges.button.workout_continue" = "TRAINING FORTSETZEN";
+
+
+// MARK: - tests
+
+"tests.container.title" = "Frage";
+
+"tests.selection_list.iq" = "IQ-Wert";
+"tests.selection_list.personality" = "Persönlichkeitstyp";
+"tests.selection_list.trauma" = "Reaktionstyp auf Trauma und Angst";
+"tests.selection_list.anxiety" = "Angstlevel";
+"tests.selection_list.procrastination" = "Prokrastinationstyp";
+"tests.selection_list.hyperactivity" = "ADHS-Typ";
+
+"tests.selection_list.button.send" = "SENDEN";
+"tests.selection_list.button.none" = "NICHTS DAVON";
+"tests.selection_list.title" = "Was möchtest du entdecken?";
+
+"tests.home.subtitle" = "Schätze dich mit diesem universellen\nTest ein, keine Sprachkenntnisse erforderlich"; // unused?
+
+"tests.home.title" = "Empfohlener Test";
+"tests.home.min" = "min.";
+"tests.home.questions" = "Fragen";
+"tests.home.coming_soon" = "bald verfügbar...";
+"tests.home.free_result" = "Gratis-Ergebnis";
+
+"tests.home.tests_take" = "TEST MACHEN";
+"tests.home.tests_retake" = "NOCHMAL TESTEN";
+"tests.home.tests_continue" = "TEST FORTSETZEN";
+
+"tests.info.top.generalIQ.title" = "Allgemeiner IQ-Test";
+
+"tests.info.top.attentionDeficit.title" = "ADHS-Test";
+"tests.info.top.trauma.title" = "Traumatest";
+"tests.info.top.bigFive.title" = "Big-Five-Test";
+"tests.info.top.fearResponse.title" = "Angstreaktionstyp";
+"tests.info.top.intelligence.title" = "Intelligenztyp";
+"tests.info.top.anxiety.title" = "Angsttest";
+
+"tests.info.disclaimer.title" = "Haftungsausschluss";
+"tests.info.disclaimer.text_1" = "Dieser Test dient ausschließlich Bildungs- und Unterhaltungszwecken. Er stellt keine medizinische, psychologische oder psychiatrische Beurteilung oder Messung der Intelligenz dar und sollte nicht zur Diagnose, Behandlung oder Vorbeugung von Erkrankungen verwendet werden.";
+"tests.info.disclaimer.text_2" = "Die Autoren sind keine zugelassenen medizinischen Fachkräfte und bieten keine medizinische oder psychologische Beratung an. Dieser Test kann eine professionelle Beurteilung oder Betreuung nicht ersetzen.";
+"tests.info.disclaimer.text_3" = "Wenn Sie Bedenken hinsichtlich Ihrer geistigen oder seelischen Gesundheit haben, wenden Sie sich bitte an einen qualifizierten Arzt.";
+
+"tests.info.benefits.title" = "Was du erhältst";
+"tests.info.benefits.generalIQ.content_discover" = "Entdecke, wie hoch dein IQ ist";
+"tests.info.benefits.generalIQ.content_compare" = "Vergleiche dich mit anderen";
+"tests.info.benefits.generalIQ.content_understand" = "Verstehe, wie du deinen IQ steigern kannst";
+
+"tests.info.benefits.attentionDeficit.content_understand" = "Entdecke, ob du ADHS-ähnliche Verhaltensweisen zeigst";
+"tests.info.benefits.attentionDeficit.content_discover" = "Finde deinen ADHS-Typ heraus";
+"tests.info.benefits.attentionDeficit.content_receive" = "Erhalte Vorschläge für die nächsten Schritte";
+"tests.info.benefits.trauma.content_understand" = "Finden Sie heraus, wie wahrscheinlich eine PTBS ist";
+"tests.info.benefits.trauma.content_discover" = "Erfahren Sie, wodurch posttraumatische Belastungsstörungen verursacht werden";
+"tests.info.benefits.trauma.content_receive" = "Verstehen Sie, wie Sie mit bestimmten Traumaanzeichen umgehen können";
+"tests.info.benefits.bigFive.content_understand" = "Tiefe Einblicke in 5 Persönlichkeitseigenschaften";
+"tests.info.benefits.bigFive.content_discover" = "Stärken und Schwächen entsprechend Ihrem Persönlichkeitstyp";
+"tests.info.benefits.bigFive.content_receive" = "Tipps für persönliches Wachstum";
+"tests.info.benefits.fearResponse.content_understand" = "Ihre Art der Reaktion auf traumatische Ereignisse – Kampf, Flucht, Erstarren oder Beschwichtigen";
+"tests.info.benefits.fearResponse.content_discover" = "Ihre Stärken und Schwächen je nach Typ";
+"tests.info.benefits.fearResponse.content_receive" = "Methoden, mit Angst und ihren Auswirkungen umzugehen";
+"tests.info.benefits.intelligence.content_understand" = "Finden Sie Ihren dominanten Intelligenztyp heraus";
+"tests.info.benefits.intelligence.content_compare" = "Vergleichen Sie Ihre Intelligenzwerte mit denen anderer Menschen";
+"tests.info.benefits.intelligence.content_discover" = "Entdecken Sie mögliche Karrierewege";
+"tests.info.benefits.anxiety.content_understand" = "Finden Sie Ihren dominanten Intelligenztyp heraus";
+"tests.info.benefits.anxiety.content_compare" = "Vergleichen Sie Ihre Intelligenzwerte mit denen anderer Menschen";
+"tests.info.benefits.anxiety.content_discover" = "Entdecken Sie mögliche Karrierewege";
+
+"tests.info.general.title" = "Über den Test";
+"tests.info.general.show_more" = "mehr anzeigen";
+"tests.info.general.show_less" = "weniger anzeigen";
+
+"tests.info.general.generalIQ.content_first" = "Ein IQ-Test misst eine Reihe von kognitiven Fähigkeiten einer Person und liefert ein Ergebnis, das dazu dienen soll, die Fähigkeiten und das Potenzial einer Person zu messen.";
+
+"tests.info.general.generalIQ.content_second" = "Unser Test wurde so konzipiert, dass du auch ohne Sprachkenntnisse möglichst genaue Ergebnisse erzielst, und ist für alle Altersgruppen und Vorkenntnisse geeignet. Deine Aufgabe ist es, visuelle Rätsel zu lösen, indem du das fehlende Teil in jedem Muster findest.";
+
+"tests.info.general.attentionDeficit.content_first" = "Ein ADHS-Test bewertet, ob eine Person sich konzentrieren und ihre Impulse sowie Hyperaktivität kontrollieren kann. So kann man Merkmale feststellen, die mit einer Aufmerksamkeitsdefizit-Hyperaktivitätsstörung einhergehen.";
+"tests.info.general.attentionDeficit.content_second" = "Dieser Test bietet einen klaren Einblick in Verhaltenstendenzen und stützt sich auf praktische Szenarien statt auf Fachwissen.";
+"tests.info.general.trauma.content_first" = "Der Traumatest hilft bei der Diagnose einer posttraumatischen Belastungsstörung (PTBS) und unterstützt Betroffene, ihren psychischen Gesundheitszustand besser zu verstehen.";
+"tests.info.general.trauma.content_second" = "Bitte bewerten Sie auf einer Skala von 0 bis 4, wie oft Sie in den letzten zwei Monaten bestimmte Situationen oder Gefühle erlebt haben.";
+"tests.info.general.bigFive.content_first" = "Der Big 5-Persönlichkeitstest ist eine wissenschaftlich fundierte Bewertung, die fünf Kerneigenschaften misst: Offenheit, Gewissenhaftigkeit, Extraversion, Verträglichkeit und Neurotizismus.";
+"tests.info.general.bigFive.content_second" = "Diese Eigenschaften bilden die Grundlage Ihrer Persönlichkeit und beeinflussen, wie Sie denken, fühlen und mit der Welt interagieren. Erfahren Sie mehr über Ihre Stärken, Bereiche, in denen Sie sich weiterentwickeln können, und wie Ihre Persönlichkeit Ihre Beziehungen, Ihre Karriere und Ihre Lebensentscheidungen prägt.";
+"tests.info.general.fearResponse.content_first" = "Haben Sie sich schon einmal gefragt, warum Sie auf stressreiche Ereignisse auf eine bestimmte Weise reagieren? Ob Sie dazu neigen, sich vor Problemen zu verstecken oder sie so zu akzeptieren, wie sie sind – dieser Test kann viel mehr über Sie aussagen!";
+"tests.info.general.fearResponse.content_second" = "Ihr Angstreaktionstyp kann viel über Ihre Persönlichkeit und Ihre bisherigen Erfahrungen aussagen. Wir empfehlen, die erste Antwort auszuwählen, die Ihnen in den Sinn kommt, um das genaueste Ergebnis zu erhalten.";
+"tests.info.general.intelligence.content_first" = "Haben Sie sich schon einmal gefragt, warum Sie bei bestimmten Aufgaben hervorragende Leistungen erbringen, während andere schwieriger erscheinen? Entdecken Sie Ihre einzigartige Art von Intelligenz und lernen Sie, wie Sie diese nutzen können, um in allen Bereichen Ihres Lebens erfolgreich zu sein!";
+"tests.info.general.intelligence.content_second" = "Überprüfen Sie die angegebenen Aussagen und wählen Sie die Option aus, die am besten auf Sie zutrifft. Um möglichst genaue Ergebnisse zu erzielen, antworten Sie so wahrheitsgetreu wie möglich.";
+"tests.info.general.anxiety.content_first" = "Haben Sie sich schon einmal gefragt, warum Sie bei bestimmten Aufgaben hervorragende Leistungen erbringen, während andere schwieriger erscheinen? Entdecken Sie Ihre einzigartige Art von Intelligenz und lernen Sie, wie Sie diese nutzen können, um in allen Bereichen Ihres Lebens erfolgreich zu sein!";
+"tests.info.general.anxiety.content_second" = "Überprüfen Sie die angegebenen Aussagen und wählen Sie die Option aus, die am besten auf Sie zutrifft. Um möglichst genaue Ergebnisse zu erzielen, antworten Sie so wahrheitsgetreu wie möglich.";
+
+"tests.info.score.generalIQ.title" = "Dein IQ";
+"tests.info.score.text_test.title" = "Deine Ergebnisse";
+
+"tests.IQTests.task.title" = "Wähle das fehlende Teil aus:";
+
+"tests.button.tests_start" = "TEST STARTEN";
+"tests.button.tests_retake" = "TEST NOCH MAL MACHEN";
+"tests.button.tests_get_result" = "MEIN ERGEBNIS ANZEIGEN";
+"tests.button.tests_continue" = "TEST FORTSETZEN";
+
+"tests.selector.title.never" = "Nie";
+"tests.selector.title.often" = "Sehr oft";
+"tests.circle_selector.title.disagree" = "Nicht zustimmen";
+"tests.circle_selector.title.agree" = "Zustimmen";
+
+"tests.result.classification.severely_challenged" = "Schwachsinn";
+"tests.result.classification.challenged" = "sehr niedrig";
+"tests.result.classification.below_average" = "niedrig";
+"tests.result.classification.average" = "durchschnittlich";
+"tests.result.classification.above_average" = "hoch";
+"tests.result.classification.gifted" = "sehr hoch";
+"tests.result.classification.genius" = "hochbegabt";
+"tests.result.classification.extraordinary_genius" = "extrem\nhochgbegabt";
+
+"tests.result.your_score" = "Dein IQ";
+"tests.result.classification" = "Einstufung";
+
+"tests.result.chartDescription1" = "Dein IQ-Wert zeigt an, dass du besser\nabschneidest als";
+"tests.result.chartDescription2" = "der Bevölkerung";
+
+"tests.result.person0" = "Du";
+"tests.result.person1" = "Muhammad Ali";
+"tests.result.person2" = "George Bush";
+"tests.result.person3" = "Napoleon Bonaparte";
+"tests.result.person4" = "Albert Einstein";
+"tests.result.person5" = "Marie Curie";
+
+"tests.result.definition1" = "Was bedeutet das? 🧐";
+"tests.result.definition2" = "Menschen mit einem IQ von";
+"tests.result.definition3" = "haben bekanntlich die folgenden Stärken:";
+
+"tests.result.counter1" = "Richtige Antworten";
+"tests.result.counter2" = "Falsche Antworten";
+
+"tests.result.average_title" = "Durchschnittlicher IQ nach Alter";
+"tests.result.average_label" = "Dein IQ - %@";
+"tests.result.average_age" = "Alter";
+
+"tests.result.famous_title" = "IQ von berühmten Personen";
+
+"tests.result.review" = "Wie hat dir der Test gefallen?";
+"tests.result.title" = "Allgemeiner IQ-Test";
+
+"tests.result.skill1" = "Fähigkeiten zur Selbstfürsorge";
+"tests.result.skill2" = "Einfache Aufgabenausführung";
+"tests.result.skill3" = "Schnelle Auffassungsgabe";
+"tests.result.skill4" = "Beständigkeit in vertrauten Umgebungen";
+"tests.result.skill5" = "Praktische Fähigkeiten";
+"tests.result.skill6" = "Beherrschung von Routineaufgaben";
+"tests.result.skill7" = "Praktisches Lernen";
+"tests.result.skill8" = "Beständigkeit";
+"tests.result.skill9" = "Praktische Problemlösung";
+"tests.result.skill10" = "Praktisches Lernen";
+"tests.result.skill11" = "Verlässlichkeit bei Routineaufgaben";
+"tests.result.skill12" = "Hohe Arbeitsmoral";
+"tests.result.skill13" = "Anpassungsfähigkeit";
+"tests.result.skill14" = "Gute Kommunikationsfähigkeit";
+"tests.result.skill15" = "Zusammenarbeit im Team";
+"tests.result.skill16" = "Lernen und Anwenden neuer Fähigkeiten";
+"tests.result.skill17" = "Analytische Fähigkeiten";
+"tests.result.skill18" = "Kreativität";
+"tests.result.skill19" = "Führungsqualität";
+"tests.result.skill20" = "Komplexe Problemlösung";
+"tests.result.skill21" = "Erweiterte Problemlösung";
+"tests.result.skill22" = "Akademische Exzellenz";
+"tests.result.skill23" = "Innovatives Denken";
+"tests.result.skill24" = "Strategische Planung";
+"tests.result.skill25" = "Hohe Kreativität";
+"tests.result.skill26" = "Erweiterte Führungsqualität";
+"tests.result.skill27" = "Schnelle Lernfähigkeit";
+"tests.result.skill28" = "Starkes logisches Denkvermögen";
+
+"tests.result.navigation1" = "ERGEBNISSE VERSTEHEN";
+"tests.result.navigation2" = "VERGLEICHE DICH";
+"tests.result.navigation3" = "ZURÜCK ZU DEN TESTS";
+
+"tests.result.progressItem1" = "Antworten werden verarbeitet";
+"tests.result.progressItem2" = "Ergebnisse werden verglichen";
+"tests.result.progressItem3" = "Persönlicher Bericht wird erstellt";
+
+"tests.button.tests_finish" = "FERTIG";
+"tests.button.tests_next" = "WEITER";
+"tests.pause.button.restart" = "TEST NEU STARTEN";
+"tests.pause.button.resume" = "FORTFAHREN";
+"tests.pause.button.exit" = "VERLASSEN";
+
+
+// MARK: ADHD test result
+
+"tests.result.attentionDeficit.title" = "ADHS-Test";
+"tests.result.attentionDeficit.general.title" = "Dein Ergebnis";
+"tests.result.attentionDeficit.general.no_description" = "keine Anzeichen von ADHS";
+"tests.result.attentionDeficit.general.mild_description" = "leichte Anzeichen von ADHS";
+"tests.result.attentionDeficit.general.moderate_description" = "mittelschwere Zeichen von ADHS";
+"tests.result.attentionDeficit.general.severe_description" = "schwere Zeichen von ADHS";
+
+"tests.result.attentionDeficit.mean.title" = "Was bedeutet das? 🧐";
+
+"tests.result.attentionDeficit.mean.no_description" = "Anzeichen von ADHS treten gelegentlich auf, verursachen aber keine größeren Störungen. Es kann zu geringfügigen Aufmerksamkeits- oder Organisationsschwächen kommen, die in der Regel gut zu bewältigen sind.";
+"tests.result.attentionDeficit.mean.mild_description" = "Es sind Anzeichen erkennbar, die aber oft mit einfachen Strategien bewältigt werden können, wie z. B. das Setzen von Remindern oder die Verwendung einfacher Organisationstools.";
+"tests.result.attentionDeficit.mean.moderate_description" = "Diese Anzeichen können bei der Arbeit und bei persönlichen Aufgaben zu Herausforderungen führen. Der Einsatz strukturierter Hilfsmittel wie Planer oder Timer sowie professionelle Unterstützung können dabei helfen, diese zu bewältigen.";
+"tests.result.attentionDeficit.mean.severe_description" = "Die Symptome sind stark ausgeprägt und beeinträchtigen das tägliche Leben nachhaltig. Konzentrations-, Organisations- und Impulskontrollprobleme können zu erheblichen Herausforderungen in der Arbeit, in Beziehungen und bei der Selbstfürsorge führen.";
+
+"tests.result.attentionDeficit.classification.your_type" = "Dein ADHS-Typ";
+"tests.result.attentionDeficit.classification.concentration_type" = "Dein Konzentrationstyp";
+"tests.result.attentionDeficit.classification.dialog_title" = "Du";
+"tests.result.attentionDeficit.inattentive" = "Unaufmerksam";
+"tests.result.attentionDeficit.hyperactive" = "Hyperaktiv";
+
+"tests.result.attentionDeficit.classification.inattentive_description" = "Du bist der ADHS-Typ <c>Unaufmerksam</c>. Dies ist der häufigste ADHS-Typ. Menschen mit diesem Typ";
+"tests.result.attentionDeficit.classification.inattentive_description_no_type" = "Du bist der Konzentrationstyp <c>Unaufmerksam</c>. Dies ist der häufigste ADHS-Typ. Menschen mit diesem Typ";
+"tests.result.attentionDeficit.classification.inattentive_description.step_0" = "haben in der Regel Schwierigkeiten, auf Details zu achten";
+"tests.result.attentionDeficit.classification.inattentive_description.step_1" = "werden schnell abgelenkt";
+"tests.result.attentionDeficit.classification.inattentive_description.step_2" = "vergessen Dinge (z. B. Schlüssel, wichtige Ereignisse)";
+"tests.result.attentionDeficit.classification.inattentive_description.step_3" = "haben Schwierigkeiten, anderen zuzuhören und";
+"tests.result.attentionDeficit.classification.inattentive_description.step_4" = "haben Probleme mit der Organisation und Planung";
+
+"tests.result.attentionDeficit.classification.hyperactive_description" = "Du bist ADHS-Typ <c>Hyperaktiv</c>. Dies ist der am wenigsten verbreitete ADHS-Typ. Menschen mit diesem Typ";
+"tests.result.attentionDeficit.classification.hyperactive_description_no_type" = "Du bist Konzentrationstyp <c>Hyperaktiv</c>. Dies ist der am wenigsten verbreitete Konzentrationstyp. Menschen mit diesem Typ";
+"tests.result.attentionDeficit.classification.hyperactive_description.step_0" = "haben oft Schwierigkeiten, still zu sitzen, und zappeln oder bewegen sich häufig";
+"tests.result.attentionDeficit.classification.hyperactive_description.step_1" = "fühlen sich wie „von einem Motor angetrieben“";
+"tests.result.attentionDeficit.classification.hyperactive_description.step_2" = "haben Schwierigkeiten, sich zu entspannen oder abzuschalten und";
+"tests.result.attentionDeficit.classification.hyperactive_description.step_3" = "reden übermäßig viel oder unterbrechen andere in Gesprächen";
+
+"tests.result.attentionDeficit.classification.combined_description" = "Bei dir liegt eine <c>kombinierte Form</c> von ADHS vor und damit eine Mischung aus unaufmerksamen und hyperaktiv-impulsiven Symptomen. Betroffene können häufig abgelenkt sein und impulsiv handeln, was zu Herausforderungen in verschiedenen Bereichen des täglichen Lebens führt.";
+"tests.result.attentionDeficit.classification.combined_description_no_type" = "Bei dir liegt eine <c>kombinierte Form</c> von Konzentration vor und damit eine Mischung aus unaufmerksamen und hyperaktiv-impulsiven Symptomen. Betroffene können häufig abgelenkt sein und impulsiv handeln, was zu Herausforderungen in verschiedenen Bereichen des täglichen Lebens führt.";
+
+"tests.result.attentionDeficit.about.title" = "Was ist ADHS?";
+"tests.result.attentionDeficit.about.description_first" = "<c>Die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (Attention-Deficit/Hyperactivity Disorder, ADHS)</c> ist eine neurologische Entwicklungsstörung, die durch Symptome wie Unaufmerksamkeit, Hyperaktivität und Impulsivität gekennzeichnet ist. Menschen mit ADHS fällt es möglicherweise schwer, sich auf Aufgaben zu konzentrieren, organisiert zu bleiben oder Anweisungen zu befolgen.";
+"tests.result.attentionDeficit.about.description_second" = "ADHS betrifft sowohl Kinder als auch Erwachsene und kann sich auf verschiedene Aspekte des täglichen Lebens auswirken, darunter Schule, Arbeit und Beziehungen. Die genaue Ursache von ADHS ist zwar nicht bekannt, es wird jedoch angenommen, dass genetische, umweltbedingte und neurologische Faktoren eine Rolle spielen.";
+
+"tests.result.attentionDeficit.world_statistics.title" = "ADHS-Statistik weltweit ";
+"tests.result.attentionDeficit.world_statistics.person_text0" = "Kinder im Vorschulalter";
+"tests.result.attentionDeficit.world_statistics.person_text1" = "Kinder und Jugendliche";
+"tests.result.attentionDeficit.world_statistics.person_text2" = "Erwachsene";
+"tests.result.attentionDeficit.world_statistics.person_text3" = "Erwachsene über 50 Jahre";
+"tests.result.attentionDeficit.world_statistics.person_value0" = "1,5-3%";
+"tests.result.attentionDeficit.world_statistics.person_value1" = "0,1-8,1%";
+"tests.result.attentionDeficit.world_statistics.person_value2" = "0,6-7,3%";
+"tests.result.attentionDeficit.world_statistics.person_value3" = "1,5-2,2%";
+"tests.result.attentionDeficit.world_statistics.description" = "Weltweit leiden etwa <c>6,8%%</c> der Menschen an einer symptomatischen Form von ADHS, was etwa <c>366,3 Millionen Menschen</c> entspricht.";
+
+"tests.result.attentionDeficit.energy.title" = "ADHS: Energiegeber und -nehmer";
+"tests.result.attentionDeficit.energy.subtitle_give" = "Verleiht Energie";
+"tests.result.attentionDeficit.energy.subtitle_take" = "Kostet Energie";
+"tests.result.attentionDeficit.energy.content_give0" = "Ruhe und Meditation";
+"tests.result.attentionDeficit.energy.content_give1" = "Bewegung und Sport";
+"tests.result.attentionDeficit.energy.content_give2" = "Plaudern mit einem engen Freund";
+"tests.result.attentionDeficit.energy.content_give3" = "Verbindung zu Tieren und Natur";
+"tests.result.attentionDeficit.energy.content_give4" = "Musik hören";
+"tests.result.attentionDeficit.energy.content_give5" = "Selbstbestätigung";
+"tests.result.attentionDeficit.energy.content_give6" = "Kreativ sein";
+"tests.result.attentionDeficit.energy.content_take0" = "Überarbeitung";
+"tests.result.attentionDeficit.energy.content_take1" = "Reizüberflutung/Überstimulation";
+"tests.result.attentionDeficit.energy.content_take2" = "Negative Selbstgespräche";
+"tests.result.attentionDeficit.energy.content_take3" = "Mangel an Struktur oder Routine";
+"tests.result.attentionDeficit.energy.content_take4" = "Schlafstörungen";
+"tests.result.attentionDeficit.energy.content_take5" = "Ständige Stimulation";
+"tests.result.attentionDeficit.energy.content_take6" = "Häufige/Eingeschränkte Nahrungsaufnahme";
+
+"tests.result.attentionDeficit.careers.title" = "Berufe für Menschen mit ADHS";
+"tests.result.attentionDeficit.careers.no_description" = "Herzlichen Glückwunsch! 🎉 Da du anscheinend kein ADHS hast, sind <c>alle Wege</c> für dich geebnet.";
+"tests.result.attentionDeficit.careers.mild_description" = "Menschen mit leichten ADHS-Symptome profitieren oft von strukturierten, detailorientierten Rollen mit Raum für etwas Kreativität und Aufgabenvielfalt.";
+"tests.result.attentionDeficit.careers.moderate_description" = "Aufgaben mit flexiblen Rollen, praktische Tätigkeiten und dynamische Verantwortlichkeiten können bei moderater ADHS helfen, indem sie die Monotonie verringern.";
+"tests.result.attentionDeficit.careers.severe_description" = "Bei ADHS mit schweren Symptomen sind hochgradig motivierende, praktische Aufgaben mit minimalen sich wiederholenden Aufgaben und viel Bewegung oder Kreativität von Vorteil.";
+
+"tests.result.attentionDeficit.careers.match" = "match";
+"tests.result.attentionDeficit.careers.graphic_designer.title" = "🎨 Grafikdesigner/in ";
+"tests.result.attentionDeficit.careers.graphic_designer.description" = "Kombiniert Kreativität mit strukturierten Projektzeitplänen und ermöglicht so die Konzentration auf Details und das Gesamtkonzept.";
+"tests.result.attentionDeficit.careers.teacher.title" = "👩‍🏫 Lehrer/in ";
+"tests.result.attentionDeficit.careers.teacher.description" = "Der Umgang mit Schülern und die Unterrichtsplanung bieten Abwechslung, während man sich an einen strukturierten Tagesablauf hält.";
+"tests.result.attentionDeficit.careers.accountant.title" = "📊 Rechnungsprüfer/in ";
+"tests.result.attentionDeficit.careers.accountant.description" = "Ein Job, bei dem es auf Details ankommt, mit Fristen und strukturierten Arbeitsabläufen, der bei leichter ADHS von Vorteil sein kann.";
+"tests.result.attentionDeficit.careers.sales_representative.title" = "💼 Vertriebsmitarbeiter/in";
+"tests.result.attentionDeficit.careers.sales_representative.description" = "Die aktive Arbeit mit neuen Kunden und regelmäßige Bewegung können den Geist frisch halten und gleichzeitig die zwischenmenschlichen Fähigkeiten verbessern.";
+"tests.result.attentionDeficit.careers.chef.title" = "🍳 Küchenchef/in ";
+"tests.result.attentionDeficit.careers.chef.description" = "Schnelle, praktische Arbeit hält den Geist beschäftigt, und Teamarbeit in der Küche sorgt für Abwechslung und Struktur.";
+"tests.result.attentionDeficit.careers.event_coordinator.title" = "🎉 Eventmanager/in ";
+"tests.result.attentionDeficit.careers.event_coordinator.description" = "Die Planung und Durchführung von Veranstaltungen erfordert eine Mischung aus Organisation, Energie und Problemlösung vor Ort, wobei Detailarbeit und aktives Engagement in Einklang gebracht werden müssen.";
+"tests.result.attentionDeficit.careers.entrepreneur.title" = "💡 Unternehmer/in";
+"tests.result.attentionDeficit.careers.entrepreneur.description" = "Bietet Flexibilität, Freiheit, den eigenen Zeitplan festzulegen, und ständige Abwechslung, sodass Einzelpersonen an mehreren Themen gleichzeitig arbeiten können.";
+"tests.result.attentionDeficit.careers.personal_trainer.title" = "🏋️ Personal Trainer";
+"tests.result.attentionDeficit.careers.personal_trainer.description" = "Körperliche Aktivität, flexible Zeitpläne und die persönliche Interaktion mit den Kunden können das Energieniveau und die Konzentration hoch halten.";
+"tests.result.attentionDeficit.careers.artist.title" = "🎸 Künstler/in und/oder Musiker/in";
+"tests.result.attentionDeficit.careers.artist.description" = "Kreative Bereiche wie Kunst und Musik ermöglichen oft Selbstverwirklichung und Freiheit und erlauben eine sehr individuelle Arbeitsweise.";
+
+"tests.result.attentionDeficit.plan.title" = "Dein individueller Plan,";
+
+"tests.result.attentionDeficit.grid_plan.mild_title" = "Wie man damit umgeht <c>leichter ADHS</c>";
+"tests.result.attentionDeficit.grid_plan.moderate_title" = "Wie man damit umgeht <c>mittelschwerer ADHS</c>";
+"tests.result.attentionDeficit.grid_plan.severe_title" = "Wie man damit umgeht <c>schwerer ADHS</c>";
+
+"tests.result.attentionDeficit.plan.mild_subtitle" = "wie du mit <c>leichter ADHS</c> umgehen kannst";
+"tests.result.attentionDeficit.plan.moderate_subtitle" = "wie du mit <c>mittelschwerer ADHS</c> umgehen kannst";
+"tests.result.attentionDeficit.plan.severe_subtitle" = "wie du mit <c>schwerer ADHS</c> umgehen kannst";
+
+"tests.result.attentionDeficit.plan.mild.step_1.title" = "Lege tägliche Routinen fest";
+"tests.result.attentionDeficit.plan.mild.step_1.content" = "Erstelle einen einfachen Zeitplan für Arbeit, Mahlzeiten und Entspannung";
+
+"tests.result.attentionDeficit.plan.mild.step_2.title" = "Benutze einen Terminplaner";
+"tests.result.attentionDeficit.plan.mild.step_2.content" = "Nutze einen Planer, um Aufgaben und Termine im Blick zu behalten";
+
+"tests.result.attentionDeficit.plan.mild.step_3.title" = "Stelle Wecker für Aufgaben";
+"tests.result.attentionDeficit.plan.mild.step_3.content" = "Nutze die Weckfunktion, um in 25- oder 50-Minuten-Blöcken fokussiert zu bleiben";
+
+"tests.result.attentionDeficit.plan.mild.step_4.title" = "Mache kleine Pausen";
+"tests.result.attentionDeficit.plan.mild.step_4.content" = "Mache nach jedem Arbeitsblock eine Pause, um Energie zu tanken und Ablenkungen zu vermeiden";
+
+"tests.result.attentionDeficit.plan.mild.step_5.title" = "Übe dich in Achtsamkeit";
+"tests.result.attentionDeficit.plan.mild.step_5.content" = "Plane täglich kurze Achtsamkeitsübungen, um deine Konzentration zu steigern";
+
+"tests.result.attentionDeficit.plan.mild.step_6.title" = "Belohne auch kleine Erfolge";
+"tests.result.attentionDeficit.plan.mild.step_6.content" = "Feiere erledigte Aufgaben, um motiviert zu bleiben und bewährte Praktiken zu festigen";
+
+"tests.result.attentionDeficit.plan.moderate.step_1.title" = "Unterteile Aufgaben in einzelne Schritte";
+"tests.result.attentionDeficit.plan.moderate.step_1.content" = "Bewältige größere Aufgaben, indem du sie in kleinere, überschaubare Schritte unterteilst";
+
+"tests.result.attentionDeficit.plan.moderate.step_2.title" = "Setze Prioritäten mit To-do-Listen";
+"tests.result.attentionDeficit.plan.moderate.step_2.content" = "Erstelle eine nach Prioritäten geordnete To-do-Liste und markiere dringende und wichtige Punkte";
+
+"tests.result.attentionDeficit.plan.moderate.step_3.title" = "Baue Pausen mit Bewegung ein";
+"tests.result.attentionDeficit.plan.moderate.step_3.content" = "Plane Pausen für körperliche Aktivität ein, um Unruhe zu reduzieren und die Konzentration wiederzugewinnen";
+
+"tests.result.attentionDeficit.plan.moderate.step_4.title" = "Probiere es mit Zeitblöcken";
+"tests.result.attentionDeficit.plan.moderate.step_4.content" = "Lege Zeitblöcke für bestimmte Aufgaben fest und wechsle zwischen Aufgaben mit hoher Konzentration und leichteren Aufgaben ab";
+
+"tests.result.attentionDeficit.plan.moderate.step_5.title" = "Verwende digitale Erinnerungen";
+"tests.result.attentionDeficit.plan.moderate.step_5.content" = "Richte Erinnerungen für Termine und Fristen auf deinem Handy ein oder notiere sie in deinem Kalender";
+
+"tests.result.attentionDeficit.plan.moderate.step_6.title" = "Suche dir einen Therapeuten oder Coach";
+"tests.result.attentionDeficit.plan.moderate.step_6.content" = "Die Zusammenarbeit mit einem Fachmann kann bei der Entwicklung von Strategien und der Aufrechterhaltung der Rechenschaftspflicht helfen";
+
+"tests.result.attentionDeficit.plan.severe.step_1.title" = "Ziele einfacher erreichen";
+"tests.result.attentionDeficit.plan.severe.step_1.content" = "Setze dir jeden Tag klare, erreichbare Ziele, um Überforderung zu vermeiden";
+
+"tests.result.attentionDeficit.plan.severe.step_2.title" = "Richte Routinen ein";
+"tests.result.attentionDeficit.plan.severe.step_2.content" = "Verwende tägliche Routinen als Grundlage; schreibe sie auf und halte dich daran";
+
+"tests.result.attentionDeficit.plan.severe.step_3.title" = "Integriere Bewegung";
+"tests.result.attentionDeficit.plan.severe.step_3.content" = "Treibe regelmäßig Sport, um Hyperaktivität zu bewältigen und Energie positiv zu kanalisieren";
+
+"tests.result.attentionDeficit.plan.severe.step_4.title" = "Teile deine Arbeit auf";
+"tests.result.attentionDeficit.plan.severe.step_4.content" = "Konzentriere dich auf eine kleine Aufgabe nach der anderen und mache zwischendurch Pausen";
+
+"tests.result.attentionDeficit.plan.severe.step_5.title" = "Verwende Timer und Wecker";
+"tests.result.attentionDeficit.plan.severe.step_5.content" = "Stelle einen Wecker für Aufgabenwechsel und tägliche Aktivitäten, um die Zeit im Blick zu behalten";
+
+"tests.result.attentionDeficit.plan.severe.step_6.title" = "Hol dir Unterstützung";
+"tests.result.attentionDeficit.plan.severe.step_6.content" = "Arbeite mit einem Therapeuten, Coach oder einer Gruppe für persönliche Unterstützung und Motivation";
+
+"tests.result.attentionDeficit.plan.disclaimer" = "Bitte beachte, dass dieser Plan allgemeine Strategien zur Behandlung von ADHS enthält. Die individuellen Bedürfnisse und Reaktionen können variieren. Wende dich für eine persönliche Beratung und Unterstützung an einen Arzt.";
+
+"tests.result.attentionDeficit.compare.title" = "Ein ADHS-Gehirn ggb. einem nicht-ADHS-Gehirn";
+"tests.result.attentionDeficit.compare.non_brain_deficit" = "nicht-ADHS-Gehirn";
+"tests.result.attentionDeficit.compare.brain_deficit" = "ADHS-Gehirn";
+
+"tests.result.attentionDeficit.compare.non_brain_deficit_text1.tile" = "Kleineres\nKleinhirn";
+"tests.result.attentionDeficit.compare.non_brain_deficit_text1.description" = "(Bewegungsmangel)";
+"tests.result.attentionDeficit.compare.non_brain_deficit_text2.tile" = "Kleinerer\npräfrontaler Kortex";
+"tests.result.attentionDeficit.compare.non_brain_deficit_text2.description" = "(Konzentrations-/Kreativitätsmangel, Reizbarkeit)";
+
+"tests.attention_deficit_task_1" = "Ich habe oft Probleme mit den letzten Feinheiten eines Projekts, nachdem die schwierigen Teile erledigt sind";
+"tests.attention_deficit_task_2" = "Es fällt mir oft schwer, Dinge zu ordnen, wenn ich organisatorische Aufgaben erledigen muss";
+"tests.attention_deficit_task_3" = "Ich vergesse oft Termine oder Verpflichtungen und habe Probleme, mich daran zu erinnern";
+"tests.attention_deficit_task_4" = "Ich zappele und winde oft mit meinen Händen oder Füßen, wenn ich länger sitzen muss";
+"tests.attention_deficit_task_5" = "Ich fühle mich oft überaktiv und zu etwas gedrängt, als würde mich ein Motor antreiben";
+"tests.attention_deficit_task_6" = "Ich mache oft Leichtsinnsfehler bei der Arbeit an langweiligen oder schwierigen Projekten";
+"tests.attention_deficit_task_7" = "Bei langweiligen oder monotonen Tätigkeiten fällt es mir oft schwer, aufmerksam zu bleiben";
+"tests.attention_deficit_task_8" = "Ich finde es oft schwierig, mich auf ein Gespräch zu konzentrieren, selbst wenn Personen direkt mit mir sprechen";
+"tests.attention_deficit_task_9" = "Ich verlege oft Dinge oder kann Dinge nicht finden, sowohl zu Hause als auch bei der Arbeit";
+"tests.attention_deficit_task_10" = "Ich lasse mich oft durch Aktivitäten oder Lärm ablenken";
+"tests.attention_deficit_task_11" = "In Besprechungen oder anderen Situationen, in denen man sitzen bleiben sollte, stehe ich häufig auf";
+"tests.attention_deficit_task_12" = "Ich fühle mich oft nervös oder zappelig";
+"tests.attention_deficit_task_13" = "Wenn ich alleine bin, fällt es mir oft schwer abzuschalten und mich zu entspannen";
+"tests.attention_deficit_task_14" = "Ich rede oft zu viel, wenn ich unter Menschen bin";
+"tests.attention_deficit_task_15" = "Ich beende oft die Sätze meiner Gesprächspartner, bevor sie dies selbst können";
+"tests.attention_deficit_task_16" = "In Situationen, in denen die Reihenfolge wichtig ist, kann ich oft nicht warten, bis ich dran bin";
+"tests.attention_deficit_task_17" = "Ich störe andere oft, wenn sie beschäftigt sind";
+"tests.attention_deficit_task_18" = "Ich vergesse oft, wichtige Aufgaben oder Pflichten zu erledigen";
+
+"tests.big_five_1" = "Ich bin das Leben der Party";
+"tests.big_five_2" = "Ich habe Mitgefühl für die Gefühle anderer";
+"tests.big_five_3" = "Ich bin immer vorbereitet";
+"tests.big_five_4" = "Ich gerate leicht in Stress";
+"tests.big_five_5" = "Ich habe eine lebhafte Vorstellungskraft";
+"tests.big_five_6" = "Ich arbeite lieber im Team als allein";
+"tests.big_five_7" = "Ich sorge dafür, dass sich Menschen wohlfühlen";
+"tests.big_five_8" = "Ich halte mich an einen Zeitplan";
+"tests.big_five_9" = "Ich mache mir oft Sorgen um Dinge";
+"tests.big_five_10" = "Ich genieße es, neue Kulturen kennenzulernen";
+"tests.big_five_11" = "Ich unterhalte mich auf Veranstaltungen mit vielen Menschen";
+"tests.big_five_12" = "Ich interessiere mich für das Wohlbefinden anderer";
+"tests.big_five_13" = "Ich überprüfe meine Arbeit auf Genauigkeit";
+"tests.big_five_14" = "Ich fühle mich in unbekannten Situationen ängstlich";
+"tests.big_five_15" = "Ich genieße es, über abstrakte Konzepte nachzudenken";
+"tests.big_five_16" = "Ich finde es leicht, neue Freunde zu finden";
+"tests.big_five_17" = "Ich höre Menschen ohne zu urteilen zu";
+"tests.big_five_18" = "Ich erledige meine Aufgaben pünktlich";
+"tests.big_five_19" = "Ich fühle mich oft traurig";
+"tests.big_five_20" = "Ich schätze Kunst und Kreativität";
+"tests.big_five_21" = "Ich fühle mich wohl in der Nähe von Menschen";
+"tests.big_five_22" = "Ich vergebe oft Menschen, die mir Unrecht getan haben";
+"tests.big_five_23" = "Ich achte auf Details";
+"tests.big_five_24" = "Ich bin leicht verärgert";
+"tests.big_five_25" = "Ich liebe es, unbekannte Orte zu erkunden";
+"tests.big_five_26" = "Es macht mir nichts aus, im Mittelpunkt zu stehen";
+"tests.big_five_27" = "Ich vermeide es, andere zu beleidigen";
+"tests.big_five_28" = "Ich plane im Voraus, anstatt impulsiv zu handeln";
+"tests.big_five_29" = "Ich mache mir oft Sorgen über Kleinigkeiten";
+"tests.big_five_30" = "Ich probiere gerne neue Speisen aus";
+"tests.big_five_31" = "Ich genieße es, neue Leute kennenzulernen";
+"tests.big_five_32" = "Ich bin loyal gegenüber den Menschen, die mir wichtig sind";
+"tests.big_five_33" = "Ich erledige Hausarbeiten sofort";
+"tests.big_five_34" = "Ich habe oft wechselnde Stimmungen";
+"tests.big_five_35" = "Ich hinterfrage gerne traditionelle Denkweisen";
+"tests.big_five_36" = "Ich beginne leicht Gespräche";
+"tests.big_five_37" = "Ich tue alles, um anderen zu helfen";
+"tests.big_five_38" = "Ich nehme Fristen ernst";
+"tests.big_five_39" = "Ich habe Schwierigkeiten, meine Wut zu kontrollieren";
+"tests.big_five_40" = "Ich bin voller Ideen";
+"tests.big_five_41" = "Ich genieße es, spontan in sozialen Situationen zu sein";
+"tests.big_five_42" = "Ich vermeide es, unhöflich zu sein";
+"tests.big_five_43" = "Ich schiebe Dinge nicht auf";
+"tests.big_five_44" = "Ich werde nervös, wenn die Dinge nicht wie geplant verlaufen";
+"tests.big_five_45" = "Ich schätze Kreativität bei anderen";
+"tests.big_five_46" = "Ich suche regelmäßig soziale Aktivitäten";
+"tests.big_five_47" = "Ich versuche, die Dinge aus der Perspektive anderer zu sehen";
+"tests.big_five_48" = "Ich arbeite methodisch an der Erledigung von Aufgaben";
+"tests.big_five_49" = "Ich denke oft über negative Dinge nach";
+"tests.big_five_50" = "Ich genieße es, über philosophische Ideen nachzudenken";
+"tests.big_five_51" = "Ich bin gerne mit sozialen Plänen beschäftigt";
+"tests.big_five_52" = "Ich vertraue Menschen leicht";
+"tests.big_five_53" = "Ich bin stolz darauf, Aufgaben effizient zu erledigen";
+"tests.big_five_54" = "Ich fühle mich unsicher über mich selbst";
+"tests.big_five_55" = "Ich genieße es, neue Ideen zu erkunden";
+"tests.big_five_56" = "Ich spreche offen mit Fremden";
+"tests.big_five_57" = "Ich vermeide Konflikte, wenn möglich";
+"tests.big_five_58" = "Ich fühle mich schuldig, wenn ich Arbeit unvollendet lasse";
+"tests.big_five_59" = "Ich fühle mich von Stress überwältigt";
+"tests.big_five_60" = "Ich bin bereit, mit neuen Ansätzen zu experimentieren";
+"tests.big_five_61" = "Ich langweile mich, wenn ich zu lange allein bin";
+"tests.big_five_62" = "Ich bin großzügig in meinen Beziehungen";
+"tests.big_five_63" = "Ich setze mir hohe Standards";
+"tests.big_five_64" = "Ich fühle mich nervös in unbekannten Umgebungen";
+"tests.big_five_65" = "Ich löse gerne intellektuelle Rätsel";
+"tests.big_five_66" = "Ich bin gerne aktiv und unterwegs";
+"tests.big_five_67" = "Ich biete schnell Unterstützung für Bedürftige";
+"tests.big_five_68" = "Ich arbeite gut unter Druck";
+"tests.big_five_69" = "Ich lasse mich leicht von Kleinigkeiten irritieren";
+"tests.big_five_70" = "Ich bin begeistert von innovativen Ideen";
+"tests.big_five_71" = "Ich fühle mich selten schüchtern in sozialen Situationen";
+"tests.big_five_72" = "Ich nehme mir Zeit, die Gefühle anderer zu verstehen";
+"tests.big_five_73" = "Ich bin streng darin, einen Zeitplan einzuhalten";
+"tests.big_five_74" = "Ich fühle mich oft entmutigt, wenn Dinge schiefgehen";
+"tests.big_five_75" = "Ich denke gerne über meine Gedanken und Emotionen nach";
+"tests.big_five_76" = "Ich fühle mich wohl dabei, in Gruppen die Führung zu übernehmen";
+"tests.big_five_77" = "Ich versuche, in allen Situationen fair zu sein";
+"tests.big_five_78" = "Ich vermeide es, Abkürzungen bei meiner Arbeit zu nehmen";
+"tests.big_five_79" = "Ich mache mir oft Sorgen über zukünftige Ereignisse";
+"tests.big_five_80" = "Ich suche regelmäßig nach neuen Erfahrungen";
+"tests.big_five_81" = "Ich genieße es, mit Menschen in großen Gruppen zu sprechen";
+"tests.big_five_82" = "Ich vermeide es, andere unwohl fühlen zu lassen";
+"tests.big_five_83" = "Ich erledige Aufgaben, bevor ich mich entspanne";
+"tests.big_five_84" = "Ich werde nervös vor wichtigen Ereignissen";
+"tests.big_five_85" = "Ich bin neugierig, wie Dinge funktionieren";
+"tests.big_five_86" = "Ich lerne gerne neue Leute in unbekannten Umgebungen kennen";
+"tests.big_five_87" = "Ich vergebe Menschen leicht, wenn sie sich entschuldigen";
+"tests.big_five_88" = "Ich genieße es, meinen Arbeitsbereich zu organisieren";
+"tests.big_five_89" = "Ich neige dazu, Dinge zu überdenken";
+"tests.big_five_90" = "Ich finde Schönheit in kleinen Details";
+"tests.big_five_91" = "Ich werde durch soziale Interaktionen energetisiert";
+"tests.big_five_92" = "Ich finde es einfach, Kompromisse mit anderen einzugehen";
+"tests.big_five_93" = "Ich plane meine Zeit effizient";
+"tests.big_five_94" = "Ich fühle mich oft unsicher in sozialen Umgebungen";
+"tests.big_five_95" = "Ich genieße es, über die Zukunft nachzudenken";
+"tests.big_five_96" = "Ich bin gerne spontan in meinem sozialen Leben";
+"tests.big_five_97" = "Ich vermeide es, andere hart zu kritisieren";
+"tests.big_five_98" = "Ich vermeide es, Dinge bis zur letzten Minute aufzuschieben";
+"tests.big_five_99" = "Ich neige dazu, mich ohne Grund traurig zu fühlen";
+"tests.big_five_100" = "Ich erkunde gerne neue Perspektiven auf vertraute Dinge";
+
+"tests.trauma_1" = "Ich habe wiederholte, störende und unerwünschte Erinnerungen an die belastende Erfahrung";
+"tests.trauma_2" = "Ich habe immer wieder schlechte Träume über schwierige Zeiten";
+"tests.trauma_3" = "Manchmal fühlt es sich an, als würde ich die stressige Situation noch einmal durchleben";
+"tests.trauma_4" = "Wenn mich etwas an das schlechte Erlebnis erinnert, macht mich das wirklich fertig";
+"tests.trauma_5" = "Ich habe starke körperliche Reaktionen, wenn ich an einen schwierigen Moment erinnert werde";
+"tests.trauma_6" = "Ich vermeide es, an das Geschehene zu denken, und versuche, es aus meinem Kopf zu verdrängen";
+"tests.trauma_7" = "Ich meide Menschen oder Dinge, die Erinnerungen an das Erlebte wecken";
+"tests.trauma_8" = "Es fällt mir schwer, mich an wichtige Teile der traumatischen Erfahrung zu erinnern";
+"tests.trauma_9" = "Ich habe negative Überzeugungen über mich selbst, andere oder die Welt wegen des belastenden Ereignisses";
+"tests.trauma_10" = "Ich gebe mir selbst oder jemand anderem die Schuld für das schlechte Erlebnis oder was danach passiert ist";
+"tests.trauma_11" = "Ich habe starke negative Gefühle wie Angst, Entsetzen, Wut, Schuld oder Scham";
+"tests.trauma_12" = "Ich habe das Interesse an Aktivitäten verloren, die mir früher Spaß gemacht haben";
+"tests.trauma_13" = "Ich fühle mich von anderen Menschen distanziert oder abgeschnitten";
+"tests.trauma_14" = "Ich habe Schwierigkeiten, positive Gefühle zu empfinden, zum Beispiel kann ich mich nicht für meine Freunde und Familie freuen";
+"tests.trauma_15" = "Ich zeige reizbares Verhalten, Wutausbrüche oder handle aggressiv";
+"tests.trauma_16" = "Ich gehe zu viele Risiken ein oder tue Dinge, die mir schaden könnten";
+"tests.trauma_17" = "Ich bin \"überwachsam\", achtsam oder auf der Hut";
+"tests.trauma_18" = "Ich fühle mich schreckhaft oder lasse mich leicht erschrecken";
+"tests.trauma_19" = "Ich habe Schwierigkeiten, mich zu konzentrieren";
+"tests.trauma_20" = "Ich habe Probleme beim Einschlafen oder Durchschlafen";
+
+"tests.fear_response_1" = "Kritik von meinem Chef oder Lehrer gibt mir das Gefühl, mich rechtfertigen zu müssen";
+"tests.fear_response_2" = "Wenn ein Ort unsicher wirkt, plane ich sofort einen Ausweg";
+"tests.fear_response_3" = "Übermäßige Arbeit lässt mich feststecken und handlungsunfähig fühlen";
+"tests.fear_response_4" = "Wenn ein Freund wütend ist, versuche ich instinktiv, ihn zu beruhigen";
+"tests.fear_response_5" = "Ich verteidige meinen Standpunkt energisch, wenn er in Frage gestellt wird";
+"tests.fear_response_6" = "Statt mich auf eine Diskussion einzulassen, verlasse ich sie lieber";
+"tests.fear_response_7" = "Schlechte Nachrichten machen es mir schwer, klar zu denken oder zu reagieren";
+"tests.fear_response_8" = "Auch wenn ich selbst viel zu tun habe, helfe ich gestressten Kollegen";
+"tests.fear_response_9" = "Ein rücksichtsloser Autofahrer macht mich sofort wütend";
+"tests.fear_response_10" = "Aggressive Menschen auf einer Party halten mich auf Distanz";
+"tests.fear_response_11" = "In Notfällen friere ich manchmal ein, statt zu handeln";
+"tests.fear_response_12" = "Selbst wenn Kritik unfair ist, stimme ich oft zu, um Konflikte zu vermeiden";
+"tests.fear_response_13" = "Wenn mir jemand zu Unrecht die Schuld gibt, weigere ich mich zu schweigen";
+"tests.fear_response_14" = "Wenn ich nachts alleine unterwegs bin und eine verdächtige Person sehe, ändere ich meinen Weg";
+"tests.fear_response_15" = "Unerwartetes öffentliches Sprechen lässt meinen Kopf leer werden";
+"tests.fear_response_16" = "Ich kümmere mich erst um andere, bevor ich mich meinem eigenen Stress widme";
+"tests.fear_response_17" = "Verlieren im Wettbewerb motiviert mich, noch härter zu kämpfen";
+"tests.fear_response_18" = "Familiendrama gibt mir das Bedürfnis, eine Ausrede zu finden, um früh zu gehen";
+"tests.fear_response_19" = "Starke Angst blockiert mich mental";
+"tests.fear_response_20" = "Wenn eine geliebte Person traurig ist, stelle ich meine eigenen Bedürfnisse zurück, um sie zu trösten";
+"tests.fear_response_21" = "Ein unhöflicher Kassierer oder Kellner weckt in mir den Wunsch, ihn zur Rede zu stellen";
+"tests.fear_response_22" = "Ich mag es überhaupt nicht, wenn Gruppendiskussionen in Streit ausarten";
+"tests.fear_response_23" = "Laute Geräusche in der Nacht lassen mich hilflos fühlen";
+"tests.fear_response_24" = "Ich zögere, einen Freund zu konfrontieren, wenn er eine schlechte Entscheidung trifft";
+"tests.fear_response_25" = "In Debatten habe ich das Bedürfnis, meinen Standpunkt zu beweisen";
+"tests.fear_response_26" = "Wenn ich emotional überfordert bin, neige ich dazu, Dinge aufzuschieben";
+"tests.fear_response_27" = "Eine stressige Prüfung kann manchmal dazu führen, dass ich alles vergesse";
+"tests.fear_response_28" = "Die schlechte Laune eines Freundes bringt mich dazu, mein Verhalten anzupassen";
+"tests.fear_response_29" = "Falsche Gerüchte über mich zu hören, löst in mir den Wunsch aus, sie richtigzustellen";
+"tests.fear_response_30" = "Stressige Nachrichten bringen mich dazu, das Antworten hinauszuzögern";
+"tests.fear_response_31" = "Ich meide soziale Umgebungen, in denen ich mich nicht auskenne";
+"tests.fear_response_32" = "\"Nein\" zu sagen fällt mir schwer, selbst wenn ich nicht helfen will";
+"tests.fear_response_33" = "Wenn ich in der Öffentlichkeit respektlos behandelt werde, reagiere ich impulsiv";
+"tests.fear_response_34" = "Ich meide Konfrontationen, wenn ich Angst habe";
+"tests.fear_response_35" = "Kritik von jemandem, den ich bewundere, lässt mich erstarren";
+"tests.fear_response_36" = "Wenn ich das Gefühl habe, dass mich jemand nicht mag, bemühe ich mich umso mehr, nett zu sein";
+"tests.fear_response_37" = "Druck, etwas zu tun, das ich nicht will, bringt mich dazu, Widerstand zu leisten";
+"tests.fear_response_38" = "Ich vermeide Risiken";
+"tests.fear_response_39" = "Wenn ich einen großen Fehler mache, tue ich nichts, anstatt ihn zu beheben";
+"tests.fear_response_40" = "Ich sorge mich mehr um das Wohlbefinden anderer als um mein eigenes";
+
+"tests.type_of_smart_task_1" = "Ich ertappe mich oft dabei, zur Musik mitzusummen oder den Takt mitzuklopfen";
+"tests.type_of_smart_task_2" = "Ich fühle mich wohl dabei, Gespräche mit neuen Leuten zu beginnen";
+"tests.type_of_smart_task_3" = "Ich analysiere oder interpretiere gerne Bücher, Gedichte oder Liedtexte";
+"tests.type_of_smart_task_4" = "In meiner Freizeit löse ich gerne Mathe- oder Denksportaufgaben";
+"tests.type_of_smart_task_5" = "Ich genieße es, zu visualisieren und mir vorzustellen, wie Dinge aussehen oder zusammenpassen";
+"tests.type_of_smart_task_6" = "Ich singe gern, spiele gern ein Instrument oder mache gern Musik";
+"tests.type_of_smart_task_7" = "Ich bin sehr gut im Sport, Tanzen oder in anderen körperlichen Aktivitäten";
+"tests.type_of_smart_task_8" = "Ich übernehme häufig die Rolle des Vermittlers oder Friedensstifters";
+"tests.type_of_smart_task_9" = "Ich verbringe Zeit damit, über meine Gefühle und Gedanken nachzudenken";
+"tests.type_of_smart_task_10" = "Ich korrigiere beim Lesen oder Zuhören oft Fehler im Kopf";
+"tests.type_of_smart_task_11" = "Ich kann mich leicht an Orte erinnern oder ohne Karten navigieren";
+"tests.type_of_smart_task_12" = "Ich habe oft das Bedürfnis, mich beim Arbeiten oder Denken zu bewegen oder herumzuzappeln";
+"tests.type_of_smart_task_13" = "Ich frage mich oft, wie Dinge funktionieren und suche nach logischen Erklärungen";
+"tests.type_of_smart_task_14" = "Musik hilft mir, mich zu konzentrieren oder beeinflusst meine Emotionen erheblich";
+"tests.type_of_smart_task_15" = "Ich lerne lieber durch praktische Aktivitäten als nur durch Lesen oder Zuhören";
+"tests.type_of_smart_task_16" = "Mir fällt es meist auf, wenn sich jemand verärgert oder ausgeschlossen fühlt";
+"tests.type_of_smart_task_17" = "Ich bin mir meiner Stärken und Schwächen bewusst";
+"tests.type_of_smart_task_18" = "Ich experimentiere gerne mit verschiedenen Möglichkeiten, ein Problem zu lösen";
+"tests.type_of_smart_task_19" = "Ich bemerke und erinnere mich oft an Zitate oder aussagekräftige Sätze aus Büchern oder Filmen";
+"tests.type_of_smart_task_20" = "Ich bevorzuge Aktivitäten, bei denen ich selbstständig arbeiten kann";
+"tests.type_of_smart_task_21" = "Ich genieße es, Räume einzurichten oder zu dekorieren, um sie optisch ansprechend zu gestalten";
+"tests.type_of_smart_task_22" = "Neue Sprachen zu lernen finde ich faszinierend und unterhaltsam";
+"tests.type_of_smart_task_23" = "Ich verbringe gerne Zeit in der Natur, zum Beispiel mit Wandern, Camping oder Gartenarbeit";
+"tests.type_of_smart_task_24" = "Ich denke über Entscheidungen oder Probleme methodisch nach";
+"tests.type_of_smart_task_25" = "Ich arbeite gerne im Team oder kooperiere mit anderen, um Ziele zu erreichen";
+"tests.type_of_smart_task_26" = "Musik hören oder Musik zu machen  gibt mir Energie";
+"tests.type_of_smart_task_27" = "Ich schreibe gern Geschichten, Gedichte oder Tagebuch";
+"tests.type_of_smart_task_28" = "Rechnen mit Zahlen ist für mich intuitiv und angenehm";
+"tests.type_of_smart_task_29" = "Ich genieße es, Dinge selbst zu basteln oder bauen";
+"tests.type_of_smart_task_30" = "Ich stelle mir oft neue Räume oder Strukturen vor oder träume davon";
+"tests.type_of_smart_task_31" = "Ich kann meine Gedanken in Gesprächen oder Debatten leicht artikulieren";
+"tests.type_of_smart_task_32" = "Ich schätze Zeit allein, um Kraft zu tanken und nachzudenken";
+"tests.type_of_smart_task_33" = "Ich genieße es, andere zu betreuen oder zu unterrichten, um ihnen zu helfen, zu wachsen";
+"tests.type_of_smart_task_34" = "Ich neige dazu, Probleme Schritt für Schritt zu durchdenken, um Lösungen zu finden";
+"tests.type_of_smart_task_35" = "Ich erkenne es oft, wenn ein Lied leicht daneben oder falsch ist";
+"tests.type_of_smart_task_36" = "Körperliche Koordination und Gleichgewicht gehören zu meinen Stärken";
+"tests.type_of_smart_task_37" = "Ich finde Befriedigung darin, Gegenstände oder Räume kreativ zu gestalten";
+"tests.type_of_smart_task_38" = "Das Erstellen von Playlists oder Entdecken neuer Musik ist etwas, was ich regelmäßig gerne mache";
+"tests.type_of_smart_task_39" = "Ich liebe Wortspiele wie Kreuzworträtsel oder Anagramme";
+"tests.type_of_smart_task_40" = "Ich denke oft tief über den Sinn oder Zweck meines Lebens nach";
+"tests.type_of_smart_task_41" = "Ich mag Aktivitäten, die Strategie beinhalten, wie Schach oder Programmieren";
+"tests.type_of_smart_task_42" = "Ich nehme den Rhythmus oder Takt in alltäglichen Geräuschen wahr, wie etwa in Schritten oder beim Tippen";
+"tests.type_of_smart_task_43" = "Ich ziehe es vor, Aufgaben physisch zu erledigen, anstatt darüber zu diskutieren oder Theorien aufzustellen";
+"tests.type_of_smart_task_44" = "Der Aufbau und die Pflege von Beziehungen hat für mich Priorität";
+"tests.type_of_smart_task_45" = "Mir fallen oft Details an Tieren oder Pflanzen auf, die andere übersehen";
+"tests.type_of_smart_task_46" = "Ich mag Rätsel und Spiele, bei denen es um Formen geht, wie Tetris oder Puzzles";
+"tests.type_of_smart_task_47" = "Ich probiere gern verschiedene Musikgenres oder -stile aus";
+"tests.type_of_smart_task_48" = "Ich verlasse mich oft auf den Input anderer, um meine Ideen oder Entscheidungen zu verfeinern";
+"tests.type_of_smart_task_49" = "Ich lege Wert auf Selbsterkenntnis und persönliches Wachstum";
+"tests.type_of_smart_task_50" = "Öffentliches Reden oder die Präsentation meiner Ideen vor anderen ist etwas, bei dem ich mich sicher fühle";
+"tests.type_of_smart_task_51" = "Ich kann verschiedene Pflanzen, Tiere oder natürliche Merkmale leicht identifizieren";
+"tests.type_of_smart_task_52" = "Ich mache gerne Skizzen oder Zeichnungen, um mich auszudrücken oder zu entspannen";
+"tests.type_of_smart_task_53" = "Ich erkunde gerne neue Umgebungen oder Gelände beim Wandern oder Klettern";
+"tests.type_of_smart_task_54" = "Ich bin gut darin, andere von meinem Standpunkt zu überzeugen";
+"tests.type_of_smart_task_55" = "Ich finde es befriedigend, Zeitpläne zu erstellen und Deadlines zu setzen oder damit zu arbeiten";
+"tests.type_of_smart_task_56" = "Ich denke oft in Bildern statt in Worten";
+"tests.type_of_smart_task_57" = "Ich setze mir oft persönliche Ziele und plane, wie ich sie erreichen kann";
+"tests.type_of_smart_task_58" = "Ich fühle eine starke Verbindung zu den Lebewesen um mich herum";
+"tests.type_of_smart_task_59" = "Ich fühle mich im Einklang mit der Art und Weise, wie sich mein Körper bewegt und reagiert";
+"tests.type_of_smart_task_60" = "Ich kann problemlos verschiedene Instrumente in einem Musikstück identifizieren";
+"tests.type_of_smart_task_61" = "Ich genieße gesellige Zusammenkünfte und das Kennenlernen neuer Leute";
+"tests.type_of_smart_task_62" = "Ich analysiere vergangene Entscheidungen, um zu lernen und zu wachsen";
+"tests.type_of_smart_task_63" = "Ich mag Aktivitäten wie Programmieren oder das Arbeiten mit Formeln";
+"tests.type_of_smart_task_64" = "Ich lese oder schreibe etwas oft noch einmal durch, bis es für mich perfekt klingt";
+"tests.type_of_smart_task_65" = "Ich bin im Einklang mit dem, was mich glücklich macht oder erfüllt";
+"tests.type_of_smart_task_66" = "Ich genieße Aktivitäten wie Yoga oder Stretching zur Entspannung";
+"tests.type_of_smart_task_67" = "Ich bemerke oft subtile Änderungen im Wetter oder in den Jahreszeiten";
+"tests.type_of_smart_task_68" = "Ich erkenne subtile Unterschiede in Farben, Formen oder Mustern";
+"tests.type_of_smart_task_69" = "Der Schutz der Umwelt oder der Tierwelt liegt mir sehr am Herzen";
+"tests.type_of_smart_task_70" = "Ich mag es, Daten zu analysieren oder Statistiken zu interpretieren";
+"tests.type_of_smart_task_71" = "Ich bevorzuge Outdoor-Aktivitäten gegenüber Indoor-Aktivitäten";
+"tests.type_of_smart_task_72" = "Ich helfe gerne anderen, sich in neuen Umgebungen wohlzufühlen";
+"tests.type_of_smart_task_73" = "Ich verbringe Zeit damit, darüber nachzudenken, wie ich mich verbessern kann";
+"tests.type_of_smart_task_74" = "Ich fühle mich am entspanntesten, wenn ich von Natur umgeben bin";
+"tests.type_of_smart_task_75" = "Ich genieße körperliche Aktivitäten wie Wandern oder Schwimmen";
+"tests.type_of_smart_task_76" = "Ich denke oft über die Nachhaltigkeit meines Handelns nach";
+"tests.type_of_smart_task_77" = "Ich finde gerne clevere Wege, Dinge auszudrücken bzw. in Worte zu fassen";
+"tests.type_of_smart_task_78" = "Mich ziehen Aktivitäten wie Malen oder Fotografieren an";
+"tests.type_of_smart_task_79" = "Ich lerne gern etwas über Ökosysteme oder die Umwelt";
+"tests.type_of_smart_task_80" = "Ich analysiere oder bewerte oft die musikalische Struktur von Liedern";
+
+// MARK: Intelligence rest result
+
+"tests.result.intelligence.title" = "Intelligenztyp";
+"tests.result.intelligence.general.title" = "Ihr dominanter Intelligenztyp";
+"tests.result.intelligence.general.description_picture" = "Bild";
+"tests.result.intelligence.general.description_nature" = "Natur";
+"tests.result.intelligence.general.description_myself" = "Selbst";
+"tests.result.intelligence.general.description_people" = "Menschen";
+"tests.result.intelligence.general.description_music" = "Musik";
+"tests.result.intelligence.general.description_word" = "Wort";
+"tests.result.intelligence.general.description_number" = "Zahl";
+"tests.result.intelligence.general.description_body" = "Körper";
+"tests.result.intelligence.general.description_mixed" = "Gemischt";
+
+"tests.result.intelligence.multiple.title" = "Ihre multiplen Intelligenzen";
+"tests.result.intelligence.multiple.description" = "Howard Gardners bahnbrechende Theorie der multiplen Intelligenzen geht davon aus, dass Intelligenz keine einzelne, monolithische Eigenschaft ist, sondern vielmehr eine Reihe von Fähigkeiten oder Talenten, über die Menschen verfügen.";
+"tests.result.intelligence.multiple.description_picture" = "Bild";
+"tests.result.intelligence.multiple.description_nature" = "Natur";
+"tests.result.intelligence.multiple.description_myself" = "Selbst";
+"tests.result.intelligence.multiple.description_people" = "Menschen";
+"tests.result.intelligence.multiple.description_music" = "Musik";
+"tests.result.intelligence.multiple.description_word" = "Wort";
+"tests.result.intelligence.multiple.description_number" = "Zahl";
+"tests.result.intelligence.multiple.description_body" = "Körper";
+
+"tests.result.intelligence.detail.dominant_description_picture" = "Sie denken in lebendigen Bildern und verwandeln Ideen in klare, visuelle Lösungen. Ob in der Kunst, im Design oder bei der Raumplanung – Ihre Vorstellungskraft ermöglicht es, Möglichkeiten zu erkennen und sie zum Leben zu erwecken.";
+"tests.result.intelligence.detail.dominant_description_nature" = "Die Natur ruft nach Ihnen! Ob Pflanzen, Tiere oder die freie Natur, Sie verbinden sich mühelos mit der Welt um Sie herum. Sie beobachten Muster, erkennen Ökosysteme und gedeihen in natürlichen Umgebungen.";
+"tests.result.intelligence.detail.dominant_description_myself" = "Sie sind tief mit sich selbst im Einklang und kennen Ihre Emotionen, Gedanken und Motivationen besser als jeder andere. Diese Selbstwahrnehmung führt Sie zu persönlichem Wachstum, bedeutungsvollen Zielen und einem starken Sinn für das, was Sie tun.";
+"tests.result.intelligence.detail.dominant_description_people" = "Sie sind ein Naturtalent darin, Menschen zu lesen und zu verstehen, wie sie ticken. Ob es darum geht, Teams zusammenzustellen, Konflikte zu lösen oder einfach nur Kontakte zu knüpfen – Ihre Fähigkeit, mit anderen in Beziehung zu treten, ist eine Superkraft, die Menschen zusammenbringt.";
+"tests.result.intelligence.detail.dominant_description_music" = "Ihr Leben hat einen Soundtrack! Sie nehmen mühelos Rhythmen, Melodien und Muster im Klang wahr. Ob Sie auftreten, komponieren oder einfach nur Musik genießen, Sie nutzen Klänge, um sich zu verbinden, zu erschaffen und sich auszudrücken.";
+"tests.result.intelligence.detail.dominant_description_word" = "Sprache ist Ihr Spielplatz! Sie haben die Gabe, Wörter miteinander zu verknüpfen, sei es beim Schreiben, im Gespräch oder beim Erzählen von Geschichten. Ihre Fähigkeit, klar und kreativ zu kommunizieren, macht Sie zu einem Meister des Ausdrucks.";
+"tests.result.intelligence.detail.dominant_description_number" = "Zahlen, Logik und Muster sprechen Sie sehr an. Sie sind hervorragend darin, Probleme zu analysieren, Zusammenhänge zu erkennen und Rätsel zu lösen, bei denen andere ratlos sind. Sie sind der Denker, an den man sich wendet, wenn es um Strategien und Lösungen geht.";
+"tests.result.intelligence.detail.dominant_description_body" = "Ihr Körper ist Ihr bestes Instrument! Sie brauchen Bewegung, sei es beim Sport, Tanzen oder bei praktischen Aktivitäten. Präzision, Beweglichkeit und körperlicher Ausdruck sind Ihre Stärken.";
+
+"tests.result.intelligence.detail.non_dominant_description_picture" = "Menschen vom Bildtyp lieben es, Bilder zu kreieren, zu visualisieren und Probleme mithilfe von Bildern zu lösen. Zeichnen, visuelle Spiele oder das Ausprobieren von Tools wie 3D-Designsoftware können Ihre kreative Vision wecken.";
+"tests.result.intelligence.detail.non_dominant_description_nature" = "Menschen vom Naturtyp erkunden gerne die Natur, verstehen Tiere oder kümmern sich um Pflanzen. Zeit in der Natur zu verbringen, Wanderungen zu unternehmen oder etwas über Ökosysteme zu lernen, kann dabei helfen, Ihre Verbindung zur natürlichen Welt aufzubauen.";
+"tests.result.intelligence.detail.non_dominant_description_myself" = "Menschen vom Selbsttyp legen Wert auf Selbstbeobachtung und emotionales Verständnis. Tagebuchschreiben, Meditation oder das Setzen kleiner persönlicher Ziele können Ihnen dabei helfen, Ihre innere Welt zu erkunden und Klarheit über sich selbst zu entwickeln.";
+"tests.result.intelligence.detail.non_dominant_description_people" = "Menschen vom Menschentyp sind hervorragend darin, Kontakte zu knüpfen, zusammenzuarbeiten und andere zu verstehen. Empathie zu üben, an Gruppenaktivitäten teilzunehmen oder soziale Dynamiken zu beobachten, kann Ihnen dabei helfen, diese Fähigkeiten auf natürliche Weise zu entwickeln.";
+"tests.result.intelligence.detail.non_dominant_description_music" = "Menschen vom Musiktyp haben eine tiefe Verbindung zu Rhythmus, Melodie und Harmonie. Musik hören, Instrumente ausprobieren oder Singen kann Ihnen helfen, sich auf die Welt der Klänge einzustimmen und sie bedeutungsvoller zu machen.";
+"tests.result.intelligence.detail.non_dominant_description_word" = "Menschen vom Worttyp schätzen die Schönheit der Sprache und lesen, schreiben oder formulieren gerne Ideen mit Worten. Das Lesen von Gedichten, Büchern oder die Teilnahme an Diskussionen kann dabei helfen, neue Möglichkeiten zu entdecken, sich auszudrücken.";
+"tests.result.intelligence.detail.non_dominant_description_number" = "Menschen vom Zahlentyp lieben Rätsel, Denksportaufgaben und die Analyse von Funktionsweisen. Das Üben mit Spielen wie Sudoku, das Erkunden mathematischer Konzepte oder das Lösen logischer Herausforderungen kann Ihr Selbstvertrauen stärken und Ihr Denkvermögen schärfen.";
+"tests.result.intelligence.detail.non_dominant_description_body" = "Menschen vom Körpertyp fühlen sich durch Aktion und Bewegung energetisiert. Aktivitäten wie Yoga, Tanzen oder Spiele im Freien können Ihnen helfen, Koordination, Selbstvertrauen und Körperbewusstsein aufzubauen.";
+
+
+"tests.result.intelligence.detail.compare_title" = "Vergleichen Sie sich";
+"tests.result.intelligence.detail.compare_you" = "Du";
+"tests.result.intelligence.detail.compare_average" = "Durchschnitt";
+
+"tests.result.intelligence.detail.profession.title" = "Mögliche Karrieren";
+"tests.result.intelligence.detail.profession.biologist" = "🧑‍🔬 Biologe";
+"tests.result.intelligence.detail.profession.conservationist" = "🌿 Naturschützer";
+"tests.result.intelligence.detail.profession.farmer" = "🚜 Bauer";
+"tests.result.intelligence.detail.profession.veterinarian" = "🐶 Tierarzt";
+"tests.result.intelligence.detail.profession.geologist" = "🪨 Geologe";
+"tests.result.intelligence.detail.profession.environmental_scientist" = "🌍 Umweltwissenschaftler";
+"tests.result.intelligence.detail.profession.philosopher" = "🤔 Philosoph";
+"tests.result.intelligence.detail.profession.psychologist" = "🧠 Psychologe";
+"tests.result.intelligence.detail.profession.writer" = "✍️ Schriftsteller";
+"tests.result.intelligence.detail.profession.life_coach" = "🌟 Lebensberater";
+"tests.result.intelligence.detail.profession.entrepreneur" = "💼 Unternehmer";
+"tests.result.intelligence.detail.profession.athlete_or_coach" = "🏅 Sportler oder Trainer";
+"tests.result.intelligence.detail.profession.dancer" = "💃 Tänzer";
+"tests.result.intelligence.detail.profession.actor" = "🎭 Schauspieler";
+"tests.result.intelligence.detail.profession.surgeon_or_dentist" = "🦷 Chirurg oder Zahnarzt";
+"tests.result.intelligence.detail.profession.physical_therapist" = "🤸‍♂️ Physiotherapeut";
+"tests.result.intelligence.detail.profession.architect" = "🏛️ Architekt";
+"tests.result.intelligence.detail.profession.interior_designer" = "🛋️ Innenarchitekt";
+"tests.result.intelligence.detail.profession.graphic_designer" = "🎨 Grafikdesigner";
+"tests.result.intelligence.detail.profession.photographer" = "📸 Fotograf";
+"tests.result.intelligence.detail.profession.animator_or_illustrator" = "✏️ Zeichner oder Illustrator";
+"tests.result.intelligence.detail.profession.mathematician" = "📐 Mathematiker";
+"tests.result.intelligence.detail.profession.scientist" = "🔬 Wissenschaftler";
+"tests.result.intelligence.detail.profession.engineer" = "⚙️ Ingenieur";
+"tests.result.intelligence.detail.profession.data_analyst" = "📊 Datenanalyst";
+"tests.result.intelligence.detail.profession.economist" = "📈 Ökonom";
+"tests.result.intelligence.detail.profession.author_or_novelist" = "📖 Autor";
+"tests.result.intelligence.detail.profession.journalist" = "📰 Journalist";
+"tests.result.intelligence.detail.profession.proofreader" = "📝 Lektor";
+"tests.result.intelligence.detail.profession.public_speaker" = "🎤 Redner";
+"tests.result.intelligence.detail.profession.lawyer" = "⚖️ Rechtsanwalt";
+"tests.result.intelligence.detail.profession.teacher_of_language_or_literature" = "📚 Lehrer für Sprache oder Literatur";
+"tests.result.intelligence.detail.profession.interpreter" = "🌍 Dolmetscher";
+"tests.result.intelligence.detail.profession.counselor" = "🧑‍🤝‍🧑 Berater";
+"tests.result.intelligence.detail.profession.social_worker" = "❤️ Sozialarbeiter";
+"tests.result.intelligence.detail.profession.human_resources_specialist" = "🧑‍💼 Personalfachkraft";
+"tests.result.intelligence.detail.profession.teacher" = "🍎 Lehrer";
+"tests.result.intelligence.detail.profession.salesperson" = "💼 Verkäufer";
+"tests.result.intelligence.detail.profession.politician" = "🗳️ Politiker";
+"tests.result.intelligence.detail.profession.customer_service_manager" = "📞 Kundendienstleiter";
+"tests.result.intelligence.detail.profession.coach" = "🏋️‍♀️ Trainer";
+"tests.result.intelligence.detail.profession.musician" = "🎸 Musiker";
+"tests.result.intelligence.detail.profession.singer" = "🎤 Sänger";
+"tests.result.intelligence.detail.profession.music_teacher" = "🎷 Musiklehrer";
+"tests.result.intelligence.detail.profession.sound_engineer" = "🎧 Tontechniker";
+"tests.result.intelligence.detail.profession.music_producer" = "🎹 Musikproduzent";
+"tests.result.intelligence.detail.profession.dj" = "🎛️ DJ";
+
+"tests.result.intelligence.detail.dialogs.title_myself" = "Berühmte Selbsttypen";
+"tests.result.intelligence.detail.dialogs.title_body" = "Berühmte Körpertypen";
+"tests.result.intelligence.detail.dialogs.title_picture" = "Berühmte Bildtypen";
+"tests.result.intelligence.detail.dialogs.title_number" = "Berühmte Zahlentypen";
+"tests.result.intelligence.detail.dialogs.title_word" = "Berühmte Worttypen";
+"tests.result.intelligence.detail.dialogs.title_people" = "Berühmte Menschentypen";
+"tests.result.intelligence.detail.dialogs.title_music" = "Berühmte Musiktypen";
+"tests.result.intelligence.detail.dialogs.title_nature" = "Berühmte Naturtypen";
+
+"tests.result.intelligence.detail.dialogs.name_charles_darwin" = "Charles Darwin";
+"tests.result.intelligence.detail.dialogs.text_charles_darwin" = "Ich habe die Biologie mit meiner Evolutionstheorie revolutioniert";
+"tests.result.intelligence.detail.dialogs.name_rachel_carson" = "Rachel Carson";
+"tests.result.intelligence.detail.dialogs.text_rachel_carson" = "Ich habe das Bewusstsein für Umweltprobleme auf der ganzen Welt geschärft";
+"tests.result.intelligence.detail.dialogs.name_carl_jung" = "Carl Jung";
+"tests.result.intelligence.detail.dialogs.text_carl_jung" = "Ich erforschte die Tiefen der menschlichen Psyche und enthüllte die Macht des Unterbewusstseins";
+"tests.result.intelligence.detail.dialogs.name_virginia_woolf" = "Virginia Woolf";
+"tests.result.intelligence.detail.dialogs.text_virginia_woolf" = "Ich habe die Feinheiten des menschlichen Bewusstseins durch mein tiefgründiges Schreiben enthüllt";
+"tests.result.intelligence.detail.dialogs.name_michael_jordan" = "Michael Jordan";
+"tests.result.intelligence.detail.dialogs.text_michael_jordan" = "Ich habe Spitzenleistungen im Basketball mit meinem unübertroffenen Können und meiner Entschlossenheit definiert";
+"tests.result.intelligence.detail.dialogs.name_simone_biles" = "Simone Biles";
+"tests.result.intelligence.detail.dialogs.text_simone_biles" = "Ich habe das Turnen mit meinen bahnbrechenden Leistungen neu definiert";
+"tests.result.intelligence.detail.dialogs.name_leonardo_da_vinci" = "Leonardo da Vinci";
+"tests.result.intelligence.detail.dialogs.text_leonardo_da_vinci" = "Ich bin ein Künstler und Erfinder mit beispiellosen visuell-räumlichen Fähigkeiten";
+"tests.result.intelligence.detail.dialogs.name_marie_curie" = "Marie Curie";
+"tests.result.intelligence.detail.dialogs.text_marie_curie" = "Ich habe abstrakte wissenschaftliche Konzepte visualisiert, um Pionierarbeit in der Forschung zur Radioaktivität zu leisten";
+"tests.result.intelligence.detail.dialogs.name_albert_einstein" = "Albert Einstein";
+"tests.result.intelligence.detail.dialogs.text_albert_einstein" = "Ich habe die Physik mit meiner Relativitätstheorie revolutioniert";
+"tests.result.intelligence.detail.dialogs.name_isaac_newton" = "Isaac Newton";
+"tests.result.intelligence.detail.dialogs.text_isaac_newton" = "Ich habe die Gesetze der Bewegung und Schwerkraft enthüllt und unser Verständnis des Universums geprägt";
+"tests.result.intelligence.detail.dialogs.name_charles_dickens" = "Charles Dickens";
+"tests.result.intelligence.detail.dialogs.text_charles_dickens" = "Ich habe Sprache und Geschichtenerzählen verändert und Theaterstücke und Gedichte geschaffen, die die Jahrhunderte überdauern";
+"tests.result.intelligence.detail.dialogs.name_jk_rowling" = "Joanne K. Rowling";
+"tests.result.intelligence.detail.dialogs.text_jk_rowling" = "Ich habe mit meinen Worten Magie zum Leben erweckt und die Herzen von Lesern auf der ganzen Welt erobert";
+"tests.result.intelligence.detail.dialogs.name_princess_diana" = "Princess Diana";
+"tests.result.intelligence.detail.dialogs.text_princess_diana" = "Ich habe Herzen berührt, indem ich mich mit Mitgefühl für humanitäre Anliegen einsetzte";
+"tests.result.intelligence.detail.dialogs.name_nelson_mandela" = "Nelson Mandela";
+"tests.result.intelligence.detail.dialogs.text_nelson_mandela" = "Ich habe Südafrika geeint, indem ich mit Empathie und Verständnis vorgegangen bin";
+"tests.result.intelligence.detail.dialogs.name_ludwig_van_beethoven" = "Ludwig van Beethoven";
+"tests.result.intelligence.detail.dialogs.text_ludwig_van_beethoven" = "Ich habe Symphonien komponiert, die die Zeit überdauerten, selbst nachdem ich mein Gehör verloren hatte";
+"tests.result.intelligence.detail.dialogs.name_john_williams" = "John Williams";
+"tests.result.intelligence.detail.dialogs.text_john_williams" = "Ich habe Filme mit meiner unvergesslichen Musik zum Leben erweckt";
+
+
+// MARK: Trauma Result
+
+"tests.result.trauma.title" = "Traumatest";
+"tests.result.trauma.general.title_score" = "Dein Ergebnis";
+"tests.result.trauma.general.title_signs" = "PTBS-Anzeichen";
+"tests.result.trauma.general.description_normal" = "normal";
+"tests.result.trauma.general.description_mild" = "leicht";
+"tests.result.trauma.general.description_moderate" = "mäßig";
+"tests.result.trauma.general.description_severe" = "schwer";
+"tests.result.trauma.general.description_extra_severe" = "äußerst schwer";
+
+"tests.result.trauma.score.title" = "Dein Trauma-Ergebnis";
+"tests.result.trauma.score.description_normal" = "Du zeigst eine typische Bandbreite an Reaktionen auf Stress und Trauma, ähnlich wie Personen <c>ohne PTBS</c>. Du gehst wahrscheinlich effektiv mit alltäglichen Stressfaktoren um und erlebst nur minimale Beeinträchtigungen bei deinen täglichen Aktivitäten.";
+"tests.result.trauma.score.description_mild" = "Leichte Anzeichen deuten auf <c>gelegentliche Schwierigkeiten in Verbindung mit einem Trauma</c> hin, wie z. B. kurze Momente der Verzweiflung, Vermeidung oder erhöhte Anspannung.";
+"tests.result.trauma.score.description_moderate" = "Mäßige Anzeichen deuten auf <c>spürbare Auswirkungen des Traumas</c> auf deine Emotionen, Gedanken und dein Verhalten hin.";
+"tests.result.trauma.score.description_severe" = "Schwere Anzeichen stehen für <c>erhebliche Probleme mit PTBS-bezogenen Erfahrungen</c>. Intensive emotionale Reaktionen, wiederkehrende quälende Erinnerungen, Vermeidungsverhalten und ständige Anspannung können das tägliche Funktionsniveau und Beziehungen stark beeinträchtigen.";
+"tests.result.trauma.score.description_extra_severe" = "Äußerst schwere Anzeichen deuten auf eine <c>allgegenwärtige und lähmende PTBS</c> hin. Du fühlst dich möglicherweise von wiederkehrenden traumatischen Erinnerungen, emotionaler Taubheit und erhöhter Wachsamkeit überwältigt, was deinen Alltag dominieren kann.";
+
+"tests.result.trauma.about.title" = "Was ist PTBS?";
+"tests.result.trauma.about.info" = "Die <c>Posttraumatische Belastungsstörung (PTBS)</c> ist eine psychische Erkrankung, die sich entwickeln kann, nachdem jemand ein traumatisches Ereignis erlebt oder miterlebt hat. Zu traumatischen Ereignissen können lebensbedrohliche Situationen oder Ereignisse gehören, die das körperliche, emotionale oder geistige Wohlbefinden einer Person bedrohen.";
+"tests.result.trauma.about.title_signs" = "Anzeichen";
+"tests.result.trauma.about.sign_flashbacks" = "Flashbacks";
+"tests.result.trauma.about.sign_nightmares" = "Albträume";
+"tests.result.trauma.about.sign_severe_anxiety" = "Starke Angst";
+"tests.result.trauma.about.sign_uncontrollable" = "Unkontrollierbare Gedanken über das Ereignis";
+"tests.result.trauma.about.title_affects" = "Wer ist betroffen";
+"tests.result.trauma.about.description_affects" = "PTBS kann Menschen jeden Alters betreffen.";
+"tests.result.trauma.about.title_develop" = "Wie entsteht es";
+"tests.result.trauma.about.description_develop" = "Es ist ganz natürlich, nach einem traumatischen Ereignis Angst zu verspüren, doch die meisten Menschen erholen sich mit der Zeit von den anfänglichen Symptomen. Wenn diese negativen Reaktionen jedoch nicht verschwinden und das tägliche Leben beeinträchtigen, könnte es sich um eine PTBS handeln.";
+
+"tests.result.trauma.facts.title" = "Fakten zu PTBS";
+"tests.result.trauma.facts.info" = "Eine Behandlung der posttraumatischen Belastungsstörung kann dir dabei helfen, dein Leben wieder in den Griff zu bekommen. Die Hauptbehandlung ist eine Gesprächstherapie, auch als Psychotherapie bekannt. Die Behandlung kann aber auch Medikamente umfassen.";
+"tests.result.trauma.facts.profession_help_info" = "Nur <c>50%%</c> der Menschen, die an PTBS leiden, suchen professionelle Hilfe auf";
+"tests.result.trauma.facts.recover_title" = "<c>67%%</c>\n erholen sich vollständig";
+"tests.result.trauma.facts.recover_info" = "<c>67%%</c> der Menschen, die eine PTBS-Behandlung abschließen, erholen sich vollständig";
+"tests.result.trauma.facts.alcohol_info" = "Mehr als <c>50%%</c> der Menschen mit PTBS neigen zu Alkoholmissbrauch";
+"tests.result.trauma.facts.nicotine_info" = "Die Nikotinabhängigkeit bei PTBS-Opfern ist doppelt so hoch";
+
+"tests.result.trauma.plan.title" = "Dein individueller Plan,";
+
+"tests.result.trauma.grid_plan.mild_title" = "Wie man damit umgeht <c>Leichte PTBS</c>";
+"tests.result.trauma.grid_plan.moderate_title" = "Wie man damit umgeht <c>Mäßige PTBS</c>";
+"tests.result.trauma.grid_plan.severe_title" = "Wie man damit umgeht <c>Schwere PTBS</c>";
+"tests.result.trauma.grid_plan.extra_severe_title" = "Wie man damit umgeht <c>Äußerst schwere PTBS</c>";
+
+"tests.result.trauma.plan.mild_subtitle" = "wie du mit <c>Leichte PTBS</c> umgehen kannst";
+"tests.result.trauma.plan.moderate_subtitle" = "wie du mit <c>Mäßige PTBS</c> umgehen kannst";
+"tests.result.trauma.plan.severe_subtitle" = "wie du mit <c>Schwere PTBS</c> umgehen kannst";
+"tests.result.trauma.plan.extra_severe_subtitle" = "wie du mit <c>Äußerst schwere PTBS</c> umgehen kannst";
+"tests.result.trauma.plan.mild.step_1.title" = "Erkennen und aufklären";
+"tests.result.trauma.plan.mild.step_1.content" = "Erkenne deine Symptome und verstehe, wie sich ein Trauma auf dich auswirkt";
+"tests.result.trauma.plan.mild.step_2.title" = "Achtsamkeit üben";
+"tests.result.trauma.plan.mild.step_2.content" = "Mache Atemübungen oder Meditation, um dich in schwierigen Momenten zu erden";
+"tests.result.trauma.plan.mild.step_3.title" = "Routine aufbauen";
+"tests.result.trauma.plan.mild.step_3.content" = "Lege regelmäßige Schlaf-, Sport- und Essenszeiten fest";
+"tests.result.trauma.plan.mild.step_4.title" = "Mit anderen austauschen";
+"tests.result.trauma.plan.mild.step_4.content" = "Sprich mit Freunden oder Familienmitgliedern, denen du vertraust, über deine Gefühle";
+"tests.result.trauma.plan.mild.step_5.title" = "Positive Aktivitäten";
+"tests.result.trauma.plan.mild.step_5.content" = "Verbringe Zeit mit Hobbys oder Aktivitäten, die Freude bereiten und dich ablenken";
+"tests.result.trauma.plan.mild.step_6.title" = "Fortschritt verfolgen";
+"tests.result.trauma.plan.mild.step_6.content" = "Führe ein Tagebuch über deine Gefühle und Auslöser, um Muster und Verbesserungen zu erkennen";
+"tests.result.trauma.plan.moderate.step_1.title" = "Professionelle Hilfe suchen";
+"tests.result.trauma.plan.moderate.step_1.content" = "Beginne eine traumafokussierte Therapie";
+"tests.result.trauma.plan.moderate.step_2.title" = "Bewältigung lernen";
+"tests.result.trauma.plan.moderate.step_2.content" = "Mache Erdungsübungen wie die 5-4-3-2-1-Methode (Konzentration auf die Sinne)";
+"tests.result.trauma.plan.moderate.step_3.title" = "Körperliche Gesundheit priorisieren";
+"tests.result.trauma.plan.moderate.step_3.content" = "Eine ausgewogene Ernährung und ein Fitnessprogramm helfen dir, Stresshormone zu senken";
+"tests.result.trauma.plan.moderate.step_4.title" = "Stressfaktoren begrenzen";
+"tests.result.trauma.plan.moderate.step_4.content" = "Reduziere unnötigen Stress, wie z. B. einen überladenen Terminkalender";
+"tests.result.trauma.plan.moderate.step_5.title" = "Positive Emotionen";
+"tests.result.trauma.plan.moderate.step_5.content" = "Widme dich wieder Aktivitäten, die dir früher Freude bereitet haben";
+"tests.result.trauma.plan.moderate.step_6.title" = "Fortschritt überwachen und anpassen";
+"tests.result.trauma.plan.moderate.step_6.content" = "Arbeite mit einem Therapeuten zusammen, um die Behandlungspläne auf der Grundlage deines Fortschritts anzupassen";
+"tests.result.trauma.plan.severe.step_1.title" = "Professionelle Behandlung";
+"tests.result.trauma.plan.severe.step_1.content" = "Beginne mit einer traumafokussierten Therapie (z. B. eine längere Expositionstherapie oder EMDR)";
+"tests.result.trauma.plan.severe.step_2.title" = "Sicherheitsplan erstellen";
+"tests.result.trauma.plan.severe.step_2.content" = "Baue ein Netzwerk aus unterstützenden Personen auf, an die du dich in Krisenzeiten wenden kannst";
+"tests.result.trauma.plan.severe.step_3.title" = "Integriere Entspannung";
+"tests.result.trauma.plan.severe.step_3.content" = "Lerne progressive Muskelentspannung oder geführte Imaginationsübungen";
+"tests.result.trauma.plan.severe.step_4.title" = "Körperliche Symptome beheben";
+"tests.result.trauma.plan.severe.step_4.content" = "Entdecke körperorientierte Behandlungen wie Yoga, Akupunktur oder somatische Therapie";
+"tests.result.trauma.plan.severe.step_5.title" = "Soziale Bindungen stärken";
+"tests.result.trauma.plan.severe.step_5.content" = "Nimm an Trauma-Bewältigungsgruppen teil, um gemeinsam Kraft zu schöpfen";
+"tests.result.trauma.plan.severe.step_6.title" = "Auf den Fortschritt fokussieren";
+"tests.result.trauma.plan.severe.step_6.content" = "Setze dir kleine, überschaubare Ziele, um dein Selbstvertrauen wieder aufzubauen";
+"tests.result.trauma.plan.extra_severe.step_1.title" = "Professionelle Behandlung";
+"tests.result.trauma.plan.extra_severe.step_1.content" = "Arbeite mit einem Trauma-Spezialisten zusammen, um einen strukturierten Genesungsplan zu erstellen";
+"tests.result.trauma.plan.extra_severe.step_2.title" = "Netzwerk aufbauen";
+"tests.result.trauma.plan.extra_severe.step_2.content" = "Beziehe Therapeuten, enge Familienangehörige, Freunde und Selbsthilfegruppen mit ein";
+"tests.result.trauma.plan.extra_severe.step_3.title" = "Auf Stabilisierung setzen";
+"tests.result.trauma.plan.extra_severe.step_3.content" = "Nutze Erdungstechniken, Krisen-Hotlines oder Notfallmaßnahmen bei Flashbacks oder extremer Belastung";
+"tests.result.trauma.plan.extra_severe.step_4.title" = "Traumaverarbeitung integrieren";
+"tests.result.trauma.plan.extra_severe.step_4.content" = "Starte eine Traumatherapie, wenn du bereit bist";
+"tests.result.trauma.plan.extra_severe.step_5.title" = "Ganzheitliche Heilungsansätze";
+"tests.result.trauma.plan.extra_severe.step_5.content" = "Nimm an kreativen, ausdrucksbetonten Therapien wie Tagebuchschreiben oder Malen teil";
+"tests.result.trauma.plan.extra_severe.step_6.title" = "Engagement weiter fortsetzen";
+"tests.result.trauma.plan.extra_severe.step_6.content" = "Setze die Therapie auch dann fort, wenn sich die Symptome bessern, um den Fortschritt aufrechtzuerhalten";
+"tests.result.trauma.plan.disclaimer" = "Bitte beachte, dass dieser Plan allgemeine Strategien zur Behandlung von PTBS enthält. Die individuellen Bedürfnisse und Reaktionen können variieren. Wende dich für eine persönliche Beratung und Unterstützung an einen Arzt.";
+
+"tests.result.trauma.chats.title" = "Durchschnittswerte nach Teilbereichen";
+"tests.result.trauma.chats.re_experiencing.title" = "Wiedererleben";
+"tests.result.trauma.chats.re_experiencing.description" = "Auch als intrusive Symptome bekannt, umfasst dies das Wiedererleben des Traumas durch quälende Erinnerungen, Flashbacks oder Albträume. Diese Episoden können sich lebhaft und überwältigend anfühlen, als ob das Ereignis noch einmal geschieht, oft ausgelöst durch Erinnerungen an das Trauma.";
+"tests.result.trauma.chats.avoidance.title" = "Vermeidung";
+"tests.result.trauma.chats.avoidance.description" = "Dies beinhaltet das aktive Vermeiden von Gedanken, Gefühlen, Orten, Menschen oder Aktivitäten, die an das traumatische Ereignis erinnern. Vermeidung kann die Auseinandersetzung mit dem Leben einschränken, da sich Menschen von Situationen oder Emotionen distanzieren, die Stress auslösen könnten.";
+"tests.result.trauma.chats.negative.title" = "Negative Veränderungen";
+"tests.result.trauma.chats.negative.description" = "Dieser Cluster umfasst anhaltende negative Gedanken über sich selbst, andere oder die Welt (z. B. „Ich kann niemandem vertrauen“). Er umfasst auch Schuldgefühle, Scham, emotionale Taubheit oder Desinteresse an Aktivitäten, die früher Spaß gemacht haben, sowie Schwierigkeiten, sich an Teile des Traumas zu erinnern.";
+"tests.result.trauma.chats.arousal.title" = "Erhöhte Anspannung";
+"tests.result.trauma.chats.arousal.description" = "Ein Zustand erhöhter Wachsamkeit oder Reaktionsbereitschaft. Zu den Symptomen gehören Schreckhaftigkeit, Nervosität, Konzentrationsschwierigkeiten, Reizbarkeit, Schlafstörungen und körperliche Symptome wie Herzrasen oder Schwitzen.";
+"tests.result.trauma.chats.dash_line.title" = "durchschnitt";
+
+// MARK: Big 5
+
+"tests.result.big_five.title" = "Big-Five-Test";
+"tests.result.big_five.profile.title" = "Dein Big-5-Profil";
+"tests.result.big_five.profile.text" = "Du bist kein festgelegter Typ. Wir helfen dir zu verstehen, wo du dich zwischen den beiden Dimensionen einordnest. Es gibt dabei kein richtig oder falsch. Und es ist völlig normal, sich in der Mitte zu befinden.";
+
+"tests.result.big_five.progress.openness.left_title" = "Praktische Fähigkeiten";
+"tests.result.big_five.progress.openness.right_title" = "Offen";
+"tests.result.big_five.progress.conscientiousness.left_title" = "Reaktionsschnell";
+"tests.result.big_five.progress.conscientiousness.right_title" = "Gewissenhaft";
+"tests.result.big_five.progress.extraversion.left_title" = "Introvertiert";
+"tests.result.big_five.progress.extraversion.right_title" = "Extravertiert";
+"tests.result.big_five.progress.agreeableness.left_title" = "Willensstark";
+"tests.result.big_five.progress.agreeableness.right_title" = "Umgänglich";
+"tests.result.big_five.progress.neuroticism.left_title" = "Weich";
+"tests.result.big_five.progress.neuroticism.right_title" = "Nervös";
+
+"tests.result.big_five.compare.vs" = "vs.";
+
+"tests.result.big_five.compare.openness.description_low" = "Du magst die Dinge so, wie sie sind – einfach, vorhersehbar und verlässlich. Veränderung erscheint dir vielleicht überflüssig, und du jagst weder den neuesten Trends noch ausgefallenen Ideen hinterher. Stattdessen schätzt du Stabilität und Praktikabilität und hältst dich an das, was sich bewährt hat.";
+"tests.result.big_five.compare.openness.description_medium" = "Du bist eine Mischung aus Neugier und Pragmatismus. Du entdeckst gerne Neues, schätzt aber auch die Vertrautheit bewährter Dinge. Du bist der Typ, der ein neues Rezept ausprobiert, aber im Restaurant trotzdem sein Lieblingsgericht bestellt.";
+"tests.result.big_five.compare.openness.description_high" = "Du bist der ultimative Abenteurer von Geist und Seele. Ob du neue Kulturen erkundest, dich in ein kreatives Projekt vertiefst oder innovative Ideen entwickelst – du lebst von der Aufregung des Entdeckens. Deine Vorstellungskraft kennt keine Grenzen, und du stellst dir ständig die Frage: „Was wäre, wenn?“";
+
+"tests.result.big_five.compare.conscientiousness.description_low" = "Sie sind spontan, locker und leben Ihr Leben ohne starre Zeitpläne oder To-do-Listen. Sie lassen sich lieber treiben und die Dinge auf sich zukommen, anstatt alles planen zu wollen. Sie sind die Art von Person, die in letzter Minute eine lustige Zusammenkunft organisieren kann, aber vergessen, sich für eine Veranstaltung im Voraus anzumelden.";
+"tests.result.big_five.compare.conscientiousness.description_medium" = "Sie sind die perfekte Balance zwischen Struktur und Spontanität. Sie haben gerne Pläne, sind aber flexibel genug, wenn etwas nicht wie erwartet verläuft. Sie sind verantwortungsbewusst, aber Sie machen sich keinen Stress wegen kleiner Details oder ungeplanter Umwege.";
+"tests.result.big_five.compare.conscientiousness.description_high" = "Sie sind ein zielstrebiger Mensch, der Organisation, Struktur und Präzision schätzt. Ob es darum geht, Fristen einzuhalten oder Veranstaltungen zu planen, Sie sind Meister der Effizienz. Sie fühlen sich erfolgreich, wenn alles ok ist und Sie alles nach bestem Gewissen erledigt haben.";
+
+"tests.result.big_five.compare.extraversion.description_low" = "Sie sind ein nachdenklicher und introspektiver Mensch, der in ruhigen, bedeutungsvollen Momenten aufblüht. Ob Sie selbstständig arbeiten oder tiefgründige Einzelgespräche führen, Sie finden Energie in der Reflexion und in persönlichen Kontakten.";
+"tests.result.big_five.compare.extraversion.description_medium" = "Sie sind eine Mischung aus Geselligkeit und Einzelgänger. Sie haben gerne Kontakt, wissen aber, wie Sie bei Bedarf zurücktreten und Kraft tanken können. Ob bei einer lebhaften Gruppenaktivität oder einem ruhigen Abend zu Hause, Sie können in beiden Welten Erfolg haben.";
+"tests.result.big_five.compare.extraversion.description_high" = "Sie sind ein sozialer Antrieb, der jeden Raum mit seiner Energie und Ausstrahlung erhellt. Ob Sie neue Leute kennenlernen, Veranstaltungen organisieren oder ein Team leiten, Sie blühen in lebendigen, interaktiven Umgebungen auf.";
+
+"tests.result.big_five.compare.agreeableness.description_low" = "Sie legen mehr Wert auf Ehrlichkeit und Logik als auf emotionale Harmonie. Sie haben keine Angst, Ihre Meinung zu sagen, auch wenn Sie damit jemanden verärgern. Während manche Sie als direkt oder unnachgiebig betrachten, sehen Sie sich selbst als jemanden, der Wahrheit und Fairness über oberflächlichen Frieden stellt.";
+"tests.result.big_five.compare.agreeableness.description_medium" = "Sie bieten eine gute Balance zwischen Freundlichkeit und Standhaftigkeit. Sie kümmern sich um die Gefühle anderer und arbeiten gut im Team, wissen aber auch, wann Sie für sich selbst eintreten oder sich bei Bedarf wehren müssen. Sie legen Wert auf Harmonie, haben aber keine Angst, Ihre Bedürfnisse oder Meinungen durchzusetzen, wenn nötig.";
+"tests.result.big_five.compare.agreeableness.description_high" = "Sie sind warmherzig, fürsorglich und einfühlsam und kümmern sich immer um das Wohlergehen Ihrer Mitmenschen. Sie legen Wert auf Harmonie und tun alles, damit sich die Menschen geschätzt fühlen. Konflikte versuchen Sie zu vermeiden und es ist Ihnen ein natürliches Gefühl, Streitigkeiten mit Freundlichkeit und Verständnis zu lösen.";
+
+"tests.result.big_five.compare.neuroticism.description_low" = "Du bist ein ruhiger Felsen, der es selten zulässt, dass Stress oder starke Emotionen deine Gelassenheit beeinflussen. Die Herausforderungen des Lebens bringen dich nicht leicht aus der Fassung, und du gehst Probleme mit einer ruhigen, gefassten Einstellung an. Die Menschen bewundern deine Fähigkeit, auch in schwierigen Zeiten optimistisch und geerdet zu bleiben.";
+"tests.result.big_five.compare.neuroticism.description_medium" = "Du erlebst eine gesunde Mischung aus Emotionen und gehst mit Stress meistens gut um, obwohl du gelegentlich von der Menge überwältigt wirst. Du bist im Einklang mit deinen Gefühlen und kannst im Allgemeinen nach Rückschlägen wieder aufstehen. Deine ausgeglichene emotionale Natur hilft dir, mit anderen empathisch zu sein, während du trotzdem relativ ruhig bleibst.";
+"tests.result.big_five.compare.neuroticism.description_high" = "Du fühlst Emotionen tief und bist sehr empfindlich gegenüber Stress oder schwierigen Situationen. Das bedeutet, dass du unglaublich selbstbewusst und empathisch bist, es aber manchmal zu überwältigen dir schwer fällt. Du analysierst deine Gefühle oft im Detail, was sowohl eine Stärke als auch eine Quelle von Angst sein kann.";
+
+"tests.result.big_five.compare.your_strength" = "Ihre Stärken";
+
+"tests.result.big_five.compare.strength.openness.low_1" = "Praktisch und bodenständig";
+"tests.result.big_five.compare.strength.openness.low_2" = "Zuverlässig und konsistent";
+"tests.result.big_five.compare.strength.openness.low_3" = "Erfahren in der Einhaltung von Routinen";
+"tests.result.big_five.compare.strength.openness.medium_1" = "Anpassungsfähig an neue und alte Ansätze";
+"tests.result.big_five.compare.strength.openness.medium_2" = "Ausgewogenheit an Kreativität und Realismus";
+"tests.result.big_five.compare.strength.openness.medium_3" = "Bei Bedarf offen für neue Ideen";
+"tests.result.big_five.compare.strength.openness.high_1" = "Hochkreativ und innovativ";
+"tests.result.big_five.compare.strength.openness.high_2" = "Offen für unterschiedliche Perspektiven";
+"tests.result.big_five.compare.strength.openness.high_3" = "Inspiriert zu neuen Ideen";
+
+"tests.result.big_five.compare.strength.conscientiousness.low_1" = "Anpassungsfähig und einfallsreich";
+"tests.result.big_five.compare.strength.conscientiousness.low_2" = "Ruhig unter Druck";
+"tests.result.big_five.compare.strength.conscientiousness.low_3" = "Gut im Umgang mit Überraschungen";
+"tests.result.big_five.compare.strength.conscientiousness.medium_1" = "Zuverlässig, ohne steif zu sein";
+"tests.result.big_five.compare.strength.conscientiousness.medium_2" = "Anpassungsfähig an Pläne und Änderungen";
+"tests.result.big_five.compare.strength.conscientiousness.medium_3" = "Gut im Jonglieren von Aufgaben";
+"tests.result.big_five.compare.strength.conscientiousness.high_1" = "Hohe Zuverlässigkeit und Zielstrebigkeit";
+"tests.result.big_five.compare.strength.conscientiousness.high_2" = "Hervorragend in Planung und Ausführung";
+"tests.result.big_five.compare.strength.conscientiousness.high_3" = "Detailorientiert und konsequent";
+
+"tests.result.big_five.compare.strength.extraversion.low_1" = "Tiefsinniger Denker und aufmerksamer Zuhörer";
+"tests.result.big_five.compare.strength.extraversion.low_2" = "Großartig beim Aufbau starker persönlicher Beziehungen";
+"tests.result.big_five.compare.strength.extraversion.low_3" = "Konzentriert und unabhängig, zeichnet sich durch Einzelaufgaben aus";
+"tests.result.big_five.compare.strength.extraversion.medium_1" = "Vielseitig in Gesellschaft und Ruhe";
+"tests.result.big_five.compare.strength.extraversion.medium_2" = "Du knüpfst gern Kontakte und tankst allein auf";
+"tests.result.big_five.compare.strength.extraversion.medium_3" = "Gutes Gleichgewicht zwischen Gruppe und Me-Time";
+"tests.result.big_five.compare.strength.extraversion.high_1" = "Charismatisch und einnehmend";
+"tests.result.big_five.compare.strength.extraversion.high_2" = "Erfahren im Netzwerken und Führen";
+"tests.result.big_five.compare.strength.extraversion.high_3" = "Voller positiver Energie";
+
+"tests.result.big_five.compare.strength.agreeableness.low_1" = "Ehrlich und direkt kommen Sie zum Kern der Sache";
+"tests.result.big_five.compare.strength.agreeableness.low_2" = "Erfahren, bei Bedarf für sich selbst und andere einzustehen";
+"tests.result.big_five.compare.strength.agreeableness.low_3" = "Sehr gut darin, Entscheidungen auf der Grundlage von Fakten und Logik zu treffen";
+"tests.result.big_five.compare.strength.agreeableness.medium_1" = "Kooperativ und einfühlsam, ohne ein Schwächling zu sein";
+"tests.result.big_five.compare.strength.agreeableness.medium_2" = "Geschickt darin, Harmonie zu bewahren und gleichzeitig Konflikte zu lösen";
+"tests.result.big_five.compare.strength.agreeableness.medium_3" = "Ausgewogener Umgang mit Freundlichkeit und Durchsetzungsvermögen";
+"tests.result.big_five.compare.strength.agreeableness.high_1" = "Sehr einfühlsam und unterstützend, was Sie zu einem guten Freund und Teamkollegen macht";
+"tests.result.big_five.compare.strength.agreeableness.high_2" = "Hervorragend darin, Konflikte zu lösen und die Zusammenarbeit zu fördern";
+"tests.result.big_five.compare.strength.agreeableness.high_3" = "Geschickt im Aufbau starker, positiver Beziehungen";
+
+"tests.result.big_five.compare.strength.neuroticism.low_1" = "Emotionale Resilienz und Gelassenheit unter Druck";
+"tests.result.big_five.compare.strength.neuroticism.low_2" = "Sehr gut darin, Optimismus und Fokus in schwierigen Situationen zu bewahren";
+"tests.result.big_five.compare.strength.neuroticism.low_3" = "Eine beruhigende und stabilisierende Präsenz für andere";
+"tests.result.big_five.compare.strength.neuroticism.medium_1" = "Ausgeglichene emotionale Wahrnehmung, die es dir ermöglicht, mit anderen in Verbindung zu treten, ohne überwältigt zu werden";
+"tests.result.big_five.compare.strength.neuroticism.medium_2" = "Resilient genug, um die meisten Herausforderungen ruhig zu bewältigen";
+"tests.result.big_five.compare.strength.neuroticism.medium_3" = "Kannst Empathie für andere aufbringen, während du deine Gelassenheit bewahrst";
+"tests.result.big_five.compare.strength.neuroticism.high_1" = "Sehr empathisch und auf die Emotionen anderer eingestellt";
+"tests.result.big_five.compare.strength.neuroticism.high_2" = "Einsichtig und reflektiert, mit einer reichen emotionalen Tiefe";
+"tests.result.big_five.compare.strength.neuroticism.high_3" = "Sehr gut darin, komplexe emotionale Dynamiken in Beziehungen zu verstehen";
+
+"tests.result.big_five.compare.things_improve" = "Könnte verbessert werden";
+
+"tests.result.big_five.compare.improve.openness.low_1" = "Kleine neue Erfahrungen machen, um die Flexibilität zu steigern";
+"tests.result.big_five.compare.improve.openness.low_2" = "Entdecken kreativer Hobbys, um die Neugier zu wecken";
+"tests.result.big_five.compare.improve.openness.low_3" = "Offen sein für alternative Sichtweisen";
+"tests.result.big_five.compare.improve.openness.medium_1" = "Sich herausfordern und ungewohnte Aktivitäten wagen";
+"tests.result.big_five.compare.improve.openness.medium_2" = "Kleine Risiken eingehen, um Kreativität zu entwickeln";
+"tests.result.big_five.compare.improve.openness.medium_3" = "Abenteuerlustige Entscheidungen treffen";
+"tests.result.big_five.compare.improve.openness.high_1" = "Konzentrieren auf den Abschluss von Projekten";
+"tests.result.big_five.compare.improve.openness.high_2" = "Balance zwischen Erkundung und Praktikabilität";
+"tests.result.big_five.compare.improve.openness.high_3" = "Vermeiden, sich mit zu vielen Ideen zu überfordern";
+
+"tests.result.big_five.compare.improve.conscientiousness.low_1" = "Baue kleine Routinen auf, um organisiert zu bleiben";
+"tests.result.big_five.compare.improve.conscientiousness.low_2" = "Setze klare Ziele für eine bessere Produktivität";
+"tests.result.big_five.compare.improve.conscientiousness.low_3" = "Vermeide Prokrastination, indem du Aufgaben priorisierst";
+"tests.result.big_five.compare.improve.conscientiousness.medium_1" = "Konzentriere dich auf Beständigkeit bei langfristigen Zielen";
+"tests.result.big_five.compare.improve.conscientiousness.medium_2" = "Vermeide Verzögerungen, indem du dir selbst klare Deadlines setzt";
+"tests.result.big_five.compare.improve.conscientiousness.medium_3" = "Entwickle Gewohnheiten, die deine Produktivität steigern";
+"tests.result.big_five.compare.improve.conscientiousness.high_1" = "Verzichten auf Perfektion üben";
+"tests.result.big_five.compare.improve.conscientiousness.high_2" = "Offen sein für Flexibilität und Spontaneität";
+"tests.result.big_five.compare.improve.conscientiousness.high_3" = "Delegieren von Aufgaben, um Stress abzubauen";
+
+"tests.result.big_five.compare.improve.extraversion.low_1" = "Teilnahme an gesellschaftlichen Veranstaltungen, die Ihren Interessen entsprechen";
+"tests.result.big_five.compare.improve.extraversion.low_2" = "Üben, kleine Gespräche zu beginnen";
+"tests.result.big_five.compare.improve.extraversion.low_3" = "Verlassen der Komfortzone in Gruppen";
+"tests.result.big_five.compare.improve.extraversion.medium_1" = "Bei Bedarf Pausen machen, um neue Kraft zu tanken";
+"tests.result.big_five.compare.improve.extraversion.medium_2" = "Vermeiden von übermäßigem Engagement oder zu viel Isolation";
+"tests.result.big_five.compare.improve.extraversion.medium_3" = "Aktivere Beteiligung an Gruppensituationen";
+"tests.result.big_five.compare.improve.extraversion.high_1" = "Aktives Zuhören in Gesprächen üben";
+"tests.result.big_five.compare.improve.extraversion.high_2" = "Ruhigeren Menschen Raum zum Sprechen geben";
+"tests.result.big_five.compare.improve.extraversion.high_3" = "Für Geselligkeit und persönliche Reflexion gleichermaßen sorgen";
+
+"tests.result.big_five.compare.improve.agreeableness.low_1" = "Ehrlichkeit mit Empathie in Einklang bringen üben, um Beziehungen aufrechtzuerhalten";
+"tests.result.big_five.compare.improve.agreeableness.low_2" = "Aktives Zuhören üben, um die Perspektiven anderer besser zu verstehen";
+"tests.result.big_five.compare.improve.agreeableness.low_3" = "Konzentrieren bei Auseinandersetzungen auf einen sanfteren Ton, um Vertrauen aufzubauen";
+"tests.result.big_five.compare.improve.agreeableness.medium_1" = "Lernen Sie zu erkennen, wann es in Ordnung ist, Ihre Bedürfnisse über die anderer zu stellen";
+"tests.result.big_five.compare.improve.agreeableness.medium_2" = "Konflikte nicht zu sehr durchdenken; konzentrieren Sie sich auf die Lösungen";
+"tests.result.big_five.compare.improve.agreeableness.medium_3" = "Üben in Situationen, in denen man standhaft bleiben muss, durchsetzungsfähiger zu sein";
+"tests.result.big_five.compare.improve.agreeableness.high_1" = "Lernen, bei Bedarf „Nein“ zu sagen, um Burnout oder Groll zu vermeiden";
+"tests.result.big_five.compare.improve.agreeableness.high_2" = "Setzen gesunder Grenzen, um sicherzustellen, dass Ihre eigenen Bedürfnisse erfüllt werden";
+"tests.result.big_five.compare.improve.agreeableness.high_3" = "Üben, die Meinung zu vertreten, auch wenn das zu Meinungsverschiedenheiten führt";
+
+"tests.result.big_five.compare.improve.neuroticism.low_1" = "Achten auf Ihre Emotionen, um Ihre inneren Bedürfnisse besser zu verstehen";
+"tests.result.big_five.compare.improve.neuroticism.low_2" = "Üben Sie Empathie für Menschen, die intensivere Emotionen erleben";
+"tests.result.big_five.compare.improve.neuroticism.low_3" = "Vermeiden Sie es, Gefühle als unwichtig abzutun; sie bieten wertvolle Einsichten";
+"tests.result.big_five.compare.improve.neuroticism.medium_1" = "Nutzen Sie Entspannungstechniken wie Achtsamkeit, um gelegentlichen Stress zu managen";
+"tests.result.big_five.compare.improve.neuroticism.medium_2" = "Bauen Sie Selbstvertrauen in Ihre Fähigkeit auf, emotional herausfordernde Situationen zu meistern";
+"tests.result.big_five.compare.improve.neuroticism.medium_3" = "Konzentrieren Sie sich darauf, negative Gedanken in positive oder umsetzbare umzuwandeln";
+"tests.result.big_five.compare.improve.neuroticism.high_1" = "Üben Sie Achtsamkeit oder Journaling, um überwältigende Emotionen zu verarbeiten";
+"tests.result.big_five.compare.improve.neuroticism.high_2" = "Konzentrieren Sie sich darauf, Resilienz und Vertrauen im Umgang mit Stress aufzubauen";
+"tests.result.big_five.compare.improve.neuroticism.high_3" = "Suchen Sie Unterstützung, wenn nötig, um Ihr emotionales Wohlbefinden sicherzustellen";
+
+
+// MARK: Fear Response
+
+"tests.result.fear_response.title" = "Angstreaktionstyp";
+"tests.result.fear_response.general.title" = "Deine Art der Angstreaktion";
+"tests.result.fear_response.general.fight" = "Kampf";
+"tests.result.fear_response.general.flight" = "Flucht";
+"tests.result.fear_response.general.freeze" = "Erstarren";
+"tests.result.fear_response.general.fawn" = "Beschwichtigen";
+
+"tests.result.fear_response.about.title_fight" = "Was ist die <c>Kampf</c>-Angstreaktion?";
+"tests.result.fear_response.about.title_flight" = "Was ist die <c>Flucht</c>-Angstreaktion?";
+"tests.result.fear_response.about.title_freeze" = "Was ist die <c>Erstarren</c>-Angstreaktion?";
+"tests.result.fear_response.about.title_fawn" = "Was ist die <c>Beschwichtigen</c>-Angstreaktion?";
+
+"tests.result.fear_response.about.description_fawn" = "<c>Die Beschwichtigen</c>-Angstreaktion tritt auf, wenn du dich aus Angst darauf konzentrierst, andere bei Laune zu halten, um in Sicherheit zu bleiben. Es geht darum, zu gefallen oder zu beschwichtigen, um Konflikte oder Ablehnung zu vermeiden.";
+"tests.result.fear_response.about.description_fight" = "<c>Die Kampf-Reaktion</c> ist, wenn die Angst dich bereit macht, die Bedrohung anzunehmen. Du reagierst möglicherweise mit Wut, Abwehrhaltung oder dem Bedürfnis, die Kontrolle über die Situation zurückzugewinnen.";
+"tests.result.fear_response.about.description_flight" = "<c>Die Flucht-Reaktion</c> setzt ein, wenn die Angst dir sagt: „Schnell weg hier!“ Es geht darum, der Situation zu entkommen, um Sicherheit zu finden, sei es durch physisches Entfernen oder durch völlige Vermeidung.";
+"tests.result.fear_response.about.description_freeze" = "<c>Die Erstarren-Reaktion</c> ist wie das Drücken der „Pause-Taste“, wenn die Angst überhandnimmt. Anstatt zu reagieren oder zu fliehen, fühlst du dich festgefahren und unfähig, dich zu bewegen oder zu entscheiden, was als Nächstes zu tun ist.";
+
+"tests.result.fear_response.about.signs_title" = "Häufige Anzeichen";
+"tests.result.fear_response.about.signs_description_fawn_1" = "Immer mit anderen übereinstimmen, auch wenn du anderer Meinung bist.";
+"tests.result.fear_response.about.signs_description_fawn_2" = "„Ja“ sagen, wenn du „Nein“ meinst.";
+"tests.result.fear_response.about.signs_description_fawn_3" = "Dich zu oft entschuldigen oder die Bedürfnisse anderer über deine eigenen stellen.";
+
+"tests.result.fear_response.about.signs_description_fight_1" = "Schnell wütend werden oder dich wehren.";
+"tests.result.fear_response.about.signs_description_fight_2" = "Laut oder streitsüchtig werden.";
+"tests.result.fear_response.about.signs_description_fight_3" = "Die Angst oder Bedrohung „besiegen“ wollen.";
+
+"tests.result.fear_response.about.signs_description_flight_1" = "Menschen, Orte oder Situationen meiden, die als stressig empfunden werden.";
+"tests.result.fear_response.about.signs_description_flight_2" = "Zappeln oder Unruhe, wenn man das Gefühl hat, nicht fliehen zu können.";
+"tests.result.fear_response.about.signs_description_flight_3" = "Ausreden finden, um vor Herausforderungen „davonzulaufen“.";
+
+"tests.result.fear_response.about.signs_description_freeze_1" = "Man fühlt sich in einem stressigen Moment wie gelähmt oder „erstarrt“.";
+"tests.result.fear_response.about.signs_description_freeze_2" = "Schwierigkeiten beim Denken oder Treffen von Entscheidungen.";
+"tests.result.fear_response.about.signs_description_freeze_3" = "Still werden oder sich aus dem sozialen Leben zurückziehen.";
+
+"tests.result.fear_response.about.reason_title" = "Warum es passiert";
+
+"tests.result.fear_response.about.reason_description_fawn" = "Dein Gehirn glaubt, dass Freundlichkeit und Kooperation verhindern, dass die Bedrohung sich gegen dich wendet.";
+"tests.result.fear_response.about.reason_description_fight" = "Dein Gehirn glaubt, dass der beste Weg, um sicher zu bleiben, darin besteht, sich zu wehren und die Gefahr zu überwinden.";
+"tests.result.fear_response.about.reason_description_flight" = "Dein Gehirn glaubt, dass das Weglaufen vor Gefahren der schnellste Weg ist, um sicher zu bleiben.";
+"tests.result.fear_response.about.reason_description_freeze" = "Das Gehirn glaubt, dass man durch Stillhalten vermeiden kann, von der Bedrohung bemerkt zu werden.";
+
+"tests.result.fear_response.traits.title_fight" = "<c>Kampf</c>-Merkmale";
+"tests.result.fear_response.traits.title_flight" = "<c>Flucht</c>-Merkmale";
+"tests.result.fear_response.traits.title_freeze" = "<c>Erstarren</c>-Merkmale";
+"tests.result.fear_response.traits.title_fawn" = "<c>Beschwichtigen</c>-Merkmale";
+
+"tests.result.fear_response.traits.strength" = "Stärken";
+"tests.result.fear_response.traits.challenges" = "Herausforderungen";
+
+"tests.result.fear_response.traits.strength.fawn_1" = "Hohes Einfühlungsvermögen und Sensibilität für die Bedürfnisse anderer.";
+"tests.result.fear_response.traits.strength.fawn_2" = "Fähigkeit, Harmonie zu schaffen und Konflikte zu vermeiden.";
+"tests.result.fear_response.traits.strength.fawn_3" = "Starke Fähigkeiten in der Fürsorge und Betreuung.";
+"tests.result.fear_response.traits.strength.fawn_4" = "Schnelle Anpassung an soziale Dynamiken.";
+
+"tests.result.fear_response.traits.challenges.fawn_1" = "Schwierigkeiten, Grenzen zu setzen oder „Nein“ zu sagen.";
+"tests.result.fear_response.traits.challenges.fawn_2" = "Übermäßiges Bedürfnis nach externer Bestätigung.";
+"tests.result.fear_response.traits.challenges.fawn_3" = "Gefahr, persönliche Bedürfnisse oder Wünsche zu vernachlässigen.";
+"tests.result.fear_response.traits.challenges.fawn_4" = "Kann zu Burnout oder Ressentiments führen.";
+
+"tests.result.fear_response.traits.strength.fight_1" = "Mut und Bereitschaft, für sich selbst oder andere einzustehen.";
+"tests.result.fear_response.traits.strength.fight_2" = "Schnelles Handeln in Stresssituationen.";
+"tests.result.fear_response.traits.strength.fight_3" = "Starke Führungsqualitäten und Durchsetzungsvermögen.";
+"tests.result.fear_response.traits.strength.fight_4" = "Fähigkeit, bei Bedarf zu beschützen und zu verteidigen.";
+
+"tests.result.fear_response.traits.challenges.fight_1" = "Kann Konflikte unnötig eskalieren lassen.";
+"tests.result.fear_response.traits.challenges.fight_2" = "Gefahr, als aggressiv oder streitsüchtig wahrgenommen zu werden.";
+"tests.result.fear_response.traits.challenges.fight_3" = "Schwierigkeiten, mit Ärger oder Frustration umzugehen.";
+"tests.result.fear_response.traits.challenges.fight_4" = "Schwierigkeiten, die Perspektive anderer zu verstehen.";
+
+"tests.result.fear_response.traits.strength.flight_1" = "Schnelles Erkennen von Gefahren und Fähigkeit, Schaden zu vermeiden.";
+"tests.result.fear_response.traits.strength.flight_2" = "Sehr erfinderisch bei der Suche nach Lösungen oder Fluchtmöglichkeiten.";
+"tests.result.fear_response.traits.strength.flight_3" = "Starke organisatorische Fähigkeiten zur Kontrolle unvorhersehbarer Situationen.";
+"tests.result.fear_response.traits.strength.flight_4" = "Gut darin, Unabhängigkeit und Selbstständigkeit zu bewahren.";
+
+"tests.result.fear_response.traits.challenges.flight_1" = "Neigung dazu, Probleme oder Verantwortung zu vermeiden.";
+"tests.result.fear_response.traits.challenges.flight_2" = "Kann zu chronischer Angst oder übermäßiger Planung führen.";
+"tests.result.fear_response.traits.challenges.flight_3" = "Schwierigkeiten, Konflikte oder schwierige Gespräche zu führen.";
+"tests.result.fear_response.traits.challenges.flight_4" = "Risiko, aufgrund von Vermeidungsverhalten Chancen zu verpassen.";
+
+"tests.result.fear_response.traits.strength.freeze_1" = "Beobachtend und nachdenklich in angespannten Situationen.";
+"tests.result.fear_response.traits.strength.freeze_2" = "Fähigkeit, innezuhalten, um Optionen zu bewerten, bevor man handelt.";
+"tests.result.fear_response.traits.strength.freeze_3" = "Fähigkeit, in sehr stressigen Momenten Energie zu bewahren.";
+"tests.result.fear_response.traits.strength.freeze_4" = "Hervorragend darin, sich in Umgebungen einzufügen, um Risiken zu reduzieren.";
+
+"tests.result.fear_response.traits.challenges.freeze_1" = "Neigung zu Untätigkeit oder Unentschlossenheit unter Druck.";
+"tests.result.fear_response.traits.challenges.freeze_2" = "Kann mit Dissoziation oder dem Gefühl, „festzusitzen“, zu kämpfen haben.";
+"tests.result.fear_response.traits.challenges.freeze_3" = "Schwierigkeiten, schnell zu reagieren, wenn Eile geboten ist.";
+"tests.result.fear_response.traits.challenges.freeze_4" = "Kann zu anhaltendem Stress oder verpassten Chancen führen.";
+
+"tests.result.fear_response.compare.title_fight" = "Gesunde VS Ungesunde <c>Kampf</c>-Reaktion";
+"tests.result.fear_response.compare.title_flight" = "Gesunde VS Ungesunde <c>Flucht</c>-Reaktion";
+"tests.result.fear_response.compare.title_freeze" = "Gesunde VS Ungesunde <c>Erstarren</c>-Reaktion";
+"tests.result.fear_response.compare.title_fawn" = "Gesunde VS Ungesunde <c>Beschwichtigen</c>-Reaktion";
+
+"tests.result.fear_response.compare.healthy" = "Gesund";
+"tests.result.fear_response.compare.unhealthy" = "Ungesund";
+
+"tests.result.fear_response.compare.strength.fawn_1" = "Grenzen setzen, aber dennoch freundlich und kooperativ sein.";
+"tests.result.fear_response.compare.strength.fawn_2" = "„Nein“ sagen, wenn es notwendig ist, um das eigene Wohlbefinden zu schützen.";
+"tests.result.fear_response.compare.strength.fawn_3" = "Die Balance finden, anderen zu helfen und sich um sich selbst zu kümmern.";
+
+"tests.result.fear_response.compare.challenges.fawn_1" = "Ständig den Menschen gefallen wollen, um Konflikte zu vermeiden, auch auf eigene Kosten.";
+"tests.result.fear_response.compare.challenges.fawn_2" = "Sich zu oft entschuldigen oder eigene Bedürfnisse aufgeben.";
+"tests.result.fear_response.compare.challenges.fawn_3" = "Seine Identität und Werte vernachlässigen, um andere glücklich zu machen.";
+
+"tests.result.fear_response.compare.strength.fight_1" = "Sich ruhig behaupten und für seine Rechte oder Überzeugungen einstehen.";
+"tests.result.fear_response.compare.strength.fight_2" = "Seine Energie nutzen, um andere zu schützen oder Probleme effektiv zu lösen.";
+"tests.result.fear_response.compare.strength.fight_3" = "Mit Frustration konstruktiv umgehen, z. B. durch Bewegung oder kreative Betätigung.";
+
+"tests.result.fear_response.compare.challenges.fight_1" = "Aggressiv reagieren oder andere angreifen.";
+"tests.result.fear_response.compare.challenges.fight_2" = "Übermäßig kontrollierend oder streitsüchtig sein, auch wenn es unnötig ist.";
+"tests.result.fear_response.compare.challenges.fight_3" = "Konflikte eskalieren lassen, anstatt sie zu lösen.";
+
+"tests.result.fear_response.compare.strength.flight_1" = "Sich aus schädlichen oder überwältigenden Situationen zurückziehen, um sich neu zu formieren.";
+"tests.result.fear_response.compare.strength.flight_2" = "Die Zeit allein nutzen, um neue Energie zu tanken und über Lösungen nachzudenken.";
+"tests.result.fear_response.compare.strength.flight_3" = "Wirklich toxische Umgebungen oder Beziehungen meiden.";
+
+"tests.result.fear_response.compare.challenges.flight_1" = "Probleme oder Verantwortlichkeiten ganz vermeiden, was zu verpassten Chancen führt.";
+"tests.result.fear_response.compare.challenges.flight_2" = "Ständig dem Stress durch Ablenkungen wie übermäßige Bildschirmzeit oder Überarbeitung entfliehen.";
+"tests.result.fear_response.compare.challenges.flight_3" = "Beziehungen oder Herausforderungen, die durch Kommunikation gelöst werden könnten, zu meiden.";
+
+"tests.result.fear_response.compare.strength.freeze_1" = "Sich einen Moment Zeit zu nehmen, um innezuhalten und nachzudenken, bevor man handelt, insbesondere in Situationen, in denen viel auf dem Spiel steht.";
+"tests.result.fear_response.compare.strength.freeze_2" = "Die Umgebung beobachten, um eine durchdachte Entscheidung zu treffen.";
+"tests.result.fear_response.compare.strength.freeze_3" = "Achtsamkeit zu üben, um unter Druck ruhig zu bleiben.";
+
+"tests.result.fear_response.compare.challenges.freeze_1" = "Sich in kritischen Momenten festgefahren oder handlungsunfähig fühlen.";
+"tests.result.fear_response.compare.challenges.freeze_2" = "Sich emotional oder mental von Situationen zu distanzieren, die Aufmerksamkeit erfordern.";
+"tests.result.fear_response.compare.challenges.freeze_3" = "Entscheidungen aus Angst vor dem Scheitern aufschieben oder vermeiden.";
+
+"tests.result.fear_response.charts.title" = "Deine anderen Reaktionen";
+"tests.result.fear_response.about_types.title" = "Über andere Reaktionen";
+
+"tests.result.fear_response.about_types.fight_type" = "Kampf-Typ";
+"tests.result.fear_response.about_types.flight_type" = "Flucht-Typ";
+"tests.result.fear_response.about_types.fawn_type" = "Beschwichtigen-Typ";
+"tests.result.fear_response.about_types.freeze_type" = "Erstarren-Typ";
+
+"tests.result.fear_response.about_types.match" = "Match";
+
+"tests.result.fear_response.about_types.dominant.fawn.description.fight" = "Der Instinkt, sich der Angst entgegenzustellen, oft mit Durchsetzungsvermögen oder Aggression. Es geht darum, die Kontrolle zu übernehmen, um die Bedrohung zu neutralisieren.";
+"tests.result.fear_response.about_types.dominant.fawn.description.flight" = "Der Drang, der Quelle der Angst zu entkommen. Dies kann bedeuten, dass man eine Situation physisch verlässt oder sich mental zurückzieht.";
+"tests.result.fear_response.about_types.dominant.fawn.description.freeze" = "Körper und Geist „pausieren“, um die Situation einzuschätzen. Es ist, als würde man einen mentalen Reset-Knopf drücken, wenn das Gehirn sich überfordert fühlt.";
+
+"tests.result.fear_response.about_types.dominant.fight.description.fawn" = "Dies ist die „menschenfreundliche“ Reaktion. Wenn man mit Angst konfrontiert ist, konzentriert man sich darauf, andere glücklich zu machen, um Spannungen abzubauen und Konflikte zu vermeiden.";
+"tests.result.fear_response.about_types.dominant.fight.description.flight" = "Der Drang, der Quelle der Angst zu entkommen. Dies kann bedeuten, dass man eine Situation physisch verlässt oder sich mental zurückzieht.";
+"tests.result.fear_response.about_types.dominant.fight.description.freeze" = "Körper und Geist „pausieren“, um die Situation einzuschätzen. Es ist, als würde man einen mentalen Reset-Knopf drücken, wenn das Gehirn sich überfordert fühlt.";
+
+"tests.result.fear_response.about_types.dominant.flight.description.fawn" = "Dies ist die „menschenfreundliche“ Reaktion. Wenn man mit Angst konfrontiert ist, konzentriert man sich darauf, andere glücklich zu machen, um Spannungen abzubauen und Konflikte zu vermeiden.";
+"tests.result.fear_response.about_types.dominant.flight.description.fight" = "Der Instinkt, sich der Angst entgegenzustellen, oft mit Durchsetzungsvermögen oder Aggression. Es geht darum, die Kontrolle zu übernehmen, um die Bedrohung zu neutralisieren.";
+"tests.result.fear_response.about_types.dominant.flight.description.freeze" = "Körper und Geist „pausieren“, um die Situation einzuschätzen. Es ist, als würde man einen mentalen Reset-Knopf drücken, wenn das Gehirn sich überfordert fühlt.";
+
+"tests.result.fear_response.about_types.dominant.freeze.description.fight" = "Der Instinkt, sich der Angst entgegenzustellen, oft mit Durchsetzungsvermögen oder Aggression. Es geht darum, die Kontrolle zu übernehmen, um die Bedrohung zu neutralisieren.";
+"tests.result.fear_response.about_types.dominant.freeze.description.fawn" = "Dies ist die „menschenfreundliche“ Reaktion. Wenn man mit Angst konfrontiert ist, konzentriert man sich darauf, andere glücklich zu machen, um Spannungen abzubauen und Konflikte zu vermeiden.";
+"tests.result.fear_response.about_types.dominant.freeze.description.flight" = "Der Drang, der Quelle der Angst zu entkommen. Dies kann bedeuten, dass man eine Situation physisch verlässt oder sich mental zurückzieht.";
+
+"tests.result.fear_response.manage.dominant.fawn.title" = "Wie man damit umgeht <c>Beschwichtigen</c>-Typ";
+
+"tests.result.fear_response.manage.dominant.fawn.subtitle_1" = "Übe „Nein“ zu sagen";
+"tests.result.fear_response.manage.dominant.fawn.description_1" = "Beginne mit kleinen Verweigerungen, um Fähigkeiten zur Grenzsetzung aufzubauen";
+"tests.result.fear_response.manage.dominant.fawn.subtitle_2" = "Selbstfürsorge";
+"tests.result.fear_response.manage.dominant.fawn.description_2" = "Priorisiere, was dir Wertschätzung und Freude gibt";
+"tests.result.fear_response.manage.dominant.fawn.subtitle_3" = "Finde ein gesundes Maß an Freundlichkeit";
+"tests.result.fear_response.manage.dominant.fawn.description_3" = "Zeige auch dir selbst gegenüber Mitgefühl!";
+"tests.result.fear_response.manage.dominant.fawn.subtitle_4" = "Sag, was du brauchst";
+"tests.result.fear_response.manage.dominant.fawn.description_4" = "Übe klare, durchsetzungsfähige Kommunikation";
+
+"tests.result.fear_response.manage.dominant.fight.title" = "Wie man damit umgeht <c>Kampf</c>-Typ";
+
+"tests.result.fear_response.manage.dominant.fight.subtitle_1" = "Atme zuerst";
+"tests.result.fear_response.manage.dominant.fight.description_1" = "Halte inne und atme tief durch, bevor du reagierst";
+"tests.result.fear_response.manage.dominant.fight.subtitle_2" = "Lass es raus durch Bewegung";
+"tests.result.fear_response.manage.dominant.fight.description_2" = "Lenke Energie durch körperliche Aktivität";
+"tests.result.fear_response.manage.dominant.fight.subtitle_3" = "Sprich ruhig";
+"tests.result.fear_response.manage.dominant.fight.description_3" = "Übe durchsetzungsfähige, respektvolle Kommunikation";
+"tests.result.fear_response.manage.dominant.fight.subtitle_4" = "Beachte die Sichtweise anderer";
+"tests.result.fear_response.manage.dominant.fight.description_4" = "Betrachte die Situation aus verschiedenen Perspektiven";
+
+"tests.result.fear_response.manage.dominant.flight.title" = "Wie man damit umgeht <c>Flucht</c>-Typ";
+
+"tests.result.fear_response.manage.dominant.flight.subtitle_1" = "Bleibe präsent";
+"tests.result.fear_response.manage.dominant.flight.description_1" = "Verwende erdende Techniken, wie die Konzentration auf die Sinne";
+"tests.result.fear_response.manage.dominant.flight.subtitle_2" = "Teile es auf";
+"tests.result.fear_response.manage.dominant.flight.description_2" = "Teile Ängste in machbare Schritte auf";
+"tests.result.fear_response.manage.dominant.flight.subtitle_3" = "Führe Problemlösungen herbei";
+"tests.result.fear_response.manage.dominant.flight.description_3" = "Plane kleine Schritte, um das Problem anzugehen, nicht um ihm zu entkommen";
+"tests.result.fear_response.manage.dominant.flight.subtitle_4" = "Visualisiere Ruhe";
+"tests.result.fear_response.manage.dominant.flight.description_4" = "Stelle dir ein positives oder ruhiges Ergebnis vor";
+
+"tests.result.fear_response.manage.dominant.freeze.title" = "Wie man damit umgeht <c>Erstarren</c>-Typ";
+
+"tests.result.fear_response.manage.dominant.freeze.subtitle_1" = "Mache kleine Schritte";
+"tests.result.fear_response.manage.dominant.freeze.description_1" = "Teile Aufgaben auf, um voranzukommen";
+"tests.result.fear_response.manage.dominant.freeze.subtitle_2" = "Fühle dich";
+"tests.result.fear_response.manage.dominant.freeze.description_2" = "Erde dich mithilfe von Berührungen, um Gefühle der Lähmung zu lindern";
+"tests.result.fear_response.manage.dominant.freeze.subtitle_3" = "Selbstmitgefühl";
+"tests.result.fear_response.manage.dominant.freeze.description_3" = "Sei nachsichtig mit dir selbst; Erstarrung ist normal!";
+"tests.result.fear_response.manage.dominant.freeze.subtitle_4" = "Achtsamkeit";
+"tests.result.fear_response.manage.dominant.freeze.description_4" = "Stimme dich auf deinen Körper ein, um dich wieder zu spüren";
+
+// MARK: WebToWEbStartFlow
+
+"webToWebStart.title" = "Dein IQ-Bericht";
+"webToWebStart.bottom.title" = "Wähle deine nächste Aktivität";
+"webToWebStart.content.title" = "Basierend auf deinen Antworten im Online-IQ-Test:";
+"webToWebStart.content.score_title" = "Dein IQ";
+"webToWebStart.content.classification_title" = "Einstufung";
+"webToWebStart.content.classification_description" = "hoch";
+"webToWebStart.content.about_title" = "Was kommt als Nächstes?";
+"webToWebStart.content.about_description_0" = "Beantworte mehr Fragen, um <c>detaillierte Berichte zu erhalten</c> über deine Intelligenz und deinen Persönlichkeitstyp.";
+"webToWebStart.content.about_description_1" = "Oder starte dein persönliches Gehirntraining, um <c>deine IQ-Punktzahl zu steigern</c>!";
+"webToWebStart.game_button.title" = "Trainiere Dein Gehirn";
+"webToWebStart.tests_button.title" = "Entdecke Tests";
+
+
+// MARK: ScientificInsight
+
+"scientificInsight.colorCheck.message1" = "🥳 Wow! Geschafft!\nFinde die Farbe basierend auf dem <c>Stroop-Effekt</c>";
+"scientificInsight.colorCheck.message2" = "📚 Der <c>Stroop-Effekt</c> zeigt, dass unser Gehirn Text schneller liest als Farben erkennt. Konflikte hierbei führen zu Verwirrung";
+"scientificInsight.colorCheck.message3" = "💡 Die Arbeit mit widersprüchlichen Informationen <c>fördert die geistige Flexibilität</c> und die kreative Lösungsfindung im Alltag";
+
+"scientificInsight.memoryEclipse.message1" = "🥳 Super gemacht!\nSternen-Memory basiert auf <c>Memory Matrix</c>";
+"scientificInsight.memoryEclipse.message2" = "📚 <c>Memory Matrix</c> – Elemente im Raster merken zur Förderung von  Aufmerksamkeit, Gedächtnis und Konzentration";
+"scientificInsight.memoryEclipse.message3" = "💡 Memory-Matrix-Übungen <c>verbessern das Zeitmanagement, die Aufgabenorganisation</c> und die visuellen Datenverarbeitung";
+
+"scientificInsight.typoHunt.message1" = "🥳 Top! Tippfehlersuche zur <c>Entwicklung des bilateralen Denkens</c>";
+"scientificInsight.typoHunt.message2" = "📚 Die linke Gehirnhälfte konzentriert sich auf die Grammatik, die rechte auf Kontext und Bedeutung – so <c>lernen die beiden, besser zusammenzuarbeiten</c>";
+"scientificInsight.typoHunt.message3" = "💡 Bewegung <c>fördert Aufmerksamkeit</c>, das kritische und analytische Denken sowie die Sprache";
+
+"scientificInsight.reviewTitle" = "Ist das nicht wissenschaftlich interessant?";
+"scientificInsight.viewResult" = "MEIN ERGEBNIS ANSEHEN";
+
