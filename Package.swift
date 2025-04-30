@@ -17,6 +17,7 @@ let package = Package(
     targets: [
         .target(
             name: "SupernovaLocalization",
+            path: "Sources",
             resources: [
                 .process("Resources")
             ]
