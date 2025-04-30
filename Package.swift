@@ -14,13 +14,11 @@ let package = Package(
             name: "SupernovaLocalization",
             targets: ["SupernovaLocalization"]),
     ],
-    dependencies: [
-    ],
     targets: [
         .target(
             name: "SupernovaLocalization",
             resources: [
-                .process("Localizations")
+                .process("Resources")
             ]
         ),
         .testTarget(
