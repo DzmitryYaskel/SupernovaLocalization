@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "SupernovaLocalization",
+    defaultLocalization: "en",
     platforms: [
         .iOS(.v15)
     ],
